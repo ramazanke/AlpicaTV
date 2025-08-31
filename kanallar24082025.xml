@@ -27,12 +27,12 @@
     </channel>
     <channel>
         <name>NOW</name>
-        <url>http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8</url>
+        <url>https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8</url>
         <logo>https://www.ecanlitvizle.live/logo/now-tv-canli-izle.png</logo>
     </channel>
     <channel>
         <name>TV_8</name>
-        <url>https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&amp;sid=7nkw2rqglqvh&amp;app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&amp;ce=3</url>
+        <url>https://tv8-live.daioncdn.net/tv8/tv8.m3u8</url>
         <logo>https://www.ecanlitvizle.live/logo/tv-8-canli-2.png</logo>
     </channel>
     <channel>
@@ -52,7 +52,7 @@
     </channel>
     <channel>
         <name>A2</name>
-        <url>https://www.atv.com.tr/a2tv/canli-yayin</url>
+        <url>http://89.187.191.41/A2-HD-TR/video.m3u8</url>
         <logo>https://www.ecanlitvizle.live/logo/a2-tv-canli.png</logo>
     </channel>
     <channel>
@@ -127,7 +127,7 @@
     </channel>
     <channel>
         <name>TELE1</name>
-        <url>https://cdn402.ecanlitvizle.live/tele1.m3u8?tkn=DePiMAxKa1xb9m8P6HlClg&amp;tms=1755011244&amp;hst=www.ecanlitvizle.live&amp;ip=78.174.157.43</url>
+        <url>https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8</url>
         <logo>https://www.ecanlitvizle.live/logo/tele-1-izle.png</logo>
     </channel>
     <channel>
