@@ -31,7 +31,7 @@
 </channel>
 <channel>
 <name>TV8</name>
-<url>http://pasurl.noipdns.uk:2052/live/123456789/123456789/12475.ts</url>
+<url>https://raw.githubusercontent.com/exfair/tv/refs/heads/main/code/tv8.m3u8</url>
 <logo>https://i.ibb.co/WpD6fkQJ/13.png</logo>
 </channel>
 <channel>
