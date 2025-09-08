@@ -1,90 +1,68 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HDizle</title>
-    <style>
-        body {
-            background-color: #000;
-            color: #fff;
-            font-family: sans-serif;
-            margin: 0;
-            padding: 0;
-            overflow: hidden; /* Sayfanın kendisinin kaymasını engeller */
-        }
-
-        #webview-container {
-            width: 100vw;
-            height: 100vh;
-            border: none;
-        }
-
-        /* Kumanda odaklanma stili */
-        .focused {
-            outline: 3px solid red;
-            transform: scale(1.05);
-            transition: transform 0.2s, outline 0.2s;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bugünkü Maçlar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f4f6f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #222;
+    }
+    #matches {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      min-height: 100px;
+    }
+    #last-update {
+      text-align: center;
+      margin-top: 15px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
+  <h1>📺 Bugünkü Maçlar</h1>
+  <div id="matches">Yükleniyor...</div>
+  <div id="last-update"></div>
 
-    <iframe id="webview-container" src="https://hdizle.one/" frameborder="0"></iframe>
+  <script>
+    async function loadMatches() {
+      try {
+        let response = await fetch("https://api.allorigins.win/raw?url=" + encodeURIComponent("https://www.tvyayinakisi.com/bugunku-maclar/"));
+        let text = await response.text();
 
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const iframe = document.getElementById('webview-container');
+        let parser = new DOMParser();
+        let doc = parser.parseFromString(text, "text/html");
 
-            // iframe içeriğine erişmek için güvenlik kısıtlamaları olabilir.
-            // Bu kod, aynı alan adından içerik yüklendiğinde çalışacaktır.
-            // hdizle.one farklı bir alan adı olduğu için bu kısım büyük ihtimalle çalışmayacaktır.
-            // O yüzden bu kodu direkt webView'e enjekte etmeniz daha mantıklı.
-            // Bu, sadece deneme amaçlıdır.
-            iframe.onload = function() {
-                try {
-                    const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-                    
-                    // iframe içindeki gezinme kodunu burada çalıştırıyoruz
-                    let links = Array.from(iframeDoc.querySelectorAll('a, button'));
-                    let currentIndex = 0;
+        let element = doc.querySelector(".detail-days.no-padding-top");
 
-                    if (links.length > 0) {
-                        links[currentIndex].classList.add('focused');
-                        links[currentIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    }
+        if (element) {
+          document.getElementById("matches").innerHTML = element.outerHTML;
+          document.getElementById("last-update").innerText =
+            "Son güncelleme: " + new Date().toLocaleTimeString("tr-TR");
+        } else {
+          document.getElementById("matches").innerText = "İçerik bulunamadı.";
+        }
+      } catch (e) {
+        document.getElementById("matches").innerText = "Veri alınamadı (CORS veya bağlantı hatası).";
+      }
+    }
 
-                    iframeDoc.addEventListener('keydown', (e) => {
-                        if (links.length === 0) return;
-
-                        links[currentIndex].classList.remove('focused');
-
-                        switch (e.key) {
-                            case 'ArrowDown':
-                            case 'ArrowRight':
-                                currentIndex = (currentIndex + 1) % links.length;
-                                break;
-                            case 'ArrowUp':
-                            case 'ArrowLeft':
-                                currentIndex = (currentIndex - 1 + links.length) % links.length;
-                                break;
-                            case 'Enter':
-                                links[currentIndex].click();
-                                e.preventDefault();
-                                return;
-                        }
-
-                        links[currentIndex].classList.add('focused');
-                        links[currentIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
-                        e.preventDefault();
-                    });
-                } catch (e) {
-                    console.error("iframe içeriğine erişim engellendi:", e);
-                    // Bu hatayı almanız muhtemel.
-                }
-            };
-        });
-    </script>
-
+    // İlk yükleme
+    loadMatches();
+    // Her 5 dakikada bir güncelle
+    setInterval(loadMatches, 5 * 60 * 1000);
+  </script>
 </body>
 </html>
