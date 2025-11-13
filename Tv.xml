@@ -1,589 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <channels>
-<channel>
-<name>TRT1</name>
-<url>https://tv-trt1.medya.trt.com.tr/master_720.m3u8</url>
-<logo>https://i.ibb.co/Cp0dbf8G/3.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>ATV</name>
-<url>http://livasupport99.xyz:80/ercan0210/JWb2EkRx2h/865017</url>
-<logo>https://i.ibb.co/xq5fyKM9/5.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>Kanal_D</name>
-<url>http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61</url>
-<logo>https://i.ibb.co/tp3Tt0dP/11.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>ShowTV</name>
-<url>https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8</url>
-<logo>https://i.ibb.co/0VrWCDw1/9.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>StarTV</name>
-<url>https://dogus-live.daioncdn.net/startv/startv.m3u8</url>
-<logo>https://i.ibb.co/fYxJrDz3/46.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>NowTV</name>
-<url>http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8</url>
-<logo>https://i.ibb.co/Y7pp9kL5/15.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>TV8</name>
-<url>https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8</url>
-<logo>https://i.ibb.co/WpD6fkQJ/13.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>TV8,5</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849307</url>
-<logo>https://i.ibb.co/xSs74fTh/23.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>BeyazTV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849309</url>
-<logo>https://i.ibb.co/YFBrV8s1/17.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>KANAL7</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849311</url>
-<logo>https://i.ibb.co/qYtPPR5F/19.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>Teve2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849314</url>
-<logo>https://i.ibb.co/fVRVGSXQ/21.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>A2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849316</url>
-<logo>https://i.ibb.co/tPYy5jWK/25.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>360TV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849318</url>
-<logo>https://i.ibb.co/cKP7q1gH/37.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>TRT2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849333</url>
-<logo>https://i.ibb.co/5xgJBptV/43.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>TRT3</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849334</url>
-<logo>https://i.ibb.co/b51WzkRd/37.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
-<channel>
-<name>TvNet</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849555</url>
-<logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TV.NET.png</logo>
-<group-title>Ulusal</group-title>
-</channel>
----
-<channel>
-<name>HalkTV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849532</url>
-<logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/HALK.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>TRTHaber</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866457</url>
-<logo>https://i.ibb.co/DgkF1Q4m/owx6ErH.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>CNNTURK</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866459</url>
-<logo>https://i.ibb.co/Rk5f6Kxy/naApqjA.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>SozcuTV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866461</url>
-<logo>https://i.ibb.co/JR8GhJfh/SZC.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>HalkTV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866462</url>
-<logo>https://i.ibb.co/SDfysV2p/Rc9EOKS.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>NTV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866464</url>
-<logo>https://i.ibb.co/r2QvPYYK/MSjiavw.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>Haberturk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866466</url>
-<logo>https://i.ibb.co/mCKZBq5h/BDUUDMx.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>AHaber</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866470</url>
-<logo>https://i.ibb.co/tPpps02w/zVB7Ton.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>24Haber</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866473</url>
-<logo>https://i.ibb.co/7xWz7R61/24-TV-logosu.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>TGRTHaber</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866478</url>
-<logo>https://i.ibb.co/C3nhy71R/27RstWf.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>Tele1</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849551</url>
-<logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TELE.1.png</logo>
-<group-title>Haber</group-title>
-</channel>
-<channel>
-<name>Tv100</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/849553</url>
-<logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TV.100.png</logo>
-<group-title>Haber</group-title>
-</channel>
----
-<channel>
-<name>TRTCocuk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865267</url>
-<logo>https://i.ibb.co/cX6zymfS/akVe0dn.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>MinikaCocuk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865270</url>
-<logo>https://i.ibb.co/svFLBmqm/oNpTtSm.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>BoomerangCocuk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865271</url>
-<logo>https://i.ibb.co/v6jFczn5/sFjVGyM.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>CartoonNetwork</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865273</url>
-<logo>https://i.ibb.co/4R5Sj0HR/i6G3nsq.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>DisneyJunior</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865275</url>
-<logo>https://i.ibb.co/6Rq4dd6t/Um5V5Wk.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>DsmartCocuk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865277</url>
-<logo>https://i.ibb.co/tMh2mMyM/srng8on.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>Nicktoons</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861279</url>
-<logo>https://i.ibb.co/zHQ6wL5/LIVE-LOGO-PNG.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>CartoonNetwork</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861284</url>
-<logo>https://i.ibb.co/20vhz3rW/cartoon.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>DisneyJr</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861285</url>
-<logo>https://i.ibb.co/mVWh3DjP/32574651421.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>MinikaCocuk</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861287</url>
-<logo>https://i.ibb.co/svFLBmqm/oNpTtSm.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>Cartoonito</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861283</url>
-<logo>http://135.125.239.110/icon/100103.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
-<channel>
-<name>DemirAdam</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/861300</url>
-<logo>http://135.125.239.110/icon/392289.png</logo>
-<group-title>Çocuk</group-title>
-</channel>
----
-<channel>
-<name>beINSeries1</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860710</url>
-<logo>https://i.ibb.co/yn25bF0M/BEIN-SERIES-1.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>beINSeries2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860711</url>
-<logo>https://i.ibb.co/yn25bF0M/BEIN-SERIES-1.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>beINSeries3</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860712</url>
-<logo>https://i.ibb.co/N2j3MnRt/BEIN-SERIES-3.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>beINSeries4</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860713</url>
-<logo>https://i.ibb.co/Nnp6BMkR/BEIN-SERIES-SCI-FI.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>beINMoviesPremiere</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860714</url>
-<logo>https://i.ibb.co/ymrdqgfH/BEIN-MOVIES-PREMIERE.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>beINMoviesPremiere2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860715</url>
-<logo>https://i.ibb.co/Jj1S2gZB/BEIN-MOVIES-PREMIERE-2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>SinemaTV1001</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860722</url>
-<logo>https://i.ibb.co/vvj28fcT/SINEMA-TV-1001.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>SinemaTV1002</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860723</url>
-<logo>https://i.ibb.co/6JpKQm02/SINEMA-TV-1002.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_TV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860724</url>
-<logo>https://i.ibb.co/spKtRxX0/SINEMA-TV.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>SinemaTV2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860725</url>
-<logo>https://i.ibb.co/7Jdz6svc/SINEMA-TV-2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>SinemaTVAile</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860726</url>
-<logo>https://i.ibb.co/wh2L1jq3/SINEMA-TV-AILE.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>SinemaTVAile2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860727</url>
-<logo>https://i.ibb.co/7d42KGF7/SINEMA-TV-AILE-2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_TV_Aksiyon</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860728</url>
-<logo>https://i.ibb.co/LsrHhJX/SINEMA-TV-AKSIYON.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_Tv_Aksiyon_2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860729</url>
-<logo>https://i.ibb.co/5hFD9Zdj/SINEMA-TV-AKSIYON-2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_Tv_Komedi</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860730</url>
-<logo>https://i.ibb.co/Rp9x4c19/SINEMA-TV-KOMEDI.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_Tv_Yerli</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860731</url>
-<logo>https://i.ibb.co/7xn2Ndzv/sinema-yerli.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_Sinema_Tv_Yerli_2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860732</url>
-<logo>https://i.ibb.co/35yYGkFP/sinema-Yerli2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_beIN_BOX_OFFICE_1</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860734</url>
-<logo>https://i.ibb.co/7JvGKxMS/BEIN-BOX-OFFICE-1.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_beIN_BOX_OFFICE_2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860735</url>
-<logo>https://i.ibb.co/svPBrYft/BEIN-BOX-OFFICE-2.png</logo>
-<group-title>Sinema</group-title>
-</channel>
-<channel>
-<name>TR:_beIN_BOX_OFFICE_3</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860736</url>
-<logo>https://i.ibb.co/75qF5mq/BEIN-BOX-OFFICE-3.png</logo>
-<group-title>Sinema</group-title>
-</channel>
----
-<channel>
-<name>Smart_Spor_1_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865598</url>
-<logo>https://i.ibb.co/r2RrchDD/22.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>Smart_Spor_2_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865600</url>
-<logo>https://i.ibb.co/23ZH0gf6/24.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>HT_Spor_Hd</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865603</url>
-<logo>https://i.ibb.co/HcG36FL/11.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>A_Spor_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865605</url>
-<logo>https://i.ibb.co/G3Mm17y7/2.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>NBA_TV_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865608</url>
-<logo>https://i.ibb.co/nqxrQWzt/13.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>TR:_GS_TV</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/850176</url>
-<logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/TR.SPOR/GS.TV.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>TRT_Spor_Yildiz_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865597</url>
-<logo>https://i.ibb.co/SDBWy0yx/TRT-SPOR-YILDIZ.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>TRT_Spor_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865595</url>
-<logo>https://i.ibb.co/F497g0yb/TRT-SPOR.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>TR:_S_Sport_1_RAW</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866996</url>
-<logo>https://i.ibb.co/KjcXZDyQ/14.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>TR:_S_Sport_2_RAW</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/866998</url>
-<logo>https://i.ibb.co/tTjJPJSS/16.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>beIN_Sports_1_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/65245</url>
-<logo>https://i.ibb.co/KxGRttW8/14.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>beIN_Sports_1_HD_[_VIP_]</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/837269</url>
-<logo>https://i.ibb.co/KxGRttW8/14.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>BeIN_Sports_1_[50Fps]</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/855331</url>
-<logo>https://i.ibb.co/tMn61tWm/13.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>beIN_Sports_2_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/19</url>
-<logo>https://i.ibb.co/RprjBxcP/18.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>beIN_Sports_3_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/20</url>
-<logo>https://i.ibb.co/MydcC94G/21.png</logo>
-<group-title>Spor</group-title>
-</channel>
-<channel>
-<name>beIN_Sports_MAX_1_HD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/28</url>
-<logo>https://i.ibb.co/C55cznGs/27.png</logo>
-<group-title>Spor</group-title>
-</channel>
----
-<channel>
-<name>NATUREESCAPE</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/865066</url>
-<logo>https://i.ibb.co/cXwGY0rR/NATURO-ESPACE.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>beINHE</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860635</url>
-<logo>https://i.ibb.co/gZyjsHcP/beinhe.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>beINGURME</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860636</url>
-<logo>https://i.ibb.co/4gfSNnXD/qqNKQeR.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>beINIZ</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860637</url>
-<logo>https://i.ibb.co/dwZr4XTh/ELHdRqI.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>NationalGeographicFHD</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860624</url>
-<logo>https://i.ibb.co/v23v0QR/oIX9iHF.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>NatGeoWild</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860625</url>
-<logo>https://i.ibb.co/27HJw3Qm/ScYbqeU.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>DiscoveryID</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860626</url>
-<logo>https://i.ibb.co/MWYLKWS/x8QABDy.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>DiscoveryChannel</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860627</url>
-<logo>https://i.ibb.co/PZMjtkhV/CJulOgw.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>ViasatHistory</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860628</url>
-<logo>https://i.ibb.co/fVR8S1zQ/Vl1lWYq.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>ViasatExplore</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860629</url>
-<logo>https://i.ibb.co/1Jhw8Ntj/GsgtjhH.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>ViasatNature</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860630</url>
-<logo>https://i.ibb.co/Kxvh3Cnx/q5fo-Cm1j-ZMex.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>HistoryChannel</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860631</url>
-<logo>https://i.ibb.co/fVR8S1zQ/Vl1lWYq.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Tarih</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860638</url>
-<logo>https://i.ibb.co/tMBjwyRz/TARIH-TV.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>BBCEarth</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860640</url>
-<logo>https://i.ibb.co/tPhS20G4/4uJesg4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>DMAX</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860641</url>
-<logo>https://i.ibb.co/ds5cCqpD/N5PyZ6q.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>TGRTBelgesel</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860643</url>
-<logo>https://i.ibb.co/Q7xw5rZS/XpuPcAN.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Belgesel1</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860659</url>
-<logo>https://i.ibb.co/Cpt7Gksn/4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Belgesel2</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860660</url>
-<logo>https://i.ibb.co/Cpt7Gksn/4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Belgesel3</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860661</url>
-<logo>https://i.ibb.co/Cpt7Gksn/4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Belgesel4</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860662</url>
-<logo>https://i.ibb.co/Cpt7Gksn/4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
-<channel>
-<name>Belgesel5</name>
-<url>http://livasupport99.xyz:80/m.tekbile/t6cdULwddM/860663</url>
-<logo>https://i.ibb.co/Cpt7Gksn/4.png</logo>
-<group-title>Belgesel</group-title>
-</channel>
+    <channel>
+        <name>TRT_1</name>
+        <url>https://tv-trt1.medya.trt.com.tr/master.m3u8</url>
+        <logo>https://i.ibb.co/Cp0dbf8G/3.png</logo>
+    </channel>
+    <channel>
+        <name>ATV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849295</url>
+        <logo>https://i.ibb.co/Z60WsqWR/45.png</logo>
+    </channel>
+    <channel>
+        <name>Kanal_D</name>
+        <url>http://pasurl.noipdns.uk:2052/live/123456789/123456789/12480.ts</url>
+        <logo>https://i.ibb.co/bMC2cKxG/48.png</logo>
+    </channel>
+    <channel>
+        <name>Show_TV</name>
+        <url>http://pasurl.noipdns.uk:2052/live/123456789/123456789/12647.ts</url>
+        <logo>https://i.ibb.co/4RSYq4X6/47.png</logo>
+    </channel>
+    <channel>
+        <name>Star _TV</name>
+        <url>http://pasurl.noipdns.uk:2052/live/123456789/123456789/12482.ts</url>
+        <logo>https://i.ibb.co/fYxJrDz3/46.png</logo>
+    </channel>
+    <channel>
+        <name>NOW</name>
+        <url>http://176.65.146.123:6002/play/a01j/index.m3u8</url>
+        <logo>https://i.ibb.co/Y7pp9kL5/15.png</logo>
+    </channel>
+    <channel>
+        <name>TV_8</name>
+        <url>https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8</url>
+        <logo>https://i.ibb.co/M5Mrpr67/44.png</logo>
+    </channel>
+    <channel>
+        <name>TV_8,5</name>
+        <url>https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8</url>
+        <logo>https://i.ibb.co/j9kSZVzG/50.png</logo>
+    </channel>
+    <channel>
+        <name>Beyaz_TV</name>
+        <url>https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8</url>
+        <logo>https://i.ibb.co/yc9RSNg8/51.png</logo>
+    </channel>
+    <channel>
+        <name>Kanal_7</name>
+        <url>http://pasurl.noipdns.uk:2052/live/123456789/123456789/12503.ts</url>
+        <logo>https://i.ibb.co/3Y1Wz4zm/32.png</logo>
+    </channel>
+    <channel>
+        <name>Teve2</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849315</url>
+        <logo>https://i.ibb.co/cKQ4wjcR/35.png</logo>
+    </channel>
+    <channel>
+        <name>A2</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849317</url>
+        <logo>https://i.ibb.co/S4T5s8T9/52.png</logo>
+    </channel>
+    <channel>
+        <name>360_TV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849319</url>
+        <logo>https://i.ibb.co/XZ3fRv79/53.png</logo>
+    </channel>
+    <channel>
+        <name>TELE_1</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/865040</url>
+        <logo>https://i.ibb.co/5WmydPLF/U2aXdDD.png</logo>
+    </channel>
+    <channel>
+        <name>TRT_2</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/865041</url>
+        <logo>https://i.ibb.co/XZ6FM1Rv/6.png</logo>
+    </channel>
+    <channel>
+        <name>SOZCU_TV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849522</url>
+        <logo>https://i.ibb.co/spDsNM5J/SOZCU.png</logo>
+    </channel>
+    <channel>
+        <name>CNN_TURK</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849524</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/CNN.TURK.png</logo>
+    </channel>
+    <channel>
+        <name>HABER_TURK</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849528</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/HABER.TURK.png</logo>
+    </channel>
+    <channel>
+        <name>Halk_TV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849532</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/HALK.png</logo>
+    </channel>
+    <channel>
+        <name>NTV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849534</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/NTV.png</logo>
+    </channel>
+    <channel>
+        <name>TGRT_Haber</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849536</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TGRT.EU.png</logo>
+    </channel>
+    <channel>
+        <name>TRT_Haber</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849538</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TRT.HABER.png</logo>
+    </channel>
+    <channel>
+        <name>24_TV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849540</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/KANAL.24.png</logo>
+    </channel>
+    <channel>
+        <name>Tv100 </name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849553</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TV.100.png</logo>
+    </channel>
+    <channel>
+        <name>Tele1</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849551</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TELE.1.png</logo>
+    </channel>
+    <channel>
+        <name>A_Haber</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849561</url>
+        <logo>http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/A.HABER.png</logo>
+    </channel>
+    <channel>
+        <name>National_Geographic</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860624</url>
+        <logo>https://i.ibb.co/v23v0QR/oIX9iHF.png</logo>
+    </channel>
+    <channel>
+        <name>Discovery_ID</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860626</url>
+        <logo>https://i.ibb.co/MWYLKWS/x8QABDy.png</logo>
+    </channel>
+    <channel>
+        <name>Viasat_Explore</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860629</url>
+        <logo>https://i.ibb.co/1Jhw8Ntj/GsgtjhH.png</logo>
+    </channel>
+    <channel>
+        <name>beIN_İZ</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860637</url>
+        <logo>https://i.ibb.co/dwZr4XTh/ELHdRqI.png</logo>
+    </channel>
+    <channel>
+        <name>BBC_Earth</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860640</url>
+        <logo>https://i.ibb.co/tPhS20G4/4uJesg4.png</logo>
+    </channel>
+    <channel>
+        <name>TRT_Belgesel</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860649</url>
+        <logo>https://i.ibb.co/HpMwLLs9/PCwXQcB.png</logo>
+    </channel>
+    <channel>
+        <name>Viasat_History</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/865063</url>
+        <logo>https://i.ibb.co/V0QDw3LT/UaKY4bv.png</logo>
+    </channel>
+    <channel>
+        <name>TRT_Cocuk</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861278</url>
+        <logo>https://i.ibb.co/cX6zymfS/akVe0dn.png</logo>
+    </channel>
+    <channel>
+        <name>Cartoon_Network</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861284</url>
+        <logo>https://i.ibb.co/20vhz3rW/cartoon.png</logo>
+    </channel>
+    <channel>
+        <name>Disney_Jr</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861285</url>
+        <logo>https://i.ibb.co/mVWh3DjP/32574651421.png</logo>
+    </channel>
+    <channel>
+        <name>Minika_Go</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861286</url>
+        <logo>https://i.ibb.co/s9Fqrbwx/zMFsOfl.png</logo>
+    </channel>
+    <channel>
+        <name>beIN_Sports_1</name>
+        <url>http://176.57.50.167:8080/yuksel5608042/TbaNhNRBhTmW/49663</url>
+        <logo>https://i.ibb.co/KxGRttW8/14.png</logo>
+    </channel>
+    <channel>
+        <name>BeIN_Sports_1_</name>
+        <url>http://176.57.50.167:8080/yuksel5608042/TbaNhNRBhTmW/139</url>
+        <logo>https://i.ibb.co/tMn61tWm/13.png</logo>
+    </channel>
+    <channel>
+        <name>beIN_Sports_2</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/19</url>
+        <logo>https://i.ibb.co/RprjBxcP/18.png</logo>
+    </channel>
+    <channel>
+        <name>beIN_Sports_3</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/20</url>
+        <logo>https://i.ibb.co/MydcC94G/21.png</logo>
+    </channel>
+    <channel>
+        <name>S_Sport</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/866986</url>
+        <logo>https://i.ibb.co/8gVH63FB/15.png</logo>
+    </channel>
+    <channel>
+        <name>S_Sport_2</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/866988</url>
+        <logo>https://i.ibb.co/r2B3dMNt/17.png</logo>
+    </channel>
+    <channel>
+        <name>TRT_Spor</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/850137</url>
+        <logo>https://i.ibb.co/MD6LMwrB/39.png</logo>
+    </channel>
+    <channel>
+        <name>A_Spor</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/850171</url>
+        <logo>https://i.ibb.co/992bgfpF/1.png</logo>
+    </channel>
+    <channel>
+        <name>Beyaz_TV</name>
+        <url>http://livasupport99.xyz:80/arda90/rm3xVsvdKA/850165</url>
+        <logo>https://i.ibb.co/Y7Qc1Xk8/20.png</logo>
+    </channel>
 </channels>
