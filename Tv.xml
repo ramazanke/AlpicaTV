@@ -2,7 +2,7 @@
 <channels>
     <channel>
         <name>TRT_1</name>
-        <url>https://tv-trt1.medya.trt.com.tr/master.m3u8</url>
+        <url>http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/20484</url>
         <logo>https://i.ibb.co/Cp0dbf8G/3.png</logo>
     </channel>
     <channel>
@@ -27,7 +27,7 @@
     </channel>
     <channel>
         <name>NOW</name>
-        <url>http://176.65.146.123:6002/play/a01j/index.m3u8</url>
+        <url>http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6276</url>
         <logo>https://i.ibb.co/Y7pp9kL5/15.png</logo>
     </channel>
     <channel>
@@ -187,12 +187,12 @@
     </channel>
     <channel>
         <name>beIN_Sports_1</name>
-        <url>http://176.57.50.167:8080/yuksel5608042/TbaNhNRBhTmW/49663</url>
+        <url>http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35762</url>
         <logo>https://i.ibb.co/KxGRttW8/14.png</logo>
     </channel>
     <channel>
         <name>BeIN_Sports_1_</name>
-        <url>http://176.57.50.167:8080/yuksel5608042/TbaNhNRBhTmW/139</url>
+        <url>http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35762</url>
         <logo>https://i.ibb.co/tMn61tWm/13.png</logo>
     </channel>
     <channel>
