@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRT_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.svg" group-title="ULUSAL",TRT_1
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/20484
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" group-title="ULUSAL",ATV
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6266
+#EXTINF:-1 tvg-id="" tvg-name="Kanal_D" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg" group-title="ULUSAL",Kanal_D
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6275
+#EXTINF:-1 tvg-id="" tvg-name="Show_TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg" group-title="ULUSAL",Show_TV
+http://pasurl.noipdns.uk:2052/live/123456789/123456789/12647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star _TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL",Star _TV
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6270
+#EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg" group-title="ULUSAL",NOW
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6276
+#EXTINF:-1 tvg-id="" tvg-name="TV_8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL",TV_8
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/20742
+#EXTINF:-1 tvg-id="" tvg-name="8-5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" group-title="ULUSAL",8-5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz_TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" group-title="ULUSAL",Beyaz_TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal_7" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" group-title="ULUSAL",Kanal_7
+http://pasurl.noipdns.uk:2052/live/123456789/123456789/12503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="ULUSAL",Teve2
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6279
+#EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" group-title="ULUSAL",A2
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849317
+#EXTINF:-1 tvg-id="" tvg-name="360_TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" group-title="ULUSAL",360_TV
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849319
+#EXTINF:-1 tvg-id="" tvg-name="TELE_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" group-title="HABER",TELE_1
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/101115
+#EXTINF:-1 tvg-id="" tvg-name="TRT_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg" group-title="ULUSAL",TRT_2
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/865041
+#EXTINF:-1 tvg-id="" tvg-name="SOZCU_TV" tvg-logo="https://i.ibb.co/spDsNM5J/SOZCU.png" group-title="HABER",SOZCU_TV
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849522
+#EXTINF:-1 tvg-id="" tvg-name="CNN_TURK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg" group-title="HABER",CNN_TURK
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849524
+#EXTINF:-1 tvg-id="" tvg-name="HABER_TURK" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" group-title="HABER",HABER_TURK
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6212
+#EXTINF:-1 tvg-id="" tvg-name="Halk_TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk-tv-tr.svg" group-title="HABER",Halk_TV
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/20758
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" group-title="HABER",NTV
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849534
+#EXTINF:-1 tvg-id="" tvg-name="TGRT_Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt-haber-tr.svg" group-title="HABER",TGRT_Haber
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849536
+#EXTINF:-1 tvg-id="" tvg-name="TRT_Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.svg" group-title="HABER",TRT_Haber
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849538
+#EXTINF:-1 tvg-id="" tvg-name="24_TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" group-title="HABER",24_TV
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849540
+#EXTINF:-1 tvg-id="" tvg-name="Tv100 " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-tr.svg" group-title="HABER",Tv100 
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849553
+#EXTINF:-1 tvg-id="" tvg-name="Tele1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" group-title="HABER",Tele1
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849551
+#EXTINF:-1 tvg-id="" tvg-name="A_Haber" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_haber_tr.png" group-title="HABER",A_Haber
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/849561
+#EXTINF:-1 tvg-id="" tvg-name="National_Geographic" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="BELGESEL",National_Geographic
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860624
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="BELGESEL",Discovery_ID
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860626
+#EXTINF:-1 tvg-id="" tvg-name="Viasat_Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="BELGESEL",Viasat_Explore
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860629
+#EXTINF:-1 tvg-id="" tvg-name="beIN_İZ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-iz-qa-tr.png" group-title="BELGESEL",beIN_İZ
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860637
+#EXTINF:-1 tvg-id="" tvg-name="BBC_Earth" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg" group-title="BELGESEL",BBC_Earth
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860640
+#EXTINF:-1 tvg-id="" tvg-name="TRT_Belgesel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" group-title="BELGESEL",TRT_Belgesel
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/860649
+#EXTINF:-1 tvg-id="" tvg-name="Viasat_History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="Genel",Viasat_History
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/865063
+#EXTINF:-1 tvg-id="" tvg-name="TRT_Cocuk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" group-title="COCUK",TRT_Cocuk
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861278
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon_Network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" group-title="COCUK",Cartoon_Network
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861284
+#EXTINF:-1 tvg-id="" tvg-name="Disney_Jr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-jr-us.svg" group-title="COCUK",Disney_Jr
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861285
+#EXTINF:-1 tvg-id="" tvg-name="Minika_Go" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_cocuk.png" group-title="COCUK",Minika_Go
+http://livasupport99.xyz:80/arda90/rm3xVsvdKA/861286
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Sports_1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-1-turkiye-qa-tr.png" group-title="SPOR",beIN_Sports_1
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35762
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Sports_1_" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPOR",BeIN_Sports_1_
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35762
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Sports_2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPOR",beIN_Sports_2
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35730
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Sports_3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPOR",beIN_Sports_3
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/35730
+#EXTINF:-1 tvg-id="" tvg-name="S_Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.svg" group-title="SPOR",S_Sport
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/115598
+#EXTINF:-1 tvg-id="" tvg-name="S_Sport_2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.svg" group-title="SPOR",S_Sport_2
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/115598
+#EXTINF:-1 tvg-id="" tvg-name="TRT_Spor" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-tr.svg" group-title="SPOR",TRT_Spor
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6109
+#EXTINF:-1 tvg-id="" tvg-name="A_Spor" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_spor_tr.png" group-title="SPOR",A_Spor
+http://lobitv85.xyz:8080/hll2830/fd458b8a61d7e4d4/6109
