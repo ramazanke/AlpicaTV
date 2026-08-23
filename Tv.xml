@@ -1,2256 +1,2256 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels epg-url="http://genel.oshwm5g.xyz:8080/xmltv.php?username=agaymegsr&amp;password=TJmWEX8Uh5GV">
   <channel>
-    <name>Nat_Geo_Channel</name>
-    <logo>https://i.ibb.co/F82nsZP/natgeo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWU1BR_vNFKaZNe5fo1bQmQ</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>National Geographic</tvg-id>
-  </channel>
-  <channel>
-    <name>Nat_Geo_Channel</name>
-    <logo>https://i.ibb.co/F82nsZP/natgeo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZgcoMlMgz7H0XPwUSrgC037xSKOWQqwo8bkCqyl1u2W</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>National Geographic</tvg-id>
-  </channel>
-  <channel>
-    <name>Nat_Geo_Wild</name>
-    <logo>https://i.ibb.co/XJRTdHD/natgeowild.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWbYE_S1KjM30wueQkyqlqI</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Nat Geo Wild</tvg-id>
-  </channel>
-  <channel>
-    <name>Nat_Geo_Wild</name>
-    <logo>https://i.ibb.co/XJRTdHD/natgeowild.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZgcoMlMgz7H0XPwUSrgC00vBMEn4kUuhE24tM2vpjDh</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Nat Geo Wild</tvg-id>
-  </channel>
-  <channel>
-    <name>Discovery_Channel</name>
-    <logo>https://i.ibb.co/hKqVBkf/discovery.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnffXYi2g-5CyT9qoYSC5f8c</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Discovery Channel</tvg-id>
-  </channel>
-  <channel>
-    <name>Discovery_Channel</name>
-    <logo>https://i.ibb.co/hKqVBkf/discovery.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZgcoMlMgz7H0XPwUSrgC01wWZbdUFhzmZHBzZM9WyIw</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Discovery Channel</tvg-id>
-  </channel>
-  <channel>
-    <name>Habitat_Tv</name>
-    <logo>http://www.habitattv.com.tr/hbtt/assets/img/HABITAT_LOGO_small.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne-veM7CySgB1YkMHRSFRF17Rz3qDCtFJIIep5hxIzD2</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>HABİTAT TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Viasat_History_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/GtNppqW/viasat.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWU0x0jEGhOMZ_ZTrP8uXsc</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Viasat History</tvg-id>
-  </channel>
-  <channel>
-    <name>Viasat_History</name>
-    <logo>https://i.ibb.co/GtNppqW/viasat.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRP8eVNr9_vrxmX87dt4pW9q1hLT-jeHP1o2CzK64VkN</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Viasat History</tvg-id>
-  </channel>
-  <channel>
-    <name>Investigation_Discovery_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/8MX6NRW/id.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbaDAQfMOGU2hUI4BCSn5LE</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>ID</tvg-id>
-  </channel>
-  <channel>
-    <name>Investigation_Discovery</name>
-    <logo>https://i.ibb.co/8MX6NRW/id.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZgcoMlMgz7H0XPwUSrgC021YhFhhhQdMPYsXkeQcaWl</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>ID</tvg-id>
-  </channel>
-  <channel>
-    <name>Love_Nature_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYmehpJoYPXquBW3_CLBrNnSmn0sWR4G3w40BQMgHbH4</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Love Nature</tvg-id>
-  </channel>
-  <channel>
-    <name>Love_Nature</name>
-    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZgcoMlMgz7H0XPwUSrgC02sTsKSO2hWTKvlIb4dKMia</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>B***_Home_Entertainment</name>
-    <logo>https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-home-entertainment-logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ2CX-NwFhcO7IMBUdMx3AM</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>beIN HOME ENTERTAINMENT</tvg-id>
-  </channel>
-  <channel>
-    <name>BBC_Earth_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/qMdkvjL/bbcearth.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWSq5bVCpvA_EpqcX-z_R58</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>BBC EARTH</tvg-id>
-  </channel>
-  <channel>
-    <name>BBC_Earth</name>
-    <logo>https://i.ibb.co/qMdkvjL/bbcearth.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRmKRY3u-_blHfFfeYavwuodt3mgySpAgYsd2PD-K0kO</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>BBC EARTH</tvg-id>
-  </channel>
-  <channel>
-    <name>Tarih_Tv</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSkGAyOm61cCZkxAG-Dj6cIGE96zKBW0QFExuF5J6LND</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Tarih TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Da_Vinci_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/c6s3Y6w/davincilearning.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnU_pFvg0A902LmDcln7a9G8</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Da Vinci Learning</tvg-id>
-  </channel>
-  <channel>
-    <name>Da_Vinci</name>
-    <logo>https://i.ibb.co/c6s3Y6w/davincilearning.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQHShgj8QEGBLHTWlIIbAwdgKMYrKq35Z1XIEIwcAAyU</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Da Vinci</tvg-id>
-  </channel>
-  <channel>
-    <name>Dmax</name>
-    <logo>https://i.ibb.co/R2f3MyF/dmax.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYAWqoTxID-qHCpp4S9gJrI</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>DMAX</tvg-id>
-  </channel>
-  <channel>
-    <name>Dmax</name>
-    <logo>https://i.ibb.co/R2f3MyF/dmax.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncjKduMBdoxTg-GpePytBAk</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>DMAX</tvg-id>
-  </channel>
-  <channel>
-    <name>TLC</name>
-    <logo>https://i.ibb.co/7YZwkc5/tlc.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYDxvCrJfp4fdFZhsNuZRLs</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>TLC</tvg-id>
-  </channel>
-  <channel>
-    <name>TLC</name>
-    <logo>https://i.ibb.co/7YZwkc5/tlc.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTrbry3jburi0KtJZPhO1fhlP4hd-8odFC0ddwuOPPsd</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>TLC</tvg-id>
-  </channel>
-  <channel>
-    <name>Yaban_Tv</name>
-    <logo>https://i.ibb.co/BshbZCL/yaban.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZdgM0hcnq--18XwgX0xVM1pwzl87NLZcHst-y7S-sto</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Yaban TV</tvg-id>
-  </channel>
-  <channel>
-    <name>B***_Gurme</name>
-    <logo>https://i.ibb.co/TgRsZXF/gurme.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWnaN_t9T6fwJGHBOtjNI1s</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>beIN GURME</tvg-id>
-  </channel>
-  <channel>
-    <name>İztv</name>
-    <logo>https://i.ibb.co/XW8ShN9/iz.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfmPmYpprcppK8fP5OfE35o</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>beIN İZ</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Belgesel</name>
-    <logo>https://i.ibb.co/vLsmwmC/trtbelgesel.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT0b4qJfCQ5IO7g2QhNPj2I</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>TRT Belgesel</tvg-id>
-  </channel>
-  <channel>
-    <name>Tgrt_Belgesel</name>
-    <logo>https://i.ibb.co/7G1kBSN/tgrtbelgesel.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZHEzhHrvWfmIrgZgw11Kn0</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Çiftçi_Tv</name>
-    <logo>https://i.ibb.co/YWmSHwK/c-iftc-i.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnc6ytggYLgPYSjgKurxrTAQLPFZsqhcu16QGtrT1DpQ2</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>Çifçi TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Docuscreen_ᴿᴬᵂ</name>
-    <logo>https://www.dsmart.com.tr/api/v1/public/images/kanallar/docu_screen.jpeg</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYmehpJoYPXquBW3_CLBrNk0StuhnNjb-8xkLYoThxYW</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>DocuScreen</tvg-id>
-  </channel>
-  <channel>
-    <name>Documax</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT2bcNLlFDfQ7wJpgq-guxf5-oGwMNiAuLNp3z8Lzf_k</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Love_Nature</name>
-    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnX8-XXsJKGVzJki3mj4LDKlnEok52Fr5KilfR41eY-Ra</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Uçak_Kazası_Raporu_-_Mayday</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWsFMmLudBfRuTO1LaL9AsxA2LWtE6gxZHn0r3c0M_M9</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Yolda_Ne_Yiyoruz</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ5PKoXpZGsweRIGyqclNq3PEQa1aFjYllBrAwmu1wd4</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Yetenekli_Dr._Pool</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZrphnwL2bY8Ypem7ls1IlHNIvf7kfD2HxfZztY-ofij</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Tarihe_Yakın_Bakış</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnROkfrazSYHhvznEnFk7eTfKFBAfvoYCc_5YDIM0Ybeo</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Ed_Stafford_İle_Doğada</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRH8tnhHokofYbIQ1X703t66wXTz3Xus5I75RVz_zoav</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Tamirat_Tadilat</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSqyIlmvVnbyDnz1N_gUdCkrtNt6IMM75wCeM4Pf9KWB</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Ölümcül_Av</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSe_hswc-EpNy1n6QJwBWaxhgDGj1jufX1E03f1R5Mhy</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Karavanda_Yaşam</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfV7N5e57uhqb4srAoqNmP6jH9vTaBDAwWdVeJ0nKMdy</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Kırsalda_Yaşamak_Zor</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnc_uV8qw_3kkHPMBYoOIBFgcU5IiNILG9vy_fgAPEVYv</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Teke_Tek_Bilim</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbryuEY6UtpC2MFF-h_2qBLidyGjDUhH0De2q2fgcXQS</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Belgesel_Refika'nın_Mutfağı</name>
-    <logo>https://i.ibb.co/dBpCKz6/Ba-l-ks-z-5.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnb-xaBFdC3dMXEBxTdh_bds3CuAZFan12RUKShgz0wUf</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Ayhan_Sicimoğlu</name>
-    <logo>https://i.ibb.co/jhZVfz2/ayhan.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneIgWuxocseGykeYIkuUFXwJz6eMNzyDdBUWGkcJNRzk</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Armağan_Çağlayan_Dur_Bi_Dinle</name>
-    <logo>https://i.ibb.co/wcHDYmk/ARMAGAN.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVZ6tok7lu39N37LYxG7xXS9c19n1qXwrpSrKlwVUf10</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Farklı_Mekanlar_Farklı_Lezzetler</name>
-    <logo>https://i.ibb.co/Y31Hvsd/farklimekanlarfarklilezzetler.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMna-Fw1Yi5MsY0JV-U2tQuo8bHQCR--KA4us3fW0DR-jQ</url>
-    <group-title>BELGESEL</group-title>
-  </channel>
-  <channel>
-    <name>Viasat_Explore</name>
-    <logo>https://i.ibb.co/bz3sNtp/viasatexplore.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS6VJfGKM71TmqL4AnIa1Uoyk-Q79cSn2Inf1DIKwjzS</url>
-    <group-title>BELGESEL</group-title>
-    <tvg-id>VIASAT EXPLORE</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Çocuk</name>
-    <logo>https://i.ibb.co/0BVbX1W/trtcocuk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbF_yFOb_z2ZqXz-4oOU6NA</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>TRT Çocuk</tvg-id>
-  </channel>
-  <channel>
-    <name>Nickelodeon</name>
-    <logo>https://i.ibb.co/sjtjdBD/nickheleon.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfnuWAYLRyX6FAorcxKszRM</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Nickelodeon</tvg-id>
-  </channel>
-  <channel>
-    <name>Dısney_Junıor</name>
-    <logo>https://i.ibb.co/db8Cr46/disneyjunior.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkWuOP7SBS8xeJ7yrVvcfu5h</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Cartoonito</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/250px-Cartoonito_-_Logo_2021.svg.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncLOB2dlOPJ49EO7W7u-OyvRFBGKNdHzEJGqRw6adeI_</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Cartoonito</tvg-id>
-  </channel>
-  <channel>
-    <name>Nicktoons</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/3/3d/Nicktoons-logo655.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWJ7rY7f3ruHbkIheHEW2ok</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>NICKTOONS</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Toon</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne_P_t9BBBSShrWbPNjc5x8</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Moonbug Kids TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Baby_Tv</name>
-    <logo>https://i.ibb.co/yYxNX10/babytv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndgDRvH-G8BQ4iQdJ93OhjQ</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Baby TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Cartoon_Network</name>
-    <logo>https://i.ibb.co/9HLDgd7/cartoon.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnR8ENEEag-v2Qs24Eo8jOeg</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Cartoon Network</tvg-id>
-  </channel>
-  <channel>
-    <name>Minika_Go</name>
-    <logo>https://i.ibb.co/zfYncPp/minikago.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS7R1wFimKzaieKDwC3QvkM</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>MinikaGO</tvg-id>
-  </channel>
-  <channel>
-    <name>Minika_Cocuk</name>
-    <logo>https://i.ibb.co/9ZwSzzS/minikacocuk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWIpgrJ87AMhI1vpEQ0uOxM</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Minika Çocuk</tvg-id>
-  </channel>
-  <channel>
-    <name>Cocuk_Smart</name>
-    <logo>https://i.ibb.co/gVNzRr2/smartcocuk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncn9_RJwypzVzkC2W3OLfXo</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Çocuk Smart</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Diyanet_Çocuk</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/a/af/TRT_Diyanet_%C3%87ocuk_logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbryuEY6UtpC2MFF-h_2qBLGlGWVmik_zjJ5ARkHYKWo</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXyh5FAmWFhdOSsBotVstcrmCaCD-3nEB6HcMF94XYn5</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Cocuk_Kral_Sakir</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZrphnwL2bY8Ypem7ls1IlFghIy9X-6MXsJOmguHyfWa</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Cocuk_Arı_Maya</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZrphnwL2bY8Ypem7ls1IlEh5MHYXBd6dto9kMmrypqp</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Cocuk_Patron_Bebek_Yine_İs_Basinda</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRNSI_89ZgRozR2PDsHVTSR0T8uhcwL_G1lPQfY3-QZl</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Cocuk_Ordek_Hikayeleri</name>
-    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRNSI_89ZgRozR2PDsHVTSQLmv_dwy6t-J9a3WdRArpR</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Akıllı_Tavşan_Momo</name>
-    <logo>https://i.ibb.co/4KSKCTB/ak-ll-tavsan.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTBJDf8lRRWndfQjSC9KDMRU9QTid3sGjvyEODLlGu5z</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Cocuk_Bir_Varmış_Bir_Yokmuş</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne5gsBQo90qeBFM8Gv2JSqpvJy729VQUNhbURadHs7E2</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Doru</name>
-    <logo>https://i.ibb.co/SRtW23h/doru.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnULdIfcdAkxu9aCpj1Ho1uYD6m2BabXW1Y0HnKRh7W7K</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Elif_ve_Arkadaşları</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUwF9tzGfoRfyIiSCBXR5JF2jtPn3XL26RfjOqp-ZGm7</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>He-Man_ve_Evrenin_Efendileri</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXyh5FAmWFhdOSsBotVstcr-7Pgdw0hfFz4d06hVurzJ</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Grizzy_ve_Lemmingler</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbUmH6bU1WHDl1OcjGyosDtrelwIQtfzPcA2jvQEu5dZ</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Gökkuşağı_Ruby</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfSh_kFbJcZTK-ci5jDFVt5YhXxhbX6npKlw8B4Fkn2K</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Masal</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXyh5FAmWFhdOSsBotVstcqYj06DDPsVl-V3vGmJpdaS</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Niloya</name>
-    <logo>https://i.ibb.co/Mg6nPqW/niloya.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRdtJ_qFFi13nm0z564Us4XTmFTzI9t-grqZsFxxkJzb</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Örümcek_Adam</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWPfX4HKLtDw7fdYCiRIS4KfYYaOhCrQFygVdIz5oyaH</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Pembe_Panter</name>
-    <logo>https://i.ibb.co/ZNHkR6Z/pembepanter.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWUPfcwLkNPM67l5b4qspWc6JH4SeBKlKnyUrLiwn7HJ</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Peppa_Pig</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfSh_kFbJcZTK-ci5jDFVt76LclhYZQVSn4Sc3K_LPmR</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Red_Kit</name>
-    <logo>https://i.ibb.co/NrZNJCb/redkit.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbUmH6bU1WHDl1OcjGyosDuViwxmgn7rvCYgHNoXCq7K</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Sevimli_Hayalet_Casper</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnaDCwWBkJ74cdUEWQFROx7aTmzDEzAlVNneYZ-cm_WBB</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Şirinler</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbUmH6bU1WHDl1OcjGyosDs4aCArNpN6Z0t4tx9s66c5</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Tom_ve_Jerry</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRXLlaFH_K99yuvH0aXpGXVssWN043J-lzOaU3nL9ohO</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Canım_Kardeşim_Tv</name>
-    <logo>https://i.ibb.co/6nY4Q1q/canimkardesim.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g8cc2vTyCWLzKQ1yBMhF7zk</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Smartblu_Animasyon</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndI4fH-0wG0sXWt79NFYIWOf7mkK1rsKRVUNn3Ynn5xK</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Paw_Patrol</name>
-    <logo>https://i.ibb.co/xH881h0/pawpatrol.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb3d2l4jE-E8yH7mp99loYdw</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Heidi_Tv</name>
-    <logo>https://i.ibb.co/nm0vLq9/heidi.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb3Ac_-9_WIW0bHQV7uTGUWB</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Barbie_Tv</name>
-    <logo>https://i.ibb.co/nMWpS6G/barbie.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb0MTwZvrjeAeLOFodeC42-G</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Aslan_Tv</name>
-    <logo>https://i.ibb.co/9pY5NHY/aslantv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ6RGMVH1cusz0LAd2Kwu6ZqcHKrUAvkQnIUf3lc7SoP</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Keloğlan_Tv</name>
-    <logo>https://i.ibb.co/d4pkJNq/kelog-lan.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ6RGMVH1cusz0LAd2Kwu6Zs_a5tL4lblCX7c22fPiYY</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Ege_İle_Gaga_Tv</name>
-    <logo>https://i.ibb.co/RPTFHBD/egeilegaga.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ6RGMVH1cusz0LAd2Kwu6ZzdaeETzKfBlE_uJGoF5Mi</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Hapşuu_Tv</name>
-    <logo>https://i.ibb.co/GJwfpJP/haps-uu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ6RGMVH1cusz0LAd2Kwu6YFEwpj9UrcGPTimpJbpQ-J</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>İbi_Tv</name>
-    <logo>https://i.ibb.co/XyMJpFL/ibi.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ6RGMVH1cusz0LAd2Kwu6Z4Ft9ialCTcPAInnwrJrQO</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Elifin_Düşleri_Tv</name>
-    <logo>https://i.ibb.co/R74scdt/elifinddusleri.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb2QPp-y5WjzAaJJ5TBWz-m-</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Caillou_Tv</name>
-    <logo>https://i.ibb.co/sb6mHrn/caillou.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g_JIPUaF5HBQ7zAauwvWs3I</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Monster_Town_Tv</name>
-    <logo>https://i.ibb.co/1JM0fWv/monstertown.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g9U-ZReyESworZK6QgHlY60</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Dinozor_Dino_Tv</name>
-    <logo>https://i.ibb.co/028RD83/dinozordino.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g9tzcKEl6YSQOeqpyc-KEoX</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Pijamaskeliler_Tv</name>
-    <logo>https://i.ibb.co/kVnnn4W/pijamaskeliler.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g_mAIPX6syhxpWT8431DIY7</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Kırmızı_Balık_Tv</name>
-    <logo>https://i.ibb.co/v4N60JH/k-rm-z-bal-k.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndmud0kTciBLMx7qoMiAPeM</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Tom_Ve_Jerry_Tv</name>
-    <logo>https://i.ibb.co/tPNTjfx/tomjerry.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb3uLEtMqwh_53cW6Nolmr-P</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Harika_Kanatlar_Tv</name>
-    <logo>https://i.ibb.co/0fQz0zN/harikakanatlar.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb3XOftDf8whxxWOsiIurBTP</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Şirinler_Tv</name>
-    <logo>https://i.ibb.co/fxKhX0H/sirinler.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTKBT53z1m2l4hCCaLg0DBA</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Masa_İle_Koca_Ayı_Tv</name>
-    <logo>https://i.ibb.co/ThYj1XM/masailekocaayi.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfC7U2AX5x-_sDJBOq02_g9d8PfWc5iKJCKjcvGcI-z_</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Sevimli_Kahramanlar_Tv</name>
-    <logo>https://i.ibb.co/cv6PSyx/sevimlikahramanlar.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb1YcdLECuG6ajyhwjBzZZkC</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Konuşan_Tom_Tv</name>
-    <logo>https://i.ibb.co/fGkc6Dc/konusantom.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb1zQIoqYpYjZum7v7iQHtC2</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Rafadan_Tayfa_Tv</name>
-    <logo>https://i.ibb.co/FxGCg9X/rafadantayfa.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb0amOwJsGIxd_VRLOcvH_Qk</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Pepee_Tv</name>
-    <logo>https://i.ibb.co/Z17KMfs/pepee.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS2tQ8kZq4i0E28A9VjhKb3X9Fo8J5ESdZnVdFkLe0cB</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Leliko_Tv</name>
-    <logo>https://i.ibb.co/JHVJZxf/leliko.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVT1ufYXDkHdPPVk2MNYC5dg</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Kukuli_Tv</name>
-    <logo>https://i.ibb.co/jb48fNb/kukuli.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVSFJdsM8WdrFw4PV1LTYSHx</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Bibercik_Tv</name>
-    <logo>https://i.ibb.co/z50qr0M/biberciktv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVQ_zujA484kUDxeJqpIfMri</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Dini_Çocuk_Tv</name>
-    <logo>https://i.ibb.co/QX0MVyq/dinicocuk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXQNO_oKiowsYz4ojp0CDD4PFHnyPOpZrIQdZN9lLRF3</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Niloya_Tv</name>
-    <logo>https://i.ibb.co/Mg6nPqW/niloya.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkVlMwqWJyxSyX8A8wQGem4S</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Mr_Bean_Cartoon</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTtxJMoMeEgjjZXe8l5AxXydvhQG4O5i_QnRWueEGZvJ</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>TRT_Eba_Tv</name>
-    <logo>https://i.ibb.co/x5n9JLB/trtortaokul.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfGm44nGF4PlxfXtAbSBGqjOn28elDyxnhF21m0Boz1</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>TRT EBATV ORTAOKUL</tvg-id>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Bulmaca_Kulesi</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne4VKeJIhPVUYLvlWC5mFUzyGSjPWUyO3xqWhMSuTO57</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Çocuk_Sürpriz_Kutusu</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne4VKeJIhPVUYLvlWC5mFUxlrKxSrV796SxP_UuxFdC6</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Kucuk_Kamyon_Leo</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT2bcNLlFDfQ7wJpgq-guxfiffSj8PpBArjPodUsL-bK</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Spacetoon_Tv</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnaBndlH9Clujw4nmg7ENjN8hHi44HghW6teK7dJI8UWM</url>
-    <group-title>COCUK</group-title>
-  </channel>
-  <channel>
-    <name>Azomee</name>
-    <logo>https://dsmart-static-v2.ercdn.net/content/-/q4/14484/Thumbnail.png?v=638713603133396766</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbq5c33TBG8PT98Kt8mV4Q0</url>
-    <group-title>COCUK</group-title>
-    <tvg-id>Azoomee</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Diyanet_Tv</name>
-    <logo>https://i.ibb.co/6XQt98b/trtdiyane.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncOkAN0QoxuUOaWjIvnyTyI</url>
-    <group-title>DiNi</group-title>
-    <tvg-id>Diyanet TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Semerkand_Tv</name>
-    <logo>https://i.ibb.co/RTgSXnc/semerkand.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZCNZbomrv_jC0qjG66xW6U</url>
-    <group-title>DiNi</group-title>
-    <tvg-id>SEMERKAND TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Dost_Tv</name>
-    <logo>https://i.ibb.co/bgqZN1p/dost.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW4rHA7Y3AsaInmxTOc_OAM</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Kuran-ı_Kerim_Hatm-i_Serif_(30_Cüz_Tamamı)</name>
-    <logo>https://i.ibb.co/gVjWCKW/kuran-kerim.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkVUU2FrYOsCJ_UWsR-Svxpe</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Kuran_Meali_Tamamı</name>
-    <logo>https://i.ibb.co/gVjWCKW/kuran-kerim.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneIgWuxocseGykeYIkuUFXzo--y3wrYPei_GtufxGDzZ</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>5_Vakit_Namaz_Nasıl_Kılınır_Kadınlar_ve_erkekler_icin_(AÇIKLAMALI)</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkXXd5-3KL4raM7BMabit4j2</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Dıyar_Tv</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVyCF1yuEj3G91yGfUhi3hUv_D_yFG5_kyl7mcQ4RLds</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Nıhat_Hatıpoglu</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkU4rkqYDJAaHQworFWpBQ61</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Kudus_Tv</name>
-    <logo>https://i.ibb.co/RBXdKzG/kudu-s.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSEegfEFeX9LloSviTG3amUcHWcDo6dOKxpEYsowfjcc</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Kabe_Tv</name>
-    <logo>https://i.ibb.co/wYqwdzk/kabe.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVtMRzz3RLEFWUt6s7J9lPWHN0KvQ7Jo2szINWjaZaC8</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>Vav_Tv</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWXVe2zNPpBZZbTFs8F8G8wzSWvna4PhaKPA4_BPo1lx</url>
-    <group-title>DiNi</group-title>
-  </channel>
-  <channel>
-    <name>SZC_Tv</name>
-    <logo>https://i.ibb.co/W3B5shC/sozcutv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZnoIt4zWaXLojc4js-kn6c</url>
-    <group-title>HABER</group-title>
-    <tvg-id>SÖZCÜ TV</tvg-id>
-  </channel>
-  <channel>
-    <name>SZC_Tv</name>
-    <logo>https://i.ibb.co/W3B5shC/sozcutv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT29vvOHvxFdhFcEDktsWA6khzLSCKCkKhQzQxS6r9zQ</url>
-    <group-title>HABER</group-title>
-    <tvg-id>SÖZCÜ TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Halk_Tv</name>
-    <logo>https://i.ibb.co/Yy3Fy6S/halk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTlQu-RwtjTXbW9f1LsZBrg</url>
-    <group-title>HABER</group-title>
-    <tvg-id>Halk TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Halk_Tv</name>
-    <logo>https://i.ibb.co/Yy3Fy6S/halk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXixjSpn-x_I8CsA_n87w08</url>
-    <group-title>HABER</group-title>
-    <tvg-id>Halk TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Krt_Tv</name>
-    <logo>https://i.ibb.co/KrDtZDD/krt.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnefwpoPmTy1E8MKoY0a0kk-kwJF_W3r3CbppvUv28xe1</url>
-    <group-title>HABER</group-title>
-    <tvg-id>KRT TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Krt_Tv</name>
-    <logo>https://i.ibb.co/KrDtZDD/krt.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUGG_4VWIYI65lvtI9QZcNo</url>
-    <group-title>HABER</group-title>
-    <tvg-id>KRT TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Tele_1</name>
-    <logo>https://i.ibb.co/PjtPC1W/tele1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndnG7Y581lAZY8DhbqqnYMs</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TELE 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Tele_1</name>
-    <logo>https://i.ibb.co/PjtPC1W/tele1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXtHE1DHgCbp0pOMMDeawdM</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TELE 1</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Haber</name>
-    <logo>https://i.ibb.co/NCsS2CJ/trthaber.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWFnA-WJh6CtFFjksuYy4Kw</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TRT Haber</tvg-id>
-  </channel>
-  <channel>
-    <name>A_Haber</name>
-    <logo>https://i.ibb.co/YjNrsyB/ahaber.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTHebuBt85ZfBwq4Fqhcx8w</url>
-    <group-title>HABER</group-title>
-    <tvg-id>A Haber</tvg-id>
-  </channel>
-  <channel>
-    <name>A_Haber</name>
-    <logo>https://i.ibb.co/YjNrsyB/ahaber.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbabRi68BQYje1ze2yAImGg</url>
-    <group-title>HABER</group-title>
-    <tvg-id>A Haber</tvg-id>
-  </channel>
-  <channel>
-    <name>A_Para</name>
-    <logo>https://i.ibb.co/K7Nm9Bp/apara.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRAGkIQC5zClGy2cjVrGBC8</url>
-    <group-title>HABER</group-title>
-    <tvg-id>A Para</tvg-id>
-  </channel>
-  <channel>
-    <name>A_Para</name>
-    <logo>https://i.ibb.co/K7Nm9Bp/apara.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneo9fYihPJMZARLXc5b1AD4</url>
-    <group-title>HABER</group-title>
-    <tvg-id>A Para</tvg-id>
-  </channel>
-  <channel>
-    <name>NTV</name>
-    <logo>https://i.ibb.co/RYg2tY0/ntv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTSMaxKqfopka6kzlLsNob8</url>
-    <group-title>HABER</group-title>
-    <tvg-id>NTV</tvg-id>
-  </channel>
-  <channel>
-    <name>NTV</name>
-    <logo>https://i.ibb.co/RYg2tY0/ntv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUpI3jKvNgHViIIJv7Tpobg</url>
-    <group-title>HABER</group-title>
-    <tvg-id>NTV</tvg-id>
-  </channel>
-  <channel>
-    <name>CNN_Türk</name>
-    <logo>https://i.ibb.co/cJ2S15B/cnn.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYc_UEHuzj7hLwPodWDkuB8</url>
-    <group-title>HABER</group-title>
-    <tvg-id>CNN TÜRK</tvg-id>
-  </channel>
-  <channel>
-    <name>CNN_Türk</name>
-    <logo>https://i.ibb.co/cJ2S15B/cnn.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfdO_tq4HIldrw0XGlYlCb0</url>
-    <group-title>HABER</group-title>
-    <tvg-id>CNN TÜRK</tvg-id>
-  </channel>
-  <channel>
-    <name>Tv_100</name>
-    <logo>https://i.ibb.co/6b3bxb5/tv100.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZk8D0PxlQs0OxOoKN4jVFc</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TV 100</tvg-id>
-  </channel>
-  <channel>
-    <name>Tv_100</name>
-    <logo>https://i.ibb.co/6b3bxb5/tv100.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYyZaMXDulScR0tIjA27Y4I</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TV 100</tvg-id>
-  </channel>
-  <channel>
-    <name>Haber_Global</name>
-    <logo>https://i.ibb.co/G54hhqn/global.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnShPANxFcqotFmjDl_AiByY</url>
-    <group-title>HABER</group-title>
-    <tvg-id>HABER GLOBAL</tvg-id>
-  </channel>
-  <channel>
-    <name>Haber_Global</name>
-    <logo>https://i.ibb.co/G54hhqn/global.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnadHQ99an0COCR3xPe8h5TQ</url>
-    <group-title>HABER</group-title>
-    <tvg-id>HABER GLOBAL</tvg-id>
-  </channel>
-  <channel>
-    <name>Haber_Türk</name>
-    <logo>https://i.ibb.co/TmGfs5k/haberturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWmK_8TsE3g8a2MdjNd862A</url>
-    <group-title>HABER</group-title>
-    <tvg-id>HABERTURK</tvg-id>
-  </channel>
-  <channel>
-    <name>Habertürk</name>
-    <logo>https://i.ibb.co/TmGfs5k/haberturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnU5ue6KCtZH1VZoy5PxCea0</url>
-    <group-title>HABER</group-title>
-    <tvg-id>HABERTURK</tvg-id>
-  </channel>
-  <channel>
-    <name>Ulusal_Tv</name>
-    <logo>https://i.ibb.co/mGBhpMc/ulusall.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne0_16dX-Z66G84-lvOSJu4</url>
-    <group-title>HABER</group-title>
-    <tvg-id>ULUSAL KANAL</tvg-id>
-  </channel>
-  <channel>
-    <name>Bloomberg_Ht</name>
-    <logo>https://i.ibb.co/rHgm9Qv/bloomberg.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSaC60qyMjhOycOIs87JgFQ</url>
-    <group-title>HABER</group-title>
-    <tvg-id>Bloomberg HT</tvg-id>
-  </channel>
-  <channel>
-    <name>24_Tv</name>
-    <logo>https://i.ibb.co/JxHp6DS/24.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS4TpxQamRFBGSqegJXuklw</url>
-    <group-title>HABER</group-title>
-    <tvg-id>KANAL 24</tvg-id>
-  </channel>
-  <channel>
-    <name>24_Tv</name>
-    <logo>https://i.ibb.co/JxHp6DS/24.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV_hJsbWnFDtraMJKkoiUtVPPsI3vNq5-YtCMT3kEcSu</url>
-    <group-title>HABER</group-title>
-    <tvg-id>KANAL 24</tvg-id>
-  </channel>
-  <channel>
-    <name>Tv_5</name>
-    <logo>https://i.ibb.co/sJSMGf0/tv5.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTplTvGYPh4tjS_SdfcifSI3Dcd1qu3MSiTzUHh5_Uny</url>
-    <group-title>HABER</group-title>
-  </channel>
-  <channel>
-    <name>Bengü_Türk</name>
-    <logo>https://i.ibb.co/T0BFGc7/bengu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnb6hYfR5HJ8twfJIqxzObik</url>
-    <group-title>HABER</group-title>
-    <tvg-id>BENGÜTÜRK</tvg-id>
-  </channel>
-  <channel>
-    <name>Tgrt_Haber</name>
-    <logo>https://i.ibb.co/HDBQnJb/tgrt.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ_0FrZlIDdjI5BVWRiyGvM</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TGRT HABER</tvg-id>
-  </channel>
-  <channel>
-    <name>Tgrt_Haber</name>
-    <logo>https://i.ibb.co/HDBQnJb/tgrt.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV_hJsbWnFDtraMJKkoiUtUPf-FYWNXhHIP1GAgArd7h</url>
-    <group-title>HABER</group-title>
-  </channel>
-  <channel>
-    <name>Tv_Net</name>
-    <logo>https://i.ibb.co/LQTm7dx/tvnet.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRrdUX85tsRFJqQE0BXPX3Q</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TVNET</tvg-id>
-  </channel>
-  <channel>
-    <name>Ülke_Tv</name>
-    <logo>https://i.ibb.co/NrLrWDB/u-lke.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfyky1t7lEKlEa4B_EZ-m90</url>
-    <group-title>HABER</group-title>
-    <tvg-id>Ülke TV</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_World</name>
-    <logo>https://i.ibb.co/k6Cpf0N/trtworld.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneaKF79gpS_KvrbYhbGmLDs</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TRT World</tvg-id>
-  </channel>
-  <channel>
-    <name>Ekoturk_Tv</name>
-    <logo>https://www.tvyayinakisi.com/wp-content/uploads/2020/05/ekoturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSEegfEFeX9LloSviTG3amVaPzoGpnTkrxO20VErzACb</url>
-    <group-title>HABER</group-title>
-  </channel>
-  <channel>
-    <name>TRT_3_TBMM_Tv</name>
-    <logo>https://www.trt.net.tr/_nuxt/img/trt-3-televizyon-kanali.1f3263d.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbryuEY6UtpC2MFF-h_2qBKaHee5YsrYhd5a6mj99ZbC</url>
-    <group-title>HABER</group-title>
-    <tvg-id>TRT 3 Spor</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Müzik</name>
-    <logo>https://i.ibb.co/1JwYvgT/trtmu-zik.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkXXheo6KMZ7O4B2VTsp0jhJ</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>TRT Müzik</tvg-id>
-  </channel>
-  <channel>
-    <name>Kral_Pop_Tv</name>
-    <logo>https://i.ibb.co/f8yCbP1/kralpop.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbYja_DCHetuOqQuj3DczyJICxaWquQhCUnb3_MqlDBH</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>Kral Pop</tvg-id>
-  </channel>
-  <channel>
-    <name>Nr1_Tv</name>
-    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnacCGZxxJWnmoW_P2S-c1rMv8KraHQSYDw9RfmYHKn34</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>NR1</tvg-id>
-  </channel>
-  <channel>
-    <name>Nr1_Turk</name>
-    <logo>https://i.ibb.co/4sD7GcF/NR1tu-rk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYdj-dk-FNxIw6hzq5dwV_-iIcszvSrFnFg7yLzwcVXc</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>NR1 Türk</tvg-id>
-  </channel>
-  <channel>
-    <name>Nr1_Rap</name>
-    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkVG7F9nD4sKIyn4gQtWcG8G</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Nr1_Dance</name>
-    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkVHu780fKyjFw12RG7hIxwV</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Dream_Turk_Tv</name>
-    <logo>https://i.ibb.co/hyYtz98/dream.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneSMUJPLHWTN0-JMQGyQMWLf2_cTcp2ABKbXoh5BowRj</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>Dream Türk</tvg-id>
-  </channel>
-  <channel>
-    <name>Power_Tv</name>
-    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndF22K06aCHBZkufFaXvgr5JBjVJOW0zh0ufkoY1r1nX</url>
-    <group-title>MUZIK</group-title>
-    <tvg-id>Power TV</tvg-id>
-  </channel>
-  <channel>
-    <name>PowerTurk_Tv</name>
-    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW70EMNwXqDv1ZMB-3HwKqvCTZGn7Lu0Ga5V1nY1yAeq</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>PowerTurk_Taptaze</name>
-    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndw3qtJn58fJKodNurF3GCOvSvnKGt3qOcx5zqsOIe--</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Power_Slow</name>
-    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnY3oqlvYUqSBumbigTtlT0krFv5YCgqmgvQuBfHzJ3Ct</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Power_Love</name>
-    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndw3qtJn58fJKodNurF3GCMG7mQ2TjQNz6-082vitnwd</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Power_Dance</name>
-    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUF4Ft1EYLi3Er4nUKIGPkX7tmoDpWHqJR8tMe3ffFnE</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>MusicBox</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTYh-RPqheCNpzRyAUwwZKsElGb_BG8paDhRP0Q2kQet</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Filodi</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRj4mIsXeSLGiaeH8oiJ7Deyv2cVlbPTTwkE9-ueT3uE</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Turk_RAP</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndI4fH-0wG0sXWt79NFYIWN5d9B2ng0G621rpbw0Qlvj</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Nostaljik_Klipler</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndJ6gcbjAFGXfRpVf38KhJVXHWr9pDmJlPOgBpGXS1lV</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_90'Lar</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHgOJiDLkuyyi2XA1WnWJaEq</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Dıamant_Muzık_Fasıl</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHheEKqy-qdi7gv5QiwD65u_</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Nostaljı</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHiMtCVaOolASg5UfUgY31S5</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Sezen_Aksu</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHjmzO1DrK_r48KrfkYu8BKc</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_ibrahim_Tatlises</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHhyK0QJ2cm49qXnUVsdAx5M</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Selda_Bagcan</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHhNdvH7qgICXEJdpQmHxdem</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Ahmet_Kaya</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHjpW-p8wp7CO7XheQuNSyDw</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Tas_Plak_Turkuler</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHh-M2FpEj-i1RyeqGGakeRO</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Karışık_Arabesk_Şarkılar</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUwF9tzGfoRfyIiSCBXR5JGwlWUXSjGyPmsjqCy6Tgvu</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Anadolu_Rock_Efsaneleri</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfEpX38UgADTtojsDy6ZHWZDOeeYlydnxXJY-DeJkmNR</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Karışık_Türküler</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne5gsBQo90qeBFM8Gv2JSqqkzjCq7yRuoxwy4ljSjwSC</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Türk_Sanat_Müziği</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUwF9tzGfoRfyIiSCBXR5JHmoRJigxGWd_lraujyg3i6</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Türkülerle_Türkiye</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne5gsBQo90qeBFM8Gv2JSqoZBv803enNDMjj2hkzqk4q</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Taverna_Şarkıları</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne5gsBQo90qeBFM8Gv2JSqqMour6KPdvo1RdnmHLYWkr</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Çok_Akustik</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne5gsBQo90qeBFM8Gv2JSqqbKoqlQkLcFyx2BlpRMTau</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzil_Gizli_Bahçe_Akustik</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfSh_kFbJcZTK-ci5jDFVt5qyOShynsnGELlG_oMHefA</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Neşet_Ertaş</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbcCCL94K8XwvlZhwewXCWtOufZkMWF1Jv4kWGTTTM3o</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Karışık_Özgün_MÜzik</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfSh_kFbJcZTK-ci5jDFVt7x9bVnQbUl-_G6gy8EMtCo</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_1</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVRA4m2pNmW01EmXZHBSkTKg</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_2</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVTmpos1ibAZZvzmqN7YpV9x</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_3</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVQcW-vlVSrxgi0BBGlgwzIL</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_4</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVRHCylW65WUBSNsnj-0BVAp</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_5</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVRPW0RlaHRwPaWL6V5Fngez</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_6</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVR2V1FABpOtK53_rxpo8jh3</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Movie_RELAX_HD_7</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW-vFWzst6ShvrnVkqNnZVTyv7hvSK1UvDau92oDLj3g</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Akustikhane</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRH8tnhHokofYbIQ1X703t7ocCUmk1zNKA_cLG-KSaK9</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Türkçe_Pop</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncr253Wyoh_TlVXjwE3dsVpTVCeKYQY4gAxHYRONKZ2C</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Halk_Müziği</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndxArwmO6XjkELKuKu-gjd7tQRPn-vWf7ksdvxZXnXMV</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Arabesk</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnagTpjmVNNJlXG0VRcoshjYD4DvfsvEilwB6OGR3qRVf</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Müzik_Müslüm_Gürses</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXYVMi7CMWE9GU5kck29Lr8bjHqf5jjU70YNOBNeoVkk</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>Diamant_Muzik_Arabeskin_Babalari</name>
-    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnca23i9Fr2Y8kTv5Q-sSzHjOkhZWeSgcTCc89Rb6XfXI</url>
-    <group-title>MUZIK</group-title>
-  </channel>
-  <channel>
-    <name>MAC_OZETLERI</name>
-    <logo>https://mediacms01.digiturkplay.com/dzdy_web_turksat/PT0000275528/superlig-2020-2021-ozetler-yeni_220x286_raw.jpg</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfjHWW7vbkYtP8i_3PdMzGZIEKpjK0g2zq12xiA3rTb6</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Sports_1_¹⁰⁸⁰ᵖ</name>
-    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnaMsFAkulLxMTwONeahJrABRJCA6nlKPYwc1rtGX2Bb0</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_1_ᴴᴰ</name>
-    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV23zIMubvWil3vcQ_XB1_h6a7ijBYhxXOUqn-MzC27D</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_1_ˢᵈ</name>
-    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfQaht7QAnfroDzp7LMQg08</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_2_¹⁰⁸⁰ᵖ</name>
-    <logo>https://i.ibb.co/4dMMmX2/bein2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndzvwlwYHwRNwiwP6y10APM</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_2_ᴴᴰ</name>
-    <logo>https://i.ibb.co/4dMMmX2/bein2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV23zIMubvWil3vcQ_XB1_iQxVpZNkWcCC7EY21YUXwO</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_3_¹⁰⁸⁰ᵖ</name>
-    <logo>https://i.ibb.co/5TtXFjF/bein3.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS5IhwzmhV9bSERe4yzz92k</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 3</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_3_ᴴᴰ</name>
-    <logo>https://i.ibb.co/5TtXFjF/bein3.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfxByf5sBv194_mSoKviehs</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 3</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_4_¹⁰⁸⁰ᵖ</name>
-    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV23zIMubvWil3vcQ_XB1_j2D7mlve-7mx7Eg5R2_O9l</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 4</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_4_ᴴᴰ</name>
-    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnebBoRzRlyjjjocLO_qXebY</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 4</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_5_¹⁰⁸⁰ᵖ</name>
-    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQ8BX_OAewyfOpGL2cngNi4</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 5</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_5_ᴴᴰ</name>
-    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXomQjSP9idjqvHpTWGQmbk</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS 5</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_Max_1</name>
-    <logo>https://i.ibb.co/fvZT1CP/beinmax1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUakCXgPdTjQlVHEeNZln-k</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS MAX 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_Max_2</name>
-    <logo>https://i.ibb.co/cbBg1Fj/beinmax2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfHb6hLH_miFT2Uws0aOtUY</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS MAX 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW5EcJIk7TQkvJ92imw24DTa4iJfhCF_9W2BNsH2A1XE</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQCRBNpCtaPrJq0HwS-vkP7n04ev9QzrikGBK9BmMkRG</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_1</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne-69wV7ndWoBCvJxYiQUnX984wSOvCnMrGSjJ8WY2qD</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_1</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW5EcJIk7TQkvJ92imw24DSelFG1fZH4Cq6kGNPPKvVc</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_2</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRG6lVZRVT5L6Kkq1Rd6qmQ</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_2</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQCRBNpCtaPrJq0HwS-vkP7y3vlqH_FVLUsRkNk6-rbX</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_3</name>
-    <logo>https://i.ibb.co/yVXrKcj/tivibu3.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne-69wV7ndWoBCvJxYiQUnWiPDsEyHw447jFm3jOIoz5</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 3</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_3</name>
-    <logo>https://i.ibb.co/yVXrKcj/tivibu3.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRaeba2VEiCjD33F0npXBJs</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 3</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_4</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne-69wV7ndWoBCvJxYiQUnW3MLOa3_F_-TUdZ2tuLdyU</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 4</tvg-id>
-  </channel>
-  <channel>
-    <name>Tivibu_Spor_4</name>
-    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQCRBNpCtaPrJq0HwS-vkP4-azXzO2cSjmggzPIcCpPD</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Tivibu Spor 4</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport</name>
-    <logo>https://i.ibb.co/d2ppQ75/ssport1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRDz20fozCofSoS9GF7eKLU</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>S Sport</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport</name>
-    <logo>https://i.ibb.co/d2ppQ75/ssport1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUGmKBczlxJV1_7ZLcd9RWkT3VMVMzDX0hdCo-IbHj_k</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>S Sport</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport_2</name>
-    <logo>https://i.ibb.co/N2m3rw6/ssport2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTplTvGYPh4tjS_SdfcifSIR2KDWIBfPdNvNwKus7hDn</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>S Sport 2</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport_2</name>
-    <logo>https://i.ibb.co/N2m3rw6/ssport2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbXIrjw_Hc2h1V5WQQA3SVzrf07nOiKg02awLO38SuDe</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>S Sport 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Spor_Smart_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/3vmc825/smart1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQUwQTQ9A4jmjo9XGEA4yxM</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Spor Smart</tvg-id>
-  </channel>
-  <channel>
-    <name>Spor_Smart</name>
-    <logo>https://i.ibb.co/3vmc825/smart1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnaRtZyhx5hbwBEE94L6Z_PYEqBR2bX9-_STh0VrF6dJQ</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Spor Smart</tvg-id>
-  </channel>
-  <channel>
-    <name>Spor_Smart_2_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/Cv2qK84/smart2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTfqaV5uWCn8PiblNhXYNdxkAtWd5SFY_XfB72oOabEG</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>SPOR SMART 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Sıfır_Tv</name>
-    <logo>https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneQNmZ8aRSsxnAMHlqgPcmKqlO8hLC4AQrJbNrLZKOm3</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>TRT_Spor</name>
-    <logo>https://i.ibb.co/x8nWWck/trtspor.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXxPQIvSn45E9EMDtPnAxVY</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>TRT SPOR</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Spor</name>
-    <logo>https://i.ibb.co/x8nWWck/trtspor.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbqn-aamzTqbiuoc1RyElSq4xdRe-Rqd_86RTMmSa281</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>TRT SPOR</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_Haber</name>
-    <logo>https://i.ibb.co/2YbkTnw/beinhaber.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSXPjo2juccBpnE8mIURhcg</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>beIN SPORTS HABER</tvg-id>
-  </channel>
-  <channel>
-    <name>HT_Spor</name>
-    <logo>https://i.ibb.co/tMWWRkLB/Ht-spor-buyuk-webp.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQoz0RJUduTuL6yPk7SPkV2Cba7EpLipyAuRpT7rrFWP</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>HT SPOR</tvg-id>
-  </channel>
-  <channel>
-    <name>A_Spor</name>
-    <logo>https://i.ibb.co/R0j5nDD/aspor.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZEhgL0u9YNfsKcnRe7BK84</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>A Spor</tvg-id>
-  </channel>
-  <channel>
-    <name>A_SPOR</name>
-    <logo>https://i.ibb.co/Bw4zG0P/aspor.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbqn-aamzTqbiuoc1RyElSpfpBtxPVAQ6YzngrwkXbNX</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>A Spor</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Spor_Yıldız</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnezENR9fzMNK8WBYmABN7TCSsFq4FsQGMSUVi7jhK0ga</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>TRT Spor Yıldız</tvg-id>
-  </channel>
-  <channel>
-    <name>TRT_Spor_Yıldız</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV_pLM4jR_S23-YKzeOU36_1q5RJfouKWAPcM7AWBBwL</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>TRT Spor Yıldız</tvg-id>
-  </channel>
-  <channel>
-    <name>Ekol_Sport</name>
-    <logo>https://i.ibb.co/bgssxrbQ/ekol-sport.jpg</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZ2Zfp7BJWXroKl4WCDR1WgJd2noaMEea_f4Lhpc_Eu2</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Sports_Tv</name>
-    <logo>https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUOs34EDBZQPkom8T15ES-8</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>SPORTS TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Sports_Tv</name>
-    <logo>https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW_oO_04OxewOTh4I9_Vops</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>SPORTS TV</tvg-id>
-  </channel>
-  <channel>
-    <name>Eurosport_1_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/nm0Wd5q/eurosport1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZEJb3UmtohioX_XvCJppN8</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Eurosport 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Eurosport_1</name>
-    <logo>https://i.ibb.co/nm0Wd5q/eurosport1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW5EcJIk7TQkvJ92imw24DSlphjGfBfd2FBA-gF4sus-</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Eurosport 1</tvg-id>
-  </channel>
-  <channel>
-    <name>Eurosport_2_ᴿᴬᵂ</name>
-    <logo>https://i.ibb.co/TWrDp2P/eurosport2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZwJC6MDcSnOuU1jDdTGN8o</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Eurosport 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Eurosport_2</name>
-    <logo>https://i.ibb.co/TWrDp2P/eurosport2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnW5EcJIk7TQkvJ92imw24DR0PBCF30u_oT-yApdjdyoN</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Eurosport 2</tvg-id>
-  </channel>
-  <channel>
-    <name>Cosmo_Sports</name>
-    <logo>https://dsmart-static-v2.ercdn.net/content/6/7E/11911/Thumbnail.png?v=638713601963232106</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnar_Uflgoc0TqkCi7T-ADKY</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>CosmoSports</tvg-id>
-  </channel>
-  <channel>
-    <name>NBA_Tv</name>
-    <logo>https://i.ibb.co/yNB3M2f/nba.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYEbrmiPbUPYHqWfsbsVp8A</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>NBA TV</tvg-id>
-  </channel>
-  <channel>
-    <name>FB_Tv</name>
-    <logo>https://i.ibb.co/G9RBQX6/fb.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnf2Z8MGWKnCyaMOI9KHemrI</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>FB TV</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_1</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srCB7JsRJx6fU8HjW8Zu5d3</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>SSport+ Event 01</tvg-id>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_2</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srFvulUYzphfZvUyhs5o95v</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_3</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spt6k0NU-nBFZ0yYC_hk7F3</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_4</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soEVPjhH2F4akn5kHucZCPw</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_5</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqNotoucOVCQlGxFBclNA1t</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_6</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqwajtEXMyIYwKfBlyyYHvL</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_7</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spueSkxYV9WLH425Xy2TRrR</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_8</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soSX8Vim8ADclfHKUQmRMTz</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_9</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spPKemacWuxX8uAO_QDIfh1</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_10</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQUYNtM3Zh7fy0XBrYpCcmKDLIen_p5YkCcGpQQtm9JU</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_11</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQUYNtM3Zh7fy0XBrYpCcmKjYp7WE5deCT4oHf--05-y</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_12</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUR8-M-SSbpSwxOkZ47Ww4sN</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_13</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUQAl64XQtURg7Fdbwrv1jFu</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_14</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUT2j2akaF2mXcKCpXPK94Ko</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>S_Sport_Plus_15</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUQ0QjIjPZsUu6RyomMnS_CE</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_FHD</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnU_Hov96N7uKn6vMi5R6qr6o8OHmXvP9EG5Cgt6mUGNk</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_1</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdaWiWDxasig3P7vjzQx0sil</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_2</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdaJY_PMhzdAe3aDwBZGL09T</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_3</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdYhQfC7b2K09LLh4RPYI-Hd</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_4</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdZTTnMP_eI1A3bzJ24pVxph</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_5</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdbeWPg3ZXT4b2_lm-BmpldK</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_6</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVk8SqKXetdohOYRjiDOHdaR8fVN2XKcL3CIwoHcl9Xt</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Tabii_Spor_7</name>
-    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWShVUBV-cb-5DHLsyXBzTYeTtO7SS8WuWUNBwED33W6</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_1</name>
-    <logo>https://i.ibb.co/hWjCQb4/exxen1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srPRlrPkiQ0kcJH_MyN8R2p</url>
-    <group-title>SPOR</group-title>
-    <tvg-id>Exxen Sport</tvg-id>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_1</name>
-    <logo>https://i.ibb.co/hWjCQb4/exxen1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spRgs7BwPbhu_robS-uWEDl</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_2</name>
-    <logo>https://i.ibb.co/p2j1HzM/exxen2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sp6cZmvMKmmTzUPrn1aABKu</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_3</name>
-    <logo>https://i.ibb.co/510Hx0C/exxen3.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqHh1t1vSMSGH-V-9ij6XRi</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_4</name>
-    <logo>https://i.ibb.co/ygy3PnZ/exxen4.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soXCJo6iLjkL0wnh83utt2r</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_5</name>
-    <logo>https://i.ibb.co/8s0r87x/exxen5.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqZ4iWlVD3p_X23XG_TZbUT</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_6</name>
-    <logo>https://i.ibb.co/jHpGJTy/exxen6.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soxKKO-2sT2bDbiIJZZwNWo</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_7</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srgZLrE9wEQ0sv2_nQgXZbU</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Exxen_Sports_8</name>
-    <logo>https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soksyJn7-CQX7hxNwAYYTaI</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_1</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srVTkoJL63OvPJZe34pp8yc</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_2</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqSSKugYsUnOdGpcRm4Io9v</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_3</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5so_Pp_DM_f5hVZDFbiItR23</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_4</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5so3Cq2PM_6ceOK1kUMGgPwI</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_5</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spkcXvREeGhJog1JIBuxZEL</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>BeinConnet_6</name>
-    <logo></logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sp9I8yCA5Hi5xXLRic5sgAI</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_1</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJsaBzbQBL6bSBfsjdBWZhaC</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_2</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJveTnRNyhUnQ2VZkCzJSBQH</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_3</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJs_Hdv19Rqrya1xzaaNyBHT</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_4</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJtrLVcreVwm_UDnM8gLafYv</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_5</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJvCbTHmnoHSgyKV1DZkLeLF</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
-    <name>Zee_Alwan_6</name>
-    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndeg5GjfikmmDTbGAsszwJsw8Mg79l7ObSQQnjK_tW8z</url>
-    <group-title>SPOR</group-title>
-  </channel>
-  <channel>
     <name>TRT_1</name>
     <logo>https://i.ibb.co/vdhMqbH/trt1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnV9xbMycKil7oU8-jAA_QYM</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/3</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT 1</tvg-id>
   </channel>
   <channel>
     <name>TRT_1</name>
     <logo>https://i.ibb.co/vdhMqbH/trt1.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXgthNAIYs8MDYEMHP9T5c0</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/4</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT 1</tvg-id>
   </channel>
   <channel>
     <name>TRT_2</name>
     <logo>https://i.ibb.co/MBMLsYr/trt2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUsa1UCHamniLOp6aXfqeU4IcXMmTKieMNbqAetNn9so</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/251814</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT 2</tvg-id>
   </channel>
   <channel>
     <name>TRT_2</name>
     <logo>https://i.ibb.co/MBMLsYr/trt2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVG_nTkn8fsnfHToqAe7DZc</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/5</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT 2</tvg-id>
   </channel>
   <channel>
     <name>Kanal_D</name>
     <logo>https://i.ibb.co/89TcZMS/kanald.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRoVGPsFJBvheee2KhbeO3Q</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/6</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Kanal D</tvg-id>
   </channel>
   <channel>
     <name>Kanal_D</name>
     <logo>https://i.ibb.co/89TcZMS/kanald.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVNAWhNzXBijCPLPz12woVU</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/7</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Kanal D</tvg-id>
   </channel>
   <channel>
     <name>Kanal_D_ᴬⱽᴿᵁᴾᴬ</name>
     <logo>https://i.ibb.co/KsXrjdz/eurod.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnetIhI2aQlBQEHEsJFgMfXc</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/8</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Euro D</tvg-id>
   </channel>
   <channel>
     <name>Star_Tv</name>
     <logo>https://i.ibb.co/4tZgxLv/startv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS8aiDcOdIXiPCgRcHks8V0</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/9</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Star TV</tvg-id>
   </channel>
   <channel>
     <name>Star_Tv</name>
     <logo>https://i.ibb.co/4tZgxLv/startv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnWQgqAH2xModRInbqwnjwhg</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/10</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Star TV</tvg-id>
   </channel>
   <channel>
     <name>Star_Tv_ᴬⱽᴿᵁᴾᴬ</name>
     <logo>https://i.ibb.co/zn4g0Gq/eurostar.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSSJ7nYZfMSYZ7daThdeF3c</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/11</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>DE_Euro Star</tvg-id>
   </channel>
   <channel>
     <name>Show_Tv</name>
     <logo>https://i.ibb.co/3m844CS/show.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVR2YjzKAZtvIolUclA-Eog</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/12</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Show TV</tvg-id>
   </channel>
   <channel>
     <name>Show_Tv</name>
     <logo>https://i.ibb.co/3m844CS/show.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnf1JqLoXexCVjNypwdqpfVo</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/13</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Show TV</tvg-id>
   </channel>
   <channel>
     <name>Show_Türk</name>
     <logo>https://i.ibb.co/8x3Z7cn/showturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYDcc7dEkHQiBwC9q4GIlLE</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/14</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>SHOW Türk</tvg-id>
   </channel>
   <channel>
     <name>ATV</name>
     <logo>https://i.ibb.co/JsQp8Nr/atv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne03yNTkBX06GqnHvZNgAf4</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/16</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>ATV</tvg-id>
   </channel>
   <channel>
     <name>ATV</name>
     <logo>https://i.ibb.co/JsQp8Nr/atv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnSyAJz_nccz8Np37O9cHPgc</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/17</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>ATV</tvg-id>
   </channel>
   <channel>
     <name>ATV_ᴬⱽᴿᵁᴾᴬ</name>
     <logo>https://i.ibb.co/F3TpQKH/euroatv.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTOzDu2W7eRXspvLRfFRKsI</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/18</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>ATV Avrupa</tvg-id>
   </channel>
   <channel>
     <name>Now_Tv</name>
     <logo>https://yt3.googleusercontent.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ=s900-c-k-c0x00ffffff-no-rj</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnbA1p4Xih-yTQ9x3ZLcGnPg</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/19</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>NOW</tvg-id>
   </channel>
   <channel>
     <name>Now_Tv</name>
     <logo>https://yt3.googleusercontent.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ=s900-c-k-c0x00ffffff-no-rj</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQkGP-11UForZNbaozatP6E</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/20</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>NOW</tvg-id>
   </channel>
   <channel>
     <name>Tv_8</name>
     <logo>https://i.ibb.co/mRFThvh/tv8.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnf8YeZMX3VIP1FoyO-ZHTfY</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/21</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TV8</tvg-id>
   </channel>
   <channel>
     <name>Tv_8</name>
     <logo>https://i.ibb.co/mRFThvh/tv8.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYUFZkAVrMeE3v3qqPvY78w</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/22</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TV8</tvg-id>
   </channel>
   <channel>
     <name>Tv_8_ᴬⱽᴿᵁᴾᴬ</name>
     <logo>https://i.ibb.co/3TNTC3n/tv8int.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZxOBr5YAflv8iGkM9uciA0</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/23</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>6f1eb9eb3c19b65e2d28ef3c401b124a</tvg-id>
   </channel>
   <channel>
     <name>Tv_8.5</name>
     <logo>https://i.ibb.co/0hvsQ8G/tv85.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnc0JQQMwc_gjhsQKv6Chv7k</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/24</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TV 8, 5</tvg-id>
   </channel>
   <channel>
     <name>Tv_8.5</name>
     <logo>https://i.ibb.co/0hvsQ8G/tv85.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVZ6tok7lu39N37LYxG7xXR1Ay5iR8Qqa5BtSiqt2inP</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/121862</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TV 8,5</tvg-id>
   </channel>
   <channel>
     <name>Teve_2</name>
     <logo>https://i.ibb.co/njph4N3/teve2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnf-I35rzjpG01-JjfjXsGTA</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/33</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Teve2</tvg-id>
   </channel>
   <channel>
     <name>Teve_2</name>
     <logo>https://i.ibb.co/njph4N3/teve2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVZ6tok7lu39N37LYxG7xXRKBOM1yjNqdX_e15IO0-6K</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/121863</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Teve2</tvg-id>
   </channel>
   <channel>
     <name>A2</name>
     <logo>https://i.ibb.co/QpShmk1/a2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnS8wCoD2wmSUwKoYqBWDurg</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/25</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>A2</tvg-id>
   </channel>
   <channel>
     <name>A2</name>
     <logo>https://i.ibb.co/QpShmk1/a2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnUZmotZxpjSDEkISy1d4qRqcaWgYzrCvccXTHECqFdLL</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117298</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>A2</tvg-id>
   </channel>
   <channel>
     <name>Beyaz_Tv</name>
     <logo>https://i.ibb.co/85Ys182/beyaz.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncR05mdjBY1XMMRQOtClqoU</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/26</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>BEYAZ TV</tvg-id>
   </channel>
   <channel>
     <name>Beyaz_Tv</name>
     <logo>https://i.ibb.co/85Ys182/beyaz.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVCr5nogP6H00KFeW7HSePU</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/228</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>BEYAZ TV</tvg-id>
   </channel>
   <channel>
     <name>360_Tv</name>
     <logo>https://i.ibb.co/RYnC0sK/360.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnTFlvlYdLWLwsPzyGwyEukA</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/27</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>360</tvg-id>
   </channel>
   <channel>
     <name>360_Tv</name>
     <logo>https://i.ibb.co/RYnC0sK/360.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMneyefdxrU5yttLdcM5kRLjw</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/227</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>360</tvg-id>
   </channel>
   <channel>
     <name>gzt_Tv</name>
     <logo>https://i.ibb.co/hxKK6JQS/GZT-TV.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYgw9f5AaXwLYnMeCQYC6CQ</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/552</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>GZT TV</tvg-id>
   </channel>
   <channel>
     <name>Bi_Kanal</name>
     <logo>https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png?v=638869140394735196</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnc7U7Qaa7i8KndwGN4wdz9U</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/222</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Bi Kanal</tvg-id>
   </channel>
   <channel>
     <name>TRT_Türk</name>
     <logo>https://i.ibb.co/DtZB01s/trtturk.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZZwYB4k2uX6VTaruYoL8PWLCp_6QHAbcLs8VdRKULQ5</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/46566</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT TURK</tvg-id>
   </channel>
   <channel>
     <name>TRT_Avaz</name>
     <logo>https://i.ibb.co/Stt6ssF/ayvaz.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnZ3OVqCeESdINzV88idIajo</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/28</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT AVAZ</tvg-id>
   </channel>
   <channel>
     <name>TRT_Kürdi</name>
     <logo>https://i.ibb.co/k1rD8Vm/trtkurdi.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnb1wy4RP8CDWGLk-axikBng</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/29</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT Kurdi</tvg-id>
   </channel>
   <channel>
     <name>Kanal_7</name>
     <logo>https://i.ibb.co/sysDst5/kanal7.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnfBg369PXBYnpUSnE8USNmI</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/30</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>KANAL 7</tvg-id>
   </channel>
   <channel>
     <name>Kanal_7_ᴬⱽᴿᵁᴾᴬ</name>
     <logo>https://i.ibb.co/9ZBZ0Vd/kanal7eu.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMndYDoHo6ZIeuClpktAn5a2bTPR4at1LE1OwF8VBDFE28</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/4484</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Kanal 7 Int TR</tvg-id>
   </channel>
   <channel>
     <name>Kanal_B</name>
     <logo>https://i.ibb.co/cNJmjGJ/kanalb.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRGY2qSM6fo70K2LKZ6hvbo</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/783</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>Kanal B</tvg-id>
   </channel>
   <channel>
     <name>Sat_7_Türk</name>
     <logo>https://i.ibb.co/LpxkQyT/sat7.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnXs_mmIhVLHZVI3PchdsE6gVjB8Fc6y35U9sQCnsfYET</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/1823</url>
     <group-title>ULUSAL</group-title>
   </channel>
   <channel>
     <name>Cine_1</name>
     <logo>https://cine1.com.tr/img/cine1loogo.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnYUxGQIMQQKn_pWdZTJfsFGq3FZiwVWyJQTTrkbj2caz</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/797309</url>
     <group-title>ULUSAL</group-title>
   </channel>
   <channel>
     <name>Tivi_6</name>
     <logo>https://tivi6.com.tr/media/2023/06/cropped-Logo-Son-2.png</logo>
-    <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnVoIW5ZosNwAUXYnXxc94oU</url>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/51</url>
     <group-title>ULUSAL</group-title>
     <tvg-id>TİVİ 6</tvg-id>
+  </channel>
+  <channel>
+    <name>SZC_Tv</name>
+    <logo>https://i.ibb.co/W3B5shC/sozcutv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/38</url>
+    <group-title>HABER</group-title>
+    <tvg-id>SÖZCÜ TV</tvg-id>
+  </channel>
+  <channel>
+    <name>SZC_Tv</name>
+    <logo>https://i.ibb.co/W3B5shC/sozcutv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/410327</url>
+    <group-title>HABER</group-title>
+    <tvg-id>SÖZCÜ TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Halk_Tv</name>
+    <logo>https://i.ibb.co/Yy3Fy6S/halk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/229</url>
+    <group-title>HABER</group-title>
+    <tvg-id>Halk TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Halk_Tv</name>
+    <logo>https://i.ibb.co/Yy3Fy6S/halk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/303</url>
+    <group-title>HABER</group-title>
+    <tvg-id>Halk TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Krt_Tv</name>
+    <logo>https://i.ibb.co/KrDtZDD/krt.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/21284</url>
+    <group-title>HABER</group-title>
+    <tvg-id>KRT TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Krt_Tv</name>
+    <logo>https://i.ibb.co/KrDtZDD/krt.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/545</url>
+    <group-title>HABER</group-title>
+    <tvg-id>KRT TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Tele_1</name>
+    <logo>https://i.ibb.co/PjtPC1W/tele1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/34</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TELE 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Tele_1</name>
+    <logo>https://i.ibb.co/PjtPC1W/tele1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/546</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TELE 1</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Haber</name>
+    <logo>https://i.ibb.co/NCsS2CJ/trthaber.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/297</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TRT Haber</tvg-id>
+  </channel>
+  <channel>
+    <name>A_Haber</name>
+    <logo>https://i.ibb.co/YjNrsyB/ahaber.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/298</url>
+    <group-title>HABER</group-title>
+    <tvg-id>A Haber</tvg-id>
+  </channel>
+  <channel>
+    <name>A_Haber</name>
+    <logo>https://i.ibb.co/YjNrsyB/ahaber.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/289</url>
+    <group-title>HABER</group-title>
+    <tvg-id>A Haber</tvg-id>
+  </channel>
+  <channel>
+    <name>A_Para</name>
+    <logo>https://i.ibb.co/K7Nm9Bp/apara.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/299</url>
+    <group-title>HABER</group-title>
+    <tvg-id>A Para</tvg-id>
+  </channel>
+  <channel>
+    <name>A_Para</name>
+    <logo>https://i.ibb.co/K7Nm9Bp/apara.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/290</url>
+    <group-title>HABER</group-title>
+    <tvg-id>A Para</tvg-id>
+  </channel>
+  <channel>
+    <name>NTV</name>
+    <logo>https://i.ibb.co/RYg2tY0/ntv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/300</url>
+    <group-title>HABER</group-title>
+    <tvg-id>NTV</tvg-id>
+  </channel>
+  <channel>
+    <name>NTV</name>
+    <logo>https://i.ibb.co/RYg2tY0/ntv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/291</url>
+    <group-title>HABER</group-title>
+    <tvg-id>NTV</tvg-id>
+  </channel>
+  <channel>
+    <name>CNN_Türk</name>
+    <logo>https://i.ibb.co/cJ2S15B/cnn.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/301</url>
+    <group-title>HABER</group-title>
+    <tvg-id>CNN TÜRK</tvg-id>
+  </channel>
+  <channel>
+    <name>CNN_Türk</name>
+    <logo>https://i.ibb.co/cJ2S15B/cnn.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/292</url>
+    <group-title>HABER</group-title>
+    <tvg-id>CNN TÜRK</tvg-id>
+  </channel>
+  <channel>
+    <name>Tv_100</name>
+    <logo>https://i.ibb.co/6b3bxb5/tv100.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/302</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TV 100</tvg-id>
+  </channel>
+  <channel>
+    <name>Tv_100</name>
+    <logo>https://i.ibb.co/6b3bxb5/tv100.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/293</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TV 100</tvg-id>
+  </channel>
+  <channel>
+    <name>Haber_Global</name>
+    <logo>https://i.ibb.co/G54hhqn/global.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/304</url>
+    <group-title>HABER</group-title>
+    <tvg-id>HABER GLOBAL</tvg-id>
+  </channel>
+  <channel>
+    <name>Haber_Global</name>
+    <logo>https://i.ibb.co/G54hhqn/global.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/547</url>
+    <group-title>HABER</group-title>
+    <tvg-id>HABER GLOBAL</tvg-id>
+  </channel>
+  <channel>
+    <name>Haber_Türk</name>
+    <logo>https://i.ibb.co/TmGfs5k/haberturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/305</url>
+    <group-title>HABER</group-title>
+    <tvg-id>HABERTURK</tvg-id>
+  </channel>
+  <channel>
+    <name>Habertürk</name>
+    <logo>https://i.ibb.co/TmGfs5k/haberturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/548</url>
+    <group-title>HABER</group-title>
+    <tvg-id>HABERTURK</tvg-id>
+  </channel>
+  <channel>
+    <name>Ulusal_Tv</name>
+    <logo>https://i.ibb.co/mGBhpMc/ulusall.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/230</url>
+    <group-title>HABER</group-title>
+    <tvg-id>ULUSAL KANAL</tvg-id>
+  </channel>
+  <channel>
+    <name>Bloomberg_Ht</name>
+    <logo>https://i.ibb.co/rHgm9Qv/bloomberg.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/306</url>
+    <group-title>HABER</group-title>
+    <tvg-id>Bloomberg HT</tvg-id>
+  </channel>
+  <channel>
+    <name>24_Tv</name>
+    <logo>https://i.ibb.co/JxHp6DS/24.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/307</url>
+    <group-title>HABER</group-title>
+    <tvg-id>KANAL 24</tvg-id>
+  </channel>
+  <channel>
+    <name>24_Tv</name>
+    <logo>https://i.ibb.co/JxHp6DS/24.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117328</url>
+    <group-title>HABER</group-title>
+    <tvg-id>KANAL 24</tvg-id>
+  </channel>
+  <channel>
+    <name>Tv_5</name>
+    <logo>https://i.ibb.co/sJSMGf0/tv5.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62808</url>
+    <group-title>HABER</group-title>
+  </channel>
+  <channel>
+    <name>Bengü_Türk</name>
+    <logo>https://i.ibb.co/T0BFGc7/bengu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/308</url>
+    <group-title>HABER</group-title>
+    <tvg-id>BENGÜTÜRK</tvg-id>
+  </channel>
+  <channel>
+    <name>Tgrt_Haber</name>
+    <logo>https://i.ibb.co/HDBQnJb/tgrt.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/309</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TGRT HABER</tvg-id>
+  </channel>
+  <channel>
+    <name>Tgrt_Haber</name>
+    <logo>https://i.ibb.co/HDBQnJb/tgrt.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117317</url>
+    <group-title>HABER</group-title>
+  </channel>
+  <channel>
+    <name>Tv_Net</name>
+    <logo>https://i.ibb.co/LQTm7dx/tvnet.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/310</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TVNET</tvg-id>
+  </channel>
+  <channel>
+    <name>Ülke_Tv</name>
+    <logo>https://i.ibb.co/NrLrWDB/u-lke.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/311</url>
+    <group-title>HABER</group-title>
+    <tvg-id>Ülke TV</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_World</name>
+    <logo>https://i.ibb.co/k6Cpf0N/trtworld.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/312</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TRT World</tvg-id>
+  </channel>
+  <channel>
+    <name>Ekoturk_Tv</name>
+    <logo>https://www.tvyayinakisi.com/wp-content/uploads/2020/05/ekoturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/164563</url>
+    <group-title>HABER</group-title>
+  </channel>
+  <channel>
+    <name>TRT_3_TBMM_Tv</name>
+    <logo>https://www.trt.net.tr/_nuxt/img/trt-3-televizyon-kanali.1f3263d.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/619456</url>
+    <group-title>HABER</group-title>
+    <tvg-id>TRT 3 Spor</tvg-id>
+  </channel>
+  <channel>
+    <name>Nat_Geo_Channel</name>
+    <logo>https://i.ibb.co/F82nsZP/natgeo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/317</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>National Geographic</tvg-id>
+  </channel>
+  <channel>
+    <name>Nat_Geo_Channel</name>
+    <logo>https://i.ibb.co/F82nsZP/natgeo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72083</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>National Geographic</tvg-id>
+  </channel>
+  <channel>
+    <name>Nat_Geo_Wild</name>
+    <logo>https://i.ibb.co/XJRTdHD/natgeowild.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/316</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Nat Geo Wild</tvg-id>
+  </channel>
+  <channel>
+    <name>Nat_Geo_Wild</name>
+    <logo>https://i.ibb.co/XJRTdHD/natgeowild.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72084</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Nat Geo Wild</tvg-id>
+  </channel>
+  <channel>
+    <name>Discovery_Channel</name>
+    <logo>https://i.ibb.co/hKqVBkf/discovery.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/319</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Discovery Channel</tvg-id>
+  </channel>
+  <channel>
+    <name>Discovery_Channel</name>
+    <logo>https://i.ibb.co/hKqVBkf/discovery.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72080</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Discovery Channel</tvg-id>
+  </channel>
+  <channel>
+    <name>Habitat_Tv</name>
+    <logo>http://www.habitattv.com.tr/hbtt/assets/img/HABITAT_LOGO_small.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/640026</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>HABİTAT TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Viasat_History_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/GtNppqW/viasat.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/326</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Viasat History</tvg-id>
+  </channel>
+  <channel>
+    <name>Viasat_History</name>
+    <logo>https://i.ibb.co/GtNppqW/viasat.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/685304</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Viasat History</tvg-id>
+  </channel>
+  <channel>
+    <name>Investigation_Discovery_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/8MX6NRW/id.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/322</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>ID</tvg-id>
+  </channel>
+  <channel>
+    <name>Investigation_Discovery</name>
+    <logo>https://i.ibb.co/8MX6NRW/id.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72082</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>ID</tvg-id>
+  </channel>
+  <channel>
+    <name>Love_Nature_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/54921</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Love Nature</tvg-id>
+  </channel>
+  <channel>
+    <name>Love_Nature</name>
+    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72085</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>B***_Home_Entertainment</name>
+    <logo>https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-home-entertainment-logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/73</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>beIN HOME ENTERTAINMENT</tvg-id>
+  </channel>
+  <channel>
+    <name>BBC_Earth_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/qMdkvjL/bbcearth.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/328</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>BBC EARTH</tvg-id>
+  </channel>
+  <channel>
+    <name>BBC_Earth</name>
+    <logo>https://i.ibb.co/qMdkvjL/bbcearth.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/72079</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>BBC EARTH</tvg-id>
+  </channel>
+  <channel>
+    <name>Tarih_Tv</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/259177</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Tarih TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Da_Vinci_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/c6s3Y6w/davincilearning.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/324</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Da Vinci Learning</tvg-id>
+  </channel>
+  <channel>
+    <name>Da_Vinci</name>
+    <logo>https://i.ibb.co/c6s3Y6w/davincilearning.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/685066</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Da Vinci</tvg-id>
+  </channel>
+  <channel>
+    <name>Dmax</name>
+    <logo>https://i.ibb.co/R2f3MyF/dmax.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/323</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>DMAX</tvg-id>
+  </channel>
+  <channel>
+    <name>Dmax</name>
+    <logo>https://i.ibb.co/R2f3MyF/dmax.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/327</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>DMAX</tvg-id>
+  </channel>
+  <channel>
+    <name>TLC</name>
+    <logo>https://i.ibb.co/7YZwkc5/tlc.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/32</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>TLC</tvg-id>
+  </channel>
+  <channel>
+    <name>TLC</name>
+    <logo>https://i.ibb.co/7YZwkc5/tlc.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/618801</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>TLC</tvg-id>
+  </channel>
+  <channel>
+    <name>Yaban_Tv</name>
+    <logo>https://i.ibb.co/BshbZCL/yaban.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/1952</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Yaban TV</tvg-id>
+  </channel>
+  <channel>
+    <name>B***_Gurme</name>
+    <logo>https://i.ibb.co/TgRsZXF/gurme.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/31</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>beIN GURME</tvg-id>
+  </channel>
+  <channel>
+    <name>İztv</name>
+    <logo>https://i.ibb.co/XW8ShN9/iz.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/330</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>beIN İZ</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Belgesel</name>
+    <logo>https://i.ibb.co/vLsmwmC/trtbelgesel.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/329</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>TRT Belgesel</tvg-id>
+  </channel>
+  <channel>
+    <name>Tgrt_Belgesel</name>
+    <logo>https://i.ibb.co/7G1kBSN/tgrtbelgesel.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/331</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Çiftçi_Tv</name>
+    <logo>https://i.ibb.co/YWmSHwK/c-iftc-i.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/41557</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>Çifçi TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Docuscreen_ᴿᴬᵂ</name>
+    <logo>https://www.dsmart.com.tr/api/v1/public/images/kanallar/docu_screen.jpeg</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/54927</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>DocuScreen</tvg-id>
+  </channel>
+  <channel>
+    <name>Documax</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/635905</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Love_Nature</name>
+    <logo>https://i.ibb.co/vdr8DF3/lovenature.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/650596</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Uçak_Kazası_Raporu_-_Mayday</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/248334</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Yolda_Ne_Yiyoruz</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652797</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Yetenekli_Dr._Pool</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652447</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Tarihe_Yakın_Bakış</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/245578</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Ed_Stafford_İle_Doğada</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/412929</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Tamirat_Tadilat</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/413498</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Ölümcül_Av</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/413561</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Karavanda_Yaşam</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/413949</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Kırsalda_Yaşamak_Zor</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/424470</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Teke_Tek_Bilim</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/619443</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Belgesel_Refika'nın_Mutfağı</name>
+    <logo>https://i.ibb.co/dBpCKz6/Ba-l-ks-z-5.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/621453</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Ayhan_Sicimoğlu</name>
+    <logo>https://i.ibb.co/jhZVfz2/ayhan.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/119253</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Armağan_Çağlayan_Dur_Bi_Dinle</name>
+    <logo>https://i.ibb.co/wcHDYmk/ARMAGAN.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/121827</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Farklı_Mekanlar_Farklı_Lezzetler</name>
+    <logo>https://i.ibb.co/Y31Hvsd/farklimekanlarfarklilezzetler.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/123800</url>
+    <group-title>BELGESEL</group-title>
+  </channel>
+  <channel>
+    <name>Viasat_Explore</name>
+    <logo>https://i.ibb.co/bz3sNtp/viasatexplore.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/119498</url>
+    <group-title>BELGESEL</group-title>
+    <tvg-id>VIASAT EXPLORE</tvg-id>
+  </channel>
+  <channel>
+    <name>MAC_OZETLERI</name>
+    <logo>https://mediacms01.digiturkplay.com/dzdy_web_turksat/PT0000275528/superlig-2020-2021-ozetler-yeni_220x286_raw.jpg</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/818649</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Sports_1_¹⁰⁸⁰ᵖ</name>
+    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/16669</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_1_ᴴᴰ</name>
+    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/18123</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_1_ˢᵈ</name>
+    <logo>https://i.ibb.co/qW6Gjd2/bein1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/778</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_2_¹⁰⁸⁰ᵖ</name>
+    <logo>https://i.ibb.co/4dMMmX2/bein2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/203</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_2_ᴴᴰ</name>
+    <logo>https://i.ibb.co/4dMMmX2/bein2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/18124</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_3_¹⁰⁸⁰ᵖ</name>
+    <logo>https://i.ibb.co/5TtXFjF/bein3.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/205</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 3</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_3_ᴴᴰ</name>
+    <logo>https://i.ibb.co/5TtXFjF/bein3.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/204</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 3</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_4_¹⁰⁸⁰ᵖ</name>
+    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/18126</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 4</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_4_ᴴᴰ</name>
+    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/207</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 4</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_5_¹⁰⁸⁰ᵖ</name>
+    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/206</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 5</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_5_ᴴᴰ</name>
+    <logo>https://i.ibb.co/gZbfNBX/bein4.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/193</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS 5</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_Max_1</name>
+    <logo>https://i.ibb.co/fvZT1CP/beinmax1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/208</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS MAX 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_Max_2</name>
+    <logo>https://i.ibb.co/cbBg1Fj/beinmax2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/209</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS MAX 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/540196</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/816751</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_1</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62423</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_1</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/540195</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_2</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/195</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_2</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/816747</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_3</name>
+    <logo>https://i.ibb.co/yVXrKcj/tivibu3.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62421</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 3</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_3</name>
+    <logo>https://i.ibb.co/yVXrKcj/tivibu3.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/212</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 3</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_4</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62422</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 4</tvg-id>
+  </channel>
+  <channel>
+    <name>Tivibu_Spor_4</name>
+    <logo>https://i.ibb.co/P9MT9GX/tivibu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/816748</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Tivibu Spor 4</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport</name>
+    <logo>https://i.ibb.co/d2ppQ75/ssport1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/213</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>S Sport</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport</name>
+    <logo>https://i.ibb.co/d2ppQ75/ssport1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/28451</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>S Sport</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport_2</name>
+    <logo>https://i.ibb.co/N2m3rw6/ssport2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62804</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>S Sport 2</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport_2</name>
+    <logo>https://i.ibb.co/N2m3rw6/ssport2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/3756</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>S Sport 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Spor_Smart_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/3vmc825/smart1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/214</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Spor Smart</tvg-id>
+  </channel>
+  <channel>
+    <name>Spor_Smart</name>
+    <logo>https://i.ibb.co/3vmc825/smart1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/62359</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Spor Smart</tvg-id>
+  </channel>
+  <channel>
+    <name>Spor_Smart_2_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/Cv2qK84/smart2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/59327</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>SPOR SMART 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Sıfır_Tv</name>
+    <logo>https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/802986</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>TRT_Spor</name>
+    <logo>https://i.ibb.co/x8nWWck/trtspor.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/215</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>TRT SPOR</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Spor</name>
+    <logo>https://i.ibb.co/x8nWWck/trtspor.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/121955</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>TRT SPOR</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_Haber</name>
+    <logo>https://i.ibb.co/2YbkTnw/beinhaber.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/197</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>beIN SPORTS HABER</tvg-id>
+  </channel>
+  <channel>
+    <name>HT_Spor</name>
+    <logo>https://i.ibb.co/tMWWRkLB/Ht-spor-buyuk-webp.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/3758</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>HT SPOR</tvg-id>
+  </channel>
+  <channel>
+    <name>A_Spor</name>
+    <logo>https://i.ibb.co/R0j5nDD/aspor.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/216</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>A Spor</tvg-id>
+  </channel>
+  <channel>
+    <name>A_SPOR</name>
+    <logo>https://i.ibb.co/Bw4zG0P/aspor.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/121961</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>A Spor</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Spor_Yıldız</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/60170</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>TRT Spor Yıldız</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Spor_Yıldız</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/618798</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>TRT Spor Yıldız</tvg-id>
+  </channel>
+  <channel>
+    <name>Ekol_Sport</name>
+    <logo>https://i.ibb.co/bgssxrbQ/ekol-sport.jpg</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/800774</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Sports_Tv</name>
+    <logo>https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/179</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>SPORTS TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Sports_Tv</name>
+    <logo>https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/147</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>SPORTS TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Eurosport_1_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/nm0Wd5q/eurosport1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/217</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Eurosport 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Eurosport_1</name>
+    <logo>https://i.ibb.co/nm0Wd5q/eurosport1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/540178</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Eurosport 1</tvg-id>
+  </channel>
+  <channel>
+    <name>Eurosport_2_ᴿᴬᵂ</name>
+    <logo>https://i.ibb.co/TWrDp2P/eurosport2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/218</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Eurosport 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Eurosport_2</name>
+    <logo>https://i.ibb.co/TWrDp2P/eurosport2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/540179</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Eurosport 2</tvg-id>
+  </channel>
+  <channel>
+    <name>Cosmo_Sports</name>
+    <logo>https://dsmart-static-v2.ercdn.net/content/6/7E/11911/Thumbnail.png?v=638713601963232106</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/157</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>CosmoSports</tvg-id>
+  </channel>
+  <channel>
+    <name>NBA_Tv</name>
+    <logo>https://i.ibb.co/yNB3M2f/nba.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/220</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>NBA TV</tvg-id>
+  </channel>
+  <channel>
+    <name>FB_Tv</name>
+    <logo>https://i.ibb.co/G9RBQX6/fb.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/221</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>FB TV</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_1</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575051</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>SSport+ Event 01</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_2</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575052</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_3</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575053</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_4</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575054</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_5</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575055</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_6</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575056</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_7</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575057</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_8</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575058</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_9</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575060</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_10</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/825123</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_11</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/825124</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_12</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/834980</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_13</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/834981</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_14</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/834982</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>S_Sport_Plus_15</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/834983</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_FHD</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/717267</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_1</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716162</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_2</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716163</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_3</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716164</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_4</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716165</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_5</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716166</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_6</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/716167</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Tabii_Spor_7</name>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&amp;s</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/833215</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_1</name>
+    <logo>https://i.ibb.co/hWjCQb4/exxen1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575061</url>
+    <group-title>SPOR</group-title>
+    <tvg-id>Exxen Sport</tvg-id>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_1</name>
+    <logo>https://i.ibb.co/hWjCQb4/exxen1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575062</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_2</name>
+    <logo>https://i.ibb.co/p2j1HzM/exxen2.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575064</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_3</name>
+    <logo>https://i.ibb.co/510Hx0C/exxen3.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575065</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_4</name>
+    <logo>https://i.ibb.co/ygy3PnZ/exxen4.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575066</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_5</name>
+    <logo>https://i.ibb.co/8s0r87x/exxen5.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575067</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_6</name>
+    <logo>https://i.ibb.co/jHpGJTy/exxen6.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575068</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_7</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575069</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Exxen_Sports_8</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575070</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_1</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575045</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_2</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575046</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_3</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575047</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_4</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575048</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_5</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575049</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>BeinConnet_6</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/575050</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_1</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821136</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_2</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821137</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_3</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821138</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_4</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821139</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_5</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821140</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>Zee_Alwan_6</name>
+    <logo>https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/821141</url>
+    <group-title>SPOR</group-title>
+  </channel>
+  <channel>
+    <name>TRT_Çocuk</name>
+    <logo>https://i.ibb.co/0BVbX1W/trtcocuk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/365</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>TRT Çocuk</tvg-id>
+  </channel>
+  <channel>
+    <name>Nickelodeon</name>
+    <logo>https://i.ibb.co/sjtjdBD/nickheleon.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/364</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Nickelodeon</tvg-id>
+  </channel>
+  <channel>
+    <name>Dısney_Junıor</name>
+    <logo>https://i.ibb.co/db8Cr46/disneyjunior.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117408</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Cartoonito</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/250px-Cartoonito_-_Logo_2021.svg.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/600563</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Cartoonito</tvg-id>
+  </channel>
+  <channel>
+    <name>Nicktoons</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/3/3d/Nicktoons-logo655.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/94</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>NICKTOONS</tvg-id>
+  </channel>
+  <channel>
+    <name>S_Toon</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/550</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Moonbug Kids TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Baby_Tv</name>
+    <logo>https://i.ibb.co/yYxNX10/babytv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/356</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Baby TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Cartoon_Network</name>
+    <logo>https://i.ibb.co/9HLDgd7/cartoon.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/358</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Cartoon Network</tvg-id>
+  </channel>
+  <channel>
+    <name>Minika_Go</name>
+    <logo>https://i.ibb.co/zfYncPp/minikago.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/361</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>MinikaGO</tvg-id>
+  </channel>
+  <channel>
+    <name>Minika_Cocuk</name>
+    <logo>https://i.ibb.co/9ZwSzzS/minikacocuk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/362</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Minika Çocuk</tvg-id>
+  </channel>
+  <channel>
+    <name>Cocuk_Smart</name>
+    <logo>https://i.ibb.co/gVNzRr2/smartcocuk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/336</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Çocuk Smart</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Diyanet_Çocuk</name>
+    <logo>https://upload.wikimedia.org/wikipedia/commons/a/af/TRT_Diyanet_%C3%87ocuk_logo.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/619455</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/241536</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Cocuk_Kral_Sakir</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652448</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Cocuk_Arı_Maya</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652449</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Cocuk_Patron_Bebek_Yine_İs_Basinda</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652629</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Cocuk_Ordek_Hikayeleri</name>
+    <logo>https://i.hizliresim.com/qvqjo25.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/652634</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Akıllı_Tavşan_Momo</name>
+    <logo>https://i.ibb.co/4KSKCTB/ak-ll-tavsan.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/387615</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Cocuk_Bir_Varmış_Bir_Yokmuş</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242811</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Doru</name>
+    <logo>https://i.ibb.co/SRtW23h/doru.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/387331</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Elif_ve_Arkadaşları</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244460</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>He-Man_ve_Evrenin_Efendileri</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/241503</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Grizzy_ve_Lemmingler</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242503</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Gökkuşağı_Ruby</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244542</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Masal</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/241504</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Niloya</name>
+    <logo>https://i.ibb.co/Mg6nPqW/niloya.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/386334</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Örümcek_Adam</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/249232</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Pembe_Panter</name>
+    <logo>https://i.ibb.co/ZNHkR6Z/pembepanter.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/386288</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Peppa_Pig</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244547</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Red_Kit</name>
+    <logo>https://i.ibb.co/NrZNJCb/redkit.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242506</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Sevimli_Hayalet_Casper</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/249682</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Şirinler</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242513</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Tom_ve_Jerry</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/241316</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Canım_Kardeşim_Tv</name>
+    <logo>https://i.ibb.co/6nY4Q1q/canimkardesim.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383755</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Smartblu_Animasyon</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/118428</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Paw_Patrol</name>
+    <logo>https://i.ibb.co/xH881h0/pawpatrol.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383907</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Heidi_Tv</name>
+    <logo>https://i.ibb.co/nm0vLq9/heidi.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383918</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Barbie_Tv</name>
+    <logo>https://i.ibb.co/nMWpS6G/barbie.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383910</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Aslan_Tv</name>
+    <logo>https://i.ibb.co/9pY5NHY/aslantv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/384337</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Keloğlan_Tv</name>
+    <logo>https://i.ibb.co/d4pkJNq/kelog-lan.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/384336</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Ege_İle_Gaga_Tv</name>
+    <logo>https://i.ibb.co/RPTFHBD/egeilegaga.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/384335</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Hapşuu_Tv</name>
+    <logo>https://i.ibb.co/GJwfpJP/haps-uu.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/384334</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>İbi_Tv</name>
+    <logo>https://i.ibb.co/XyMJpFL/ibi.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/384330</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Elifin_Düşleri_Tv</name>
+    <logo>https://i.ibb.co/R74scdt/elifinddusleri.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383919</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Caillou_Tv</name>
+    <logo>https://i.ibb.co/sb6mHrn/caillou.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383756</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Monster_Town_Tv</name>
+    <logo>https://i.ibb.co/1JM0fWv/monstertown.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383757</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Dinozor_Dino_Tv</name>
+    <logo>https://i.ibb.co/028RD83/dinozordino.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383758</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Pijamaskeliler_Tv</name>
+    <logo>https://i.ibb.co/kVnnn4W/pijamaskeliler.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383759</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Kırmızı_Balık_Tv</name>
+    <logo>https://i.ibb.co/v4N60JH/k-rm-z-bal-k.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/343</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Tom_Ve_Jerry_Tv</name>
+    <logo>https://i.ibb.co/tPNTjfx/tomjerry.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383903</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Harika_Kanatlar_Tv</name>
+    <logo>https://i.ibb.co/0fQz0zN/harikakanatlar.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383908</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Şirinler_Tv</name>
+    <logo>https://i.ibb.co/fxKhX0H/sirinler.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/346</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Masa_İle_Koca_Ayı_Tv</name>
+    <logo>https://i.ibb.co/ThYj1XM/masailekocaayi.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383760</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Sevimli_Kahramanlar_Tv</name>
+    <logo>https://i.ibb.co/cv6PSyx/sevimlikahramanlar.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383904</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Konuşan_Tom_Tv</name>
+    <logo>https://i.ibb.co/fGkc6Dc/konusantom.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383909</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Rafadan_Tayfa_Tv</name>
+    <logo>https://i.ibb.co/FxGCg9X/rafadantayfa.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383905</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Pepee_Tv</name>
+    <logo>https://i.ibb.co/Z17KMfs/pepee.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/383906</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Leliko_Tv</name>
+    <logo>https://i.ibb.co/JHVJZxf/leliko.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389050</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Kukuli_Tv</name>
+    <logo>https://i.ibb.co/jb48fNb/kukuli.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389049</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Bibercik_Tv</name>
+    <logo>https://i.ibb.co/z50qr0M/biberciktv.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389048</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Dini_Çocuk_Tv</name>
+    <logo>https://i.ibb.co/QX0MVyq/dinicocuk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/388012</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Niloya_Tv</name>
+    <logo>https://i.ibb.co/Mg6nPqW/niloya.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117414</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Mr_Bean_Cartoon</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/155464</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>TRT_Eba_Tv</name>
+    <logo>https://i.ibb.co/x5n9JLB/trtortaokul.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/46089</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>TRT EBATV ORTAOKUL</tvg-id>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Bulmaca_Kulesi</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/613870</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Çocuk_Sürpriz_Kutusu</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/613871</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Kucuk_Kamyon_Leo</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/635907</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Spacetoon_Tv</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/805414</url>
+    <group-title>COCUK</group-title>
+  </channel>
+  <channel>
+    <name>Azomee</name>
+    <logo>https://dsmart-static-v2.ercdn.net/content/-/q4/14484/Thumbnail.png?v=638713603133396766</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/325</url>
+    <group-title>COCUK</group-title>
+    <tvg-id>Azoomee</tvg-id>
+  </channel>
+  <channel>
+    <name>TRT_Müzik</name>
+    <logo>https://i.ibb.co/1JwYvgT/trtmu-zik.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117461</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>TRT Müzik</tvg-id>
+  </channel>
+  <channel>
+    <name>Kral_Pop_Tv</name>
+    <logo>https://i.ibb.co/f8yCbP1/kralpop.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2123</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>Kral Pop</tvg-id>
+  </channel>
+  <channel>
+    <name>Nr1_Tv</name>
+    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2132</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>NR1</tvg-id>
+  </channel>
+  <channel>
+    <name>Nr1_Turk</name>
+    <logo>https://i.ibb.co/4sD7GcF/NR1tu-rk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2133</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>NR1 Türk</tvg-id>
+  </channel>
+  <channel>
+    <name>Nr1_Rap</name>
+    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117446</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Nr1_Dance</name>
+    <logo>https://i.ibb.co/HY6MpR3/n1.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117447</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Dream_Turk_Tv</name>
+    <logo>https://i.ibb.co/hyYtz98/dream.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2129</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>Dream Türk</tvg-id>
+  </channel>
+  <channel>
+    <name>Power_Tv</name>
+    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2130</url>
+    <group-title>MUZIK</group-title>
+    <tvg-id>Power TV</tvg-id>
+  </channel>
+  <channel>
+    <name>PowerTurk_Tv</name>
+    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/2131</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>PowerTurk_Taptaze</name>
+    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/164652</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Power_Slow</name>
+    <logo>https://i.ibb.co/3rvjXRW/powerturk.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/167010</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Power_Love</name>
+    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/164651</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Power_Dance</name>
+    <logo>https://i.ibb.co/vkL4Q7X/power.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117448</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>MusicBox</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/119512</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Filodi</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/118658</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Turk_RAP</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/118418</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Nostaljik_Klipler</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/650029</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_90'Lar</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641762</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Dıamant_Muzık_Fasıl</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641756</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Nostaljı</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641757</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Sezen_Aksu</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641758</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_ibrahim_Tatlises</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641767</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Selda_Bagcan</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641768</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Ahmet_Kaya</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641759</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Tas_Plak_Turkuler</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641760</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Karışık_Arabesk_Şarkılar</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244450</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Anadolu_Rock_Efsaneleri</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242772</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Karışık_Türküler</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242828</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Türk_Sanat_Müziği</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244423</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Türkülerle_Türkiye</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242873</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Taverna_Şarkıları</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242859</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Çok_Akustik</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/242872</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzil_Gizli_Bahçe_Akustik</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244546</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Neşet_Ertaş</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/240283</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Karışık_Özgün_MÜzik</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/244545</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_1</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389051</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_2</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389052</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_3</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389053</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_4</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389054</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_5</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389055</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_6</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389056</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Movie_RELAX_HD_7</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/389057</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Akustikhane</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/412916</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Türkçe_Pop</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/414019</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Halk_Müziği</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/414204</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Arabesk</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/414567</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Müzik_Müslüm_Gürses</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/414605</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>Diamant_Muzik_Arabeskin_Babalari</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/641769</url>
+    <group-title>MUZIK</group-title>
+  </channel>
+  <channel>
+    <name>TRT_Diyanet_Tv</name>
+    <logo>https://i.ibb.co/6XQt98b/trtdiyane.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/37</url>
+    <group-title>DiNi</group-title>
+    <tvg-id>Diyanet TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Semerkand_Tv</name>
+    <logo>https://i.ibb.co/RTgSXnc/semerkand.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/43</url>
+    <group-title>DiNi</group-title>
+    <tvg-id>SEMERKAND TV</tvg-id>
+  </channel>
+  <channel>
+    <name>Dost_Tv</name>
+    <logo>https://i.ibb.co/bgqZN1p/dost.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/63</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Kuran-ı_Kerim_Hatm-i_Serif_(30_Cüz_Tamamı)</name>
+    <logo>https://i.ibb.co/gVjWCKW/kuran-kerim.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117427</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Kuran_Meali_Tamamı</name>
+    <logo>https://i.ibb.co/gVjWCKW/kuran-kerim.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/119252</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>5_Vakit_Namaz_Nasıl_Kılınır_Kadınlar_ve_erkekler_icin_(AÇIKLAMALI)</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117425</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Dıyar_Tv</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/43832</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Nıhat_Hatıpoglu</name>
+    <logo>https://i.ibb.co/N6zXjvy/diamant.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/117428</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Kudus_Tv</name>
+    <logo>https://i.ibb.co/RBXdKzG/kudu-s.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/164562</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Kabe_Tv</name>
+    <logo>https://i.ibb.co/wYqwdzk/kabe.png</logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/217606</url>
+    <group-title>DiNi</group-title>
+  </channel>
+  <channel>
+    <name>Vav_Tv</name>
+    <logo></logo>
+    <url>http://genel.oshwm5g.xyz:8080/agaymegsr/TJmWEX8Uh5GV/157517</url>
+    <group-title>DiNi</group-title>
   </channel>
 </channels>
