@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <channels epg-url="http://genel.oshwm5g.xyz:8080/xmltv.php?username=agaymegsr%5C&amp;password=TJmWEX8Uh5GV%5C">
   <channel>
     <name>Nat Geo Channel</name>
@@ -210,6 +210,7 @@
   </channel>
   <channel>
     <name>Documax</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT2bcNLlFDfQ7wJpgq-guxf5-oGwMNiAuLNp3z8Lzf_k</url>
     <group-title>▱ BELGESEL</group-title>
   </channel>
@@ -346,6 +347,7 @@
   </channel>
   <channel>
     <name>S Toon</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMne_P_t9BBBSShrWbPNjc5x8</url>
     <group-title>▱ COCUK</group-title>
     <tvg-id>Moonbug Kids TV</tvg-id>
@@ -718,11 +720,13 @@
   </channel>
   <channel>
     <name>Kucuk Kamyon Leo</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnT2bcNLlFDfQ7wJpgq-guxfiffSj8PpBArjPodUsL-bK</url>
     <group-title>▱ COCUK</group-title>
   </channel>
   <channel>
     <name>Spacetoon Tv</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnaBndlH9Clujw4nmg7ENjN8hHi44HghW6teK7dJI8UWM</url>
     <group-title>▱ COCUK</group-title>
   </channel>
@@ -1625,77 +1629,92 @@
   </channel>
   <channel>
     <name>S Sport Plus 1</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srCB7JsRJx6fU8HjW8Zu5d3</url>
     <group-title>▱ SPOR</group-title>
     <tvg-id>SSport+ Event 01</tvg-id>
   </channel>
   <channel>
     <name>S Sport Plus 2</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srFvulUYzphfZvUyhs5o95v</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 3</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spt6k0NU-nBFZ0yYC_hk7F3</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 4</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soEVPjhH2F4akn5kHucZCPw</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 5</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqNotoucOVCQlGxFBclNA1t</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 6</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqwajtEXMyIYwKfBlyyYHvL</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 7</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spueSkxYV9WLH425Xy2TRrR</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 8</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5soSX8Vim8ADclfHKUQmRMTz</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 9</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spPKemacWuxX8uAO_QDIfh1</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 10</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQUYNtM3Zh7fy0XBrYpCcmKDLIen_p5YkCcGpQQtm9JU</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 11</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnQUYNtM3Zh7fy0XBrYpCcmKjYp7WE5deCT4oHf--05-y</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 12</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUR8-M-SSbpSwxOkZ47Ww4sN</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 13</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUQAl64XQtURg7Fdbwrv1jFu</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 14</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUT2j2akaF2mXcKCpXPK94Ko</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>S Sport Plus 15</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMnRfhlLBYvUVBjNLx3PACGUQ0QjIjPZsUu6RyomMnS_CE</url>
     <group-title>▱ SPOR</group-title>
   </channel>
@@ -1804,31 +1823,37 @@
   </channel>
   <channel>
     <name>BeinConnet 1</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5srVTkoJL63OvPJZe34pp8yc</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>BeinConnet 2</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sqSSKugYsUnOdGpcRm4Io9v</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>BeinConnet 3</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5so_Pp_DM_f5hVZDFbiItR23</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>BeinConnet 4</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5so3Cq2PM_6ceOK1kUMGgPwI</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>BeinConnet 5</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5spkcXvREeGhJog1JIBuxZEL</url>
     <group-title>▱ SPOR</group-title>
   </channel>
   <channel>
     <name>BeinConnet 6</name>
+    <logo></logo>
     <url>http://genel.oshwm5g.xyz:8080/play/VzYQ35foe8Efcxa1opcMncPFoC_u4_LwS9K8EFrl5sp9I8yCA5Hi5xXLRic5sgAI</url>
     <group-title>▱ SPOR</group-title>
   </channel>
