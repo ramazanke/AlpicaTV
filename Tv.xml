@@ -457,7 +457,7 @@
     <name>TR_Nba_TV_HD</name>
     <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/nba_tv.png</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/6111</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
     <tvg-id>NBATV.tr</tvg-id>
   </channel>
   <channel>
@@ -517,12 +517,6 @@
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/638167</url>
     <group-title>SPOR</group-title>
     <tvg-id>ASpor.tr</tvg-id>
-  </channel>
-  <channel>
-    <name>TR_0_SIFIR_TV</name>
-    <logo>None</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/638168</url>
-    <group-title>ULUSAL</group-title>
   </channel>
   <channel>
     <name>TR_HT_SPOR_FHD</name>
@@ -604,13 +598,7 @@
     <group-title>ULUSAL</group-title>
     <tvg-id>TRT1.tr</tvg-id>
   </channel>
-  <channel>
-    <name>TR_Trt_1_SD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/581753</url>
-    <group-title>ULUSAL</group-title>
-    <tvg-id>TRT1.tr</tvg-id>
-  </channel>
+
   <channel>
     <name>TR_Atv_HD</name>
     <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png</logo>
