@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels epg-url="http://maximultra.shop:8080/xmltv.php?username=hkn5966&amp;password=cn.1609">
   <channel>
-    <name>TR_BİLGİ</name>
-    <logo>https://cdn.creazilla.com/cliparts/76466/megaphone-clipart-md.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/578519</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
     <name>TR_beIN_Sports_1_TTNET_ÖZEL</name>
     <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/334642</url>
@@ -477,20 +471,20 @@
     <name>TR_FB_TV</name>
     <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/fb_tv.png</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/6114</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
     <tvg-id>FBTV.tr</tvg-id>
   </channel>
   <channel>
     <name>TR_TJK_TV_HD</name>
     <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tjk_tv.png</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/6116</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
   </channel>
   <channel>
     <name>TR_TAY_TV_HD</name>
     <logo>https://upload.wikimedia.org/wikipedia/tr/0/02/T.A.Y._TV_logosu.png</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/6117</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
   </channel>
   <channel>
     <name>TR_Ekol_Sport_HD</name>
@@ -588,80 +582,20 @@
     <name>TR_FB_TV_HD</name>
     <logo>None</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/638178</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
     <tvg-id>FBTV.tr</tvg-id>
   </channel>
   <channel>
     <name>TR_TJK_TV_HD</name>
     <logo>None</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/638179</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
   </channel>
   <channel>
     <name>TR_T_A_Y_TV</name>
     <logo>None</logo>
     <url>http://maximultra.shop:8080/hkn5966/cn.1609/638180</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_1_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192716</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_2_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192717</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_3_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192718</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_4_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192719</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_5_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192720</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_6_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192721</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_7_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192722</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_8_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192723</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_9_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192724</url>
-    <group-title>ULUSAL</group-title>
-  </channel>
-  <channel>
-    <name>TR_MaximTV_Terapi_TV_10_HD</name>
-    <logo>https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png</logo>
-    <url>http://maximultra.shop:8080/hkn5966/cn.1609/192725</url>
-    <group-title>ULUSAL</group-title>
+    <group-title>SPOR</group-title>
   </channel>
   <channel>
     <name>TR_Trt_1_HD</name>
