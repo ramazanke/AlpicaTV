@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg" group-title=" TR • 4K UHD FILM",Bohemian Rhapsody
-https://s427.rapidrame.com/hls2/01/00026/6qbrej2as5sm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=F7fveg_NWrWIIPNXoMaabJYWzVm0cv9eEVWACeiplnE&s=1791018782&e=14400&f=134365&i=0.0&sp=0&n=w905muvh3l1or6m9
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody" tvg-logo="https://cdn.sinemalar.com/images/movie/242124/poster/bohemian-rhapsody-1660925804.jpg" group-title=" TR • 4K UHD FILM",Bohemian Rhapsody
+https://vd432.okcdn.ru/?expires=1791310003746&srcIp=2a00%3A1d35%3A4072%3A9200%3Ab9a3%3A5326%3Adb38%3Abf01&pr=70&srcAg=CHROME&ch=-1610167797&ms=178.237.23.52&type=1&sig=tucmrV0qEzA&ct=6&urls=95.163.35.108&clientType=33&id=7757333334748&dzen_dash=dash&selected_id=5
 #EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title=" TR • 4K UHD FILM",21 Bridges (2019)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/307143.mkv
 #EXTINF:-1 tvg-id="" tvg-name="47 Metre Derinde: Kafes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWWQb1Wwitgtx2fwMCnjmchyyON.jpg" group-title=" TR • 4K UHD FILM",47 Metre Derinde: Kafes (2019)
@@ -1987,6 +1988,26 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320630.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321204.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Drawn Together (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goVvXGQA4j8zySkDHepbvpS6izV.jpg" group-title="TR • AMAZON PRIME FILMLER",Drawn Together (2025)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sen, Ben ve Toscana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg" group-title="TR • AMAZON PRIME FILMLER",Sen, Ben ve Toscana (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hamlet (2025)" tvg-logo="https://cdn.sinemalar.com/images/movie/243776/poster/hamlet-1768164357.jpg" group-title="TR • AMAZON PRIME FILMLER",Hamlet (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Başıbozuklar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8Ym18hbONvPvsF6XGFtxuNfYwc.jpg" group-title="TR • AMAZON PRIME FILMLER",Başıbozuklar (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sultana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDebpR4NplIM8EteAGfd51Zdisu.jpg" group-title="TR • AMAZON PRIME FILMLER",Sultana (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çıkış Yolu (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJ6qp6LAI3U9SvWi8LTJtBSNqX.jpg" group-title="TR • AMAZON PRIME FILMLER",Çıkış Yolu (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şeytan Çocuk (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y5HMRzEwqdFFUxz3bgmCz5C0QF.jpg" group-title="TR • AMAZON PRIME FILMLER",Şeytan Çocuk (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moss & Freud (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRZYAWgXbcuQ7NAGjJjp4Mw8urw.jpg" group-title="TR • AMAZON PRIME FILMLER",Moss & Freud (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gölgedeki Yıldız (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfyxq9pFvpEAb36ewnd5pX1HsA7.jpg" group-title="TR • AMAZON PRIME FILMLER",Gölgedeki Yıldız (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşk Hipotezi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iivx45c7FZNrcG0huJypmvPNFaY.jpg" group-title="TR • AMAZON PRIME FILMLER",Aşk Hipotezi (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yasak Meyveler (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i9CnTymnqqlsLCPjwt2ET8Pm1T.jpg" group-title="TR • AMAZON PRIME FILMLER",Yasak Meyveler (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322443.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: Crisis on Infinite Earths Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg" group-title="TR • ANIMASYON FILMLER",Justice League: Crisis on Infinite Earths Part Two (2024)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/305007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adalet Birliği Karanlıktakiler (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWcTaDFXDrOAPfVzfBFz0Aya5BE.jpg" group-title="TR • ANIMASYON FILMLER",Adalet Birliği Karanlıktakiler (2017)
@@ -3513,6 +3534,8 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320631.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320875.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dino Ailesi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg" group-title="TR • ANIMASYON FILMLER",Dino Ailesi (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dino Ailesi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoY3XHodvwXpK9vxjZgkCKftIzf.jpg" group-title="TR • ANIMASYON FILMLER",Dino Ailesi (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321543.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Snoopy Presents: Lucy's School (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJgiZrEIH3LKEwiZjWmpWDPETrT.jpg" group-title="TR • APPLE TV ORIGINALS FILMLER",Snoopy Presents: Lucy's School (2022)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/209465.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Velveteen Rabbit (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg" group-title="TR • APPLE TV ORIGINALS FILMLER",The Velveteen Rabbit (2023)
@@ -3743,6 +3766,10 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/310316.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sessiz Tepe: Dönüş (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oWms9YonVlnpNXnoo96TlSBkgf.jpg" group-title="TR • APPLE TV ORIGINALS FILMLER",Sessiz Tepe: Dönüş (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehlikeli Hayvanlar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg" group-title="TR • APPLE TV ORIGINALS FILMLER",Tehlikeli Hayvanlar (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yolda Kaldım (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4L0u4Eo5ORLvIGJHDBiY11pM6pB.jpg" group-title="TR • APPLE TV ORIGINALS FILMLER",Yolda Kaldım (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322444.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gün Batımı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svr8o8EFZ7rnTu5fNw06zFJxVmP.jpg" group-title="TR • BEIN CONNECT & TOD FILMLER",Gün Batımı (2022)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/122614.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Assistant (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="TR • BEIN CONNECT & TOD FILMLER",The Assistant (2020)
@@ -6029,552 +6056,608 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/248213.mp4
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/248214.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zumer.Suresi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg" group-title="TR • DINI FILMLER",Zumer.Suresi
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/248215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Predator: Killer of Killers 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg" group-title="TR • DISNEY+ FILMLER",Predator: Killer of Killers 2025
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/257467.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aile Arasında - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxA6UjZqRX1LFCQ6kgjpbCCP3JI.jpg" group-title="TR • DISNEY+ FILMLER",Aile Arasında - 2017
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/63968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spoiler (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg" group-title="TR • DISNEY+ FILMLER",Spoiler (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi ve On Halka Efsanesi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuFRut0rHI7L2NqC3RyYu6Tj8Od.jpg" group-title="TR • DISNEY+ FILMLER",Shang-Chi ve On Halka Efsanesi (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/278299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Balloonist (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1PND9xFwNVtEM2ASAXlSXcwKUT.jpg" group-title="TR • DISNEY+ FILMLER",The Balloonist (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/275445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Swiped (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znxBfe14cefxx5Lu1tgNzggJagt.jpg" group-title="TR • DISNEY+ FILMLER",Swiped (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/272625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amazon’un Mucize Çocukları (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg" group-title="TR • DISNEY+ FILMLER",Amazon’un Mucize Çocukları (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/271910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eenie Meanie (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg" group-title="TR • DISNEY+ FILMLER",Eenie Meanie (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/271640.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lego Disney Princess: Villains Unite (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg" group-title="TR • DISNEY+ FILMLER",Lego Disney Princess: Villains Unite (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/270670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Şeytanla Bir Gece (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWJhM7n1fqehv36AcfNcg3XYZ2r.jpg" group-title="TR • DISNEY+ FILMLER",Şeytanla Bir Gece (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/270647.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sally (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MtfJPrAEJlWhFNeW7NOVmSHs4k.jpg" group-title="TR • DISNEY+ FILMLER",Sally (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/268946.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zootropolis: Hayvanlar Şehri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg" group-title="TR • DISNEY+ FILMLER",Zootropolis: Hayvanlar Şehri (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/268544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombiler 4: Vampirlerin Şafağı (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u37QB5JBQg0n8kpKbW3wPEXouCC.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 4: Vampirlerin Şafağı (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/267037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombiler 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6spzI5F47c5M3uFWo2mkuCQByu.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 3 (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/263955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombiler 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUXKuy6jjhJQHfb2hYyeupyDnZk.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 2 (2020)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/263954.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombiler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cYjbsol99A9q2gxPEqEAL2raFS.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/263953.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kayıp Balık Dori (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntZQdEFnkZYvmtNHfRJ5LOY8qjU.jpg" group-title="TR • DISNEY+ FILMLER",Kayıp Balık Dori (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/257300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Stargirl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wwdY9Xx6eI1g4C5i5Ni89UmlWw.jpg" group-title="TR • DISNEY+ FILMLER",Hollywood Stargirl (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/103791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonsuzluğun Ötesinde: Buzz ve Işık Yılına Yolculuk (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8FtZGLZNZAvxGpxYEvqIJIGNhV.jpg" group-title="TR • DISNEY+ FILMLER",Sonsuzluğun Ötesinde: Buzz ve Işık Yılına Yolculuk (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crush (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="TR • DISNEY+ FILMLER",Crush (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIzPe62s12uHsIPhGWY1yp68DY9.jpg" group-title="TR • DISNEY+ FILMLER",Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fire Island (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg" group-title="TR • DISNEY+ FILMLER",Fire Island (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Flora & Ulysses (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syobJCxZcIJl0OpjNroZSQKa1kW.jpg" group-title="TR • DISNEY+ FILMLER",Flora & Ulysses (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Happier Than Ever: A Love Letter to Los Angeles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Udcw6o4ASxd1Q5E0SWXnMtPNm.jpg" group-title="TR • DISNEY+ FILMLER",Happier Than Ever: A Love Letter to Los Angeles (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Home Sweet Home Alone (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="TR • DISNEY+ FILMLER",Home Sweet Home Alone (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karmakarışık (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64lvymVMSKcg2ZVB5WQyEzQkmrY.jpg" group-title="TR • DISNEY+ FILMLER",Karmakarışık (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czXyMcmiulyZjhYAnnMwVhFCvN.jpg" group-title="TR • DISNEY+ FILMLER",Rise (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tatil Arkadaşları (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgZuqUQbaCB6Wfk03N8IUEuzQf.jpg" group-title="TR • DISNEY+ FILMLER",Tatil Arkadaşları (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Trevor: The Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzLhiR8dIPfrnUkJD77XXyXk4yH.jpg" group-title="TR • DISNEY+ FILMLER",Trevor: The Musical (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bir Bob's Burgers Filmi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MUsZIkNwPbr2pMcat5JHJiUeZA.jpg" group-title="TR • DISNEY+ FILMLER",Bir Bob's Burgers Filmi (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kral Şakir Geri Dönüşüm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="TR • DISNEY+ FILMLER",Kral Şakir Geri Dönüşüm (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/104507.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Benden Ne Olur? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fALhbzUPpPZYhZ84srAjNCykjcZ.jpg" group-title="TR • DISNEY+ FILMLER",Benden Ne Olur? (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sıkıysa Yakala (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMuNEWOF5Rio9PA7ZblZMkoaN2W.jpg" group-title="TR • DISNEY+ FILMLER",Sıkıysa Yakala (2002)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Truth and Lies: The Last Gangster (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRD0IwQfolFIQzn9O2Nql0vb514.jpg" group-title="TR • DISNEY+ FILMLER",Truth and Lies: The Last Gangster (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Not Okay (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg" group-title="TR • DISNEY+ FILMLER",Not Okay (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="İki Babalık (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBGqhumfOuDCpIErICWPHcXNvah.jpg" group-title="TR • DISNEY+ FILMLER",İki Babalık (2009)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uyuyan Güzel (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3K5cLvVRXVxhw4mXQET92p1dnz.jpg" group-title="TR • DISNEY+ FILMLER",Uyuyan Güzel (1959)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/105779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pinokyo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN8HeqzvdoEZtmQaUeLzOdOOyVe.jpg" group-title="TR • DISNEY+ FILMLER",Pinokyo (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/116571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg" group-title="TR • DISNEY+ FILMLER",Artemis Fowl 
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/117100.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mickey'nin Muhteşem Yazı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg" group-title="TR • DISNEY+ FILMLER",Mickey'nin Muhteşem Yazı (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/117999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="TR • DISNEY+ FILMLER",Hocus Pocus 2 (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chip ve Dale: Kurtarma Timi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o89s7MACELRRpGGYGM5WLMtYXZB.jpg" group-title="TR • DISNEY+ FILMLER",Chip ve Dale: Kurtarma Timi (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karadul (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg" group-title="TR • DISNEY+ FILMLER",Karadul (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aftershock (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PxKajRULSTqOkA1X6QPLo04nkj.jpg" group-title="TR • DISNEY+ FILMLER",Aftershock (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zamanda Kıvrılma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxvQoj2JDBuvDRSrQetgANNv45y.jpg" group-title="TR • DISNEY+ FILMLER",Zamanda Kıvrılma (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCVr1O19nLHQnEWbwOvgaJdAx9.jpg" group-title="TR • DISNEY+ FILMLER",Werewolf by Night (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/119846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Grimcutty (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCVr1O19nLHQnEWbwOvgaJdAx9.jpg" group-title="TR • DISNEY+ FILMLER",Grimcutty (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/120577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acımasız (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19M5cRLcMJq1YkphCEFxBUod044.jpg" group-title="TR • DISNEY+ FILMLER",Acımasız (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/120578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rosaline (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="TR • DISNEY+ FILMLER",Rosaline (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/120907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matriarch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77r50i4ya2VLhhMvQpBZIPa9V9B.jpg" group-title="TR • DISNEY+ FILMLER",Matriarch (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Penguenler (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMSuKJ2e5VgYFr4SwOTLnnl5L15.jpg" group-title="TR • DISNEY+ FILMLER",Penguenler (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Obi-Wan Kenobi: A Jedi's Return (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg" group-title="TR • DISNEY+ FILMLER",Obi-Wan Kenobi: A Jedi's Return (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fire of Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9smEX8UP84yb2GisLwyAyQKvCWS.jpg" group-title="TR • DISNEY+ FILMLER",Fire of Love (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monica O My Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq5zQAlxhNZvCaqdUcpGDnOZeQG.jpg" group-title="TR • DISNEY+ FILMLER",Monica O My Darling (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121966.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Under Wraps 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg" group-title="TR • DISNEY+ FILMLER",Under Wraps 2 (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/121989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Disenchanted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg" group-title="TR • DISNEY+ FILMLER",Disenchanted (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/122028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beba (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abyjP1LJp3LU9JxEt21b8W1WI7o.jpg" group-title="TR • DISNEY+ FILMLER",Beba (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/122565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manhattan'da Sihir 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg" group-title="TR • DISNEY+ FILMLER",Manhattan'da Sihir 2
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/122582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Night at the Museum: Kahmunrah Rises Again (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkRQn520JQD07BNP03NK3iKCaPD.jpg" group-title="TR • DISNEY+ FILMLER",Night at the Museum: Kahmunrah Rises Again (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/125398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YVXuOMoIuic3xfxyFD5ThGXegb.jpg" group-title="TR • DISNEY+ FILMLER",Guardians of the Galaxy (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/125463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Strange World (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRO3TsL0YC87AuFOaPOlhUYIlBV.jpg" group-title="TR • DISNEY+ FILMLER",Strange World (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tuhaf Dünya (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEhiAvtenAViGNUFKBQ0HHbMQYe.jpg" group-title="TR • DISNEY+ FILMLER",Tuhaf Dünya (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13'üncü Savaşçı (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1334hjx79RokpfxjKlNdA3Dtq3a.jpg" group-title="TR • DISNEY+ FILMLER",13'üncü Savaşçı (1999)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322647.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Takımı (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6OOHSheg3cKP217nsHx5tkRa6W.jpg" group-title="TR • DISNEY+ FILMLER",A Takımı (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dalgın Profesör (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71KxPan2KlZXiHBDPrFPKBoSTPH.jpg" group-title="TR • DISNEY+ FILMLER",Dalgın Profesör (1997)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137631.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg" group-title="TR • DISNEY+ FILMLER",Dr. Dolittle 2 (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 3 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mODEH6RuoL8s9ptF1Mbrq1Z6aYz.jpg" group-title="TR • DISNEY+ FILMLER",Dr. Dolittle 3 (2006)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kara Delik (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nI6kw0Ph17Y8rMZiD9MaHHCWfCL.jpg" group-title="TR • DISNEY+ FILMLER",Kara Delik (2008)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Komik Tuzak (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q5rCQS6IuWhjtOIzvGWZK79qnV.jpg" group-title="TR • DISNEY+ FILMLER",Komik Tuzak (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rock Kampı (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IXMqZnwccogptThay3togKIFWw.jpg" group-title="TR • DISNEY+ FILMLER",Rock Kampı (2008)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Roket Adam (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tDFRESFwKww1LHRE8W1Exj9edH.jpg" group-title="TR • DISNEY+ FILMLER",Roket Adam (1991)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Dolittle (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" group-title="TR • DISNEY+ FILMLER",Doctor Dolittle (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rock Kampı 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg" group-title="TR • DISNEY+ FILMLER",Rock Kampı 2 (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eyvah Çocuklar Küçüldü (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRJk5uTiqQ0IP48jKaegKusOUv3.jpg" group-title="TR • DISNEY+ FILMLER",Eyvah Çocuklar Küçüldü (1989)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Let It Shine (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuVKuMxyDLBYKsqMgOCf0zNtzV6.jpg" group-title="TR • DISNEY+ FILMLER",Let It Shine (2012)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wendy Wu: Homecoming Warrior (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70i9WopFTHmTJbKbKQGdYWBHnj6.jpg" group-title="TR • DISNEY+ FILMLER",Wendy Wu: Homecoming Warrior (2006)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137663.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yılbaşı Gecesi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9q1M2kqmMJZbE5EsTI2I0nwk7GJ.jpg" group-title="TR • DISNEY+ FILMLER",Yılbaşı Gecesi (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leydi ile Sokak Köpeği (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsIqRVluiQHS705dLLO4sYn3YqO.jpg" group-title="TR • DISNEY+ FILMLER",Leydi ile Sokak Köpeği (1955)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/137999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leydi ile Sokak Köpeği 2: Scamp'in Macerası (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg" group-title="TR • DISNEY+ FILMLER",Leydi ile Sokak Köpeği 2: Scamp'in Macerası (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tilki ve Avcı Köpeği (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htSqoLqAyn8GGt6qVLQDFckxPrw.jpg" group-title="TR • DISNEY+ FILMLER",Tilki ve Avcı Köpeği (1981)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tilki ve Avcı Köpeği 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTrVvEtN4Gq7l0Zxd8KRYyiTvm3.jpg" group-title="TR • DISNEY+ FILMLER",Tilki ve Avcı Köpeği 2 (2006)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pamuk Prenses ve Yedi Cüceler (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZ2MdmraDCLFd7e56kaVty2vjH.jpg" group-title="TR • DISNEY+ FILMLER",Pamuk Prenses ve Yedi Cüceler (1937)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robin Hood (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg" group-title="TR • DISNEY+ FILMLER",Robin Hood (1973)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Taştaki Kılıç (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg" group-title="TR • DISNEY+ FILMLER",Taştaki Kılıç (1963)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uyuyan Güzel (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3K5cLvVRXVxhw4mXQET92p1dnz.jpg" group-title="TR • DISNEY+ FILMLER",Uyuyan Güzel (1959)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Günaydın Vietnam (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg" group-title="TR • DISNEY+ FILMLER",Günaydın Vietnam (1987)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg" group-title="TR • DISNEY+ FILMLER",Armageddon (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Av Köpeği Benji (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7hZpaF8vRO56r3QgmJbC3vIQjT.jpg" group-title="TR • DISNEY+ FILMLER",Av Köpeği Benji (1987)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="İnce Kırmızı Hat (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMmX3tOOZDNlHY2AvUnQPyVsxXn.jpg" group-title="TR • DISNEY+ FILMLER",İnce Kırmızı Hat (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jack (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgyA4EhIp3XrWCgo2Q12UfJJNba.jpg" group-title="TR • DISNEY+ FILMLER",Jack (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Üç Adam ve Bir Küçük Hanım (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0xAFCyGoOYHZyFD3uxhZL10Xe6.jpg" group-title="TR • DISNEY+ FILMLER",Üç Adam ve Bir Küçük Hanım (1990)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Menu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="TR • DISNEY+ FILMLER",The Menu (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hava Kuvvetleri Bir (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juRFEbyx5JlNuYrZM50vcZmtN78.jpg" group-title="TR • DISNEY+ FILMLER",Hava Kuvvetleri Bir (1997)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138545.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amazon'da Fırtına (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg" group-title="TR • DISNEY+ FILMLER",Amazon'da Fırtına (1984)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138546.mkv
-#EXTINF:-1 tvg-id="" tvg-name="If These Walls Could Sing (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kuaatCq0F8d5Z1pNGCkbpYGbLJ.jpg" group-title="TR • DISNEY+ FILMLER",If These Walls Could Sing (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138547.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Durdurulamaz (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B4Y4LpR8geG39ombN3zRohfKib.jpg" group-title="TR • DISNEY+ FILMLER",Durdurulamaz (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan: Ajanlar Kralı (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan: Ajanlar Kralı (1997)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan Altin Kuş (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSNnxSNc7HftXa6EULM4Lq6mUDn.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan Altin Kuş (2002)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan: Cazibesi Yeter (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan: Cazibesi Yeter (1999)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138551.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acemi Prenses (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwJepI9cSaoPuldqyQMMVqNGvHA.jpg" group-title="TR • DISNEY+ FILMLER",Acemi Prenses (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138576.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: Vampir Avcısı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fghf4b1i0yuJUCRv8gN3oco0pB.jpg" group-title="TR • DISNEY+ FILMLER",Abraham Lincoln: Vampir Avcısı (2012)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322649.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acemi Prenses 2: Kraliyet Nişanı (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4uWiO4YWjryBdmen24ZUS69Tk5.jpg" group-title="TR • DISNEY+ FILMLER",Acemi Prenses 2: Kraliyet Nişanı (2004)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muhteşem Fare Dedektif (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj3Xifjl4tZCf3CVaEHh4GI7Zhq.jpg" group-title="TR • DISNEY+ FILMLER",Muhteşem Fare Dedektif (1986)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Buz Prensesi (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTS8ySexlBzhdtqbDGGcgxz0LMA.jpg" group-title="TR • DISNEY+ FILMLER",Buz Prensesi (2005)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Tsunami (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDZmYS4bwAEqzNdfkcYFzYIrL7d.jpg" group-title="TR • DISNEY+ FILMLER",Johnny Tsunami (1999)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Kapahala: Back on Board (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38Ru1FJqeHloYvwMbCqMFaOhXl2.jpg" group-title="TR • DISNEY+ FILMLER",Johnny Kapahala: Back on Board (2007)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Banshees of Inisherin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpeR3ue0Q93Rk8jhE2DzVPMRGIm.jpg" group-title="TR • DISNEY+ FILMLER",The Banshees of Inisherin (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Abduction of Zack Butterfield (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDLEQKPtyWd7YQTzZDbYomLH74E.jpg" group-title="TR • DISNEY+ FILMLER",The Abduction of Zack Butterfield (2011)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yarının Dünyası (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td6g72MXvRztAAgMpU7mpa7ix7X.jpg" group-title="TR • DISNEY+ FILMLER",Yarının Dünyası (2015)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/98316.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pompeii: Secrets of the Dead (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNoRmBz34QV3QA1nUIvlP0GJ4R.jpg" group-title="TR • DISNEY+ FILMLER",Pompeii: Secrets of the Dead (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/139063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Idina Menzel: Which Way to the Stage? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NLP4xNBbeSPuQrW21EovPFXhZI.jpg" group-title="TR • DISNEY+ FILMLER",Idina Menzel: Which Way to the Stage? (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/139310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Darby and the Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1mtYW0qShlS3YFy10D8GqTk6LI.jpg" group-title="TR • DISNEY+ FILMLER",Darby and the Dead (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/139986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anons (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q5wO7Xetg27xOppCc21KhAw5ni.jpg" group-title="TR • DISNEY+ FILMLER",Anons (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/140261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Yaşasın Wakanda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s9a1RbxnCVpEUdUOA931SHdkro.jpg" group-title="TR • DISNEY+ FILMLER",Black Panther: Yaşasın Wakanda (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/140612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sihirbazın Çırağı " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzg290c0G1MwRL5n3MWGizwNcSg.jpg" group-title="TR • DISNEY+ FILMLER",Sihirbazın Çırağı 
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/140773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="13'üncü Savaşçı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ip5FmurIOdOyI1wFY2nXVMze3lC.jpg" group-title="TR • DISNEY+ FILMLER",13'üncü Savaşçı
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/141273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sharkatraz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRCW0QT3nJSLhX4fNkxDx0Nag29.jpg" group-title="TR • DISNEY+ FILMLER",Sharkatraz (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/142604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vadinin İçinde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ng3GkwTZ0Zxf2FjZcVJj412l2.jpg" group-title="TR • DISNEY+ FILMLER",Vadinin İçinde (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/142650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romeo ve Juliet (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLf4jclPijOqfEp6bDAmezRFxk5.jpg" group-title="TR • DISNEY+ FILMLER",Romeo ve Juliet (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/143663.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marslı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dET1KGozUz3FW7ZO60ybCV8MsTh.jpg" group-title="TR • DISNEY+ FILMLER",Marslı (2015)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/143666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ah Mary Vah Mary (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s7A308BLDF8azw7NTY43xz0Fwf.jpg" group-title="TR • DISNEY+ FILMLER",Ah Mary Vah Mary (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/143667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beyaz Çocuk Rick (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjW2wgrC2ey0APDELP6NMD8tAq7.jpg" group-title="TR • DISNEY+ FILMLER",Beyaz Çocuk Rick (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/143668.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Roald Dahls Matilda - Das Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg" group-title="TR • DISNEY+ FILMLER",Roald Dahls Matilda - Das Musical (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/143806.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="TR • DISNEY+ FILMLER",Chang Can Dunk (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/144352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prom Pact (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="TR • DISNEY+ FILMLER",Prom Pact (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/146781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Özür Dilerim (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDQcaeIAn5WYvXkgi5BCqAkF3N1.jpg" group-title="TR • DISNEY+ FILMLER",Özür Dilerim (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/147968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pers Prensi: Zamanın Kumları (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulaH62H0BYPuF3Llo2yrP8HcJIO.jpg" group-title="TR • DISNEY+ FILMLER",Pers Prensi: Zamanın Kumları (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/150541.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NML3snXY08wkfG864Td9FJGueF.jpg" group-title="TR • DISNEY+ FILMLER",Peter Pan & Wendy (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/150864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Krater (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQyLgugl8sEEw3xlhnYdZEAFeBr.jpg" group-title="TR • DISNEY+ FILMLER",Krater (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/151616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hitman: Ajan 47 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1eGPzRYvoQBLJAXxOVvQkothC0.jpg" group-title="TR • DISNEY+ FILMLER",Hitman: Ajan 47 (2015)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/151731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hitman (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB6PqAnRCYCYYluQI0QYZoeFGIC.jpg" group-title="TR • DISNEY+ FILMLER",Hitman (2007)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/151732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: Suyun Yolu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bidENTLt6baEa2ieNT95brFtsvb.jpg" group-title="TR • DISNEY+ FILMLER",Avatar: Suyun Yolu (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/151885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flamin' Hot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" group-title="TR • DISNEY+ FILMLER",Flamin' Hot (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/153215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Flamin' Hot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" group-title="TR • DISNEY+ FILMLER",Flamin' Hot (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/155534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chevalier (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5f9WgN9ZQ0rEdc2ywfLp8uJTt8.jpg" group-title="TR • DISNEY+ FILMLER",Chevalier (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/155552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bursa Bülbülü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" group-title="TR • DISNEY+ FILMLER",Bursa Bülbülü (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/158405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cesur Gergedan Riki (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbxzOoAWI4WYSpoBFCuJFz3El95.jpg" group-title="TR • DISNEY+ FILMLER",Cesur Gergedan Riki (2020)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/158406.avi
-#EXTINF:-1 tvg-id="" tvg-name="Liebe und Tod auf Java (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMzDpBxI9GyBV939Cl2yXbNhIxC.jpg" group-title="TR • DISNEY+ FILMLER",Liebe und Tod auf Java (2013)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/158408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Herkül (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcMeS5MDmRpqpzdO56c3xs1sNY0.jpg" group-title="TR • DISNEY+ FILMLER",Herkül (1997)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/160937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bela İş Başında (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWQqUPhvkSYCdIcc1iaaImuUBB0.jpg" group-title="TR • DISNEY+ FILMLER",Bela İş Başında (2003)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/161433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ön Cephe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHAef4ts9Y5EREhs9UlOPEga4h3.jpg" group-title="TR • DISNEY+ FILMLER",Ön Cephe (2011)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/161592.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gizli Dosyalar: Gelecekle Savaş (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg" group-title="TR • DISNEY+ FILMLER",Gizli Dosyalar: Gelecekle Savaş (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/161593.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hitler'in Genç Askerleri (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqMhakYHwtSmD3gIB6vexgS1qnD.jpg" group-title="TR • DISNEY+ FILMLER",Hitler'in Genç Askerleri (2020)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/162192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princess: The Castle Quest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cz4kK3yscGgzsSbCCfAnC2vwe5q.jpg" group-title="TR • DISNEY+ FILMLER",LEGO Disney Princess: The Castle Quest (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/162630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ichabod ve Bay Kurbağa'nın Maceraları (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36OLdiuowg2imY6I7DgtnrOiy1l.jpg" group-title="TR • DISNEY+ FILMLER",Ichabod ve Bay Kurbağa'nın Maceraları (1949)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/163980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Küçük Deniz Kızı (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BksgwSqcUE3mw11LRhIFUiw0ga.jpg" group-title="TR • DISNEY+ FILMLER",Küçük Deniz Kızı (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/164257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destansı Bir Film (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0lGJiTzU2Ce6T31DIRWv7I0kaC.jpg" group-title="TR • DISNEY+ FILMLER",Destansı Bir Film (2007)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/164525.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karanlık Sular (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25pnry1bu7lFQ3QljhdvuoOx0bI.jpg" group-title="TR • DISNEY+ FILMLER",Karanlık Sular (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/164526.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tatil Arkadaşları 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg" group-title="TR • DISNEY+ FILMLER",Tatil Arkadaşları 2 (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/164862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beyazlar Beceremez (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg" group-title="TR • DISNEY+ FILMLER",Beyazlar Beceremez (1992)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/165228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tepki (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg" group-title="TR • DISNEY+ FILMLER",Tepki (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/165245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Appendage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGwDi4MuvMiQS2G9mcSXDRZjttx.jpg" group-title="TR • DISNEY+ FILMLER",Appendage (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/166774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg" group-title="TR • DISNEY+ FILMLER",Togo (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/138245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Çılgın Sürücü - Stuber (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg" group-title="TR • DISNEY+ FILMLER",Çılgın Sürücü - Stuber (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/169951.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Squad: Home Run (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cB4bZUVZOQlnhXLDzN2yOrQSl5r.jpg" group-title="TR • DISNEY+ FILMLER",The Squad: Home Run (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/170060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="TR • DISNEY+ FILMLER",Avatar (2009)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/170821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mulholland Çıkmazı (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nC3TBesaKl3ZK9GEVa2MHh3yARz.jpg" group-title="TR • DISNEY+ FILMLER",Mulholland Çıkmazı (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/170823.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dünyanın Durduğu Gün (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMiNNXxdouXn71etASqWBJXr9nP.jpg" group-title="TR • DISNEY+ FILMLER",Dünyanın Durduğu Gün (2008)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/171159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dashing Through the Snow (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="TR • DISNEY+ FILMLER",Dashing Through the Snow (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/171562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sihirli Orman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/573iw3gMzQ9r6yrkHwtb5V9T4l3.jpg" group-title="TR • DISNEY+ FILMLER",Sihirli Orman (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/171563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Müthiş Dadı (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shHrSmXS5140o6sQzgzXxn3KqSm.jpg" group-title="TR • DISNEY+ FILMLER",Müthiş Dadı (1993)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Borat (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sOF2EUnxyNoJ3VktJINdd8h28.jpg" group-title="TR • DISNEY+ FILMLER",Borat (2006)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172387.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Büyük Karışıklık (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxbXbR1P44caMUKtBdq7sX6aSgw.jpg" group-title="TR • DISNEY+ FILMLER",Büyük Karışıklık (1988)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172388.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Üşütük Popolar (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg" group-title="TR • DISNEY+ FILMLER",Üşütük Popolar (1993)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172389.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aman Tanrım! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKmOKdcrG8CuF3XAGgjDwYQniYr.jpg" group-title="TR • DISNEY+ FILMLER",Aman Tanrım! (2003)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Okul Gezisi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s2YPQ3USrkS4xuNrVZcBCJ5v8t.jpg" group-title="TR • DISNEY+ FILMLER",Okul Gezisi (2008)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172417.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Apple Dumpling Gang Rides Again (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqvmT1BfNwaz9ivCZnzXLdRPvf2.jpg" group-title="TR • DISNEY+ FILMLER",The Apple Dumpling Gang Rides Again (1979)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172418.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vampir Avcısı Buffy (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q72hZtWIxmHuJASMGUWQSqujyxY.jpg" group-title="TR • DISNEY+ FILMLER",Vampir Avcısı Buffy (1992)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/172458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: The Star Beast" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FD8A00FFCDAB4718619E0AAD642F99B1599D436466772F4E5F8C909B3FB1858/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="TR • DISNEY+ FILMLER",Doctor Who: The Star Beast
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/173063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evde Tek Başına (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlmNl5zoxtAODR1kLyw3MuyqM6O.jpg" group-title="TR • DISNEY+ FILMLER",Evde Tek Başına (1990)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evde Tek Başına 2 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Lsw7sHyafzcc59RsM2SeNJKoaX.jpg" group-title="TR • DISNEY+ FILMLER",Evde Tek Başına 2 (1992)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alice Harikalar Diyarında (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olocTSyCBuyIi4ZWhsqZBjr5A3s.jpg" group-title="TR • DISNEY+ FILMLER",Alice Harikalar Diyarında (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174655.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acemi Prenses (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwJepI9cSaoPuldqyQMMVqNGvHA.jpg" group-title="TR • DISNEY+ FILMLER",Acemi Prenses (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Air Force One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkhyqMniaBdqk13HvJjeERHQDv3.jpg" group-title="TR • DISNEY+ FILMLER",Yeni Air Force One (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Wonderland (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhUrMZfPHAQzXgGdhH4wAtS6Sj3.jpg" group-title="TR • DISNEY+ FILMLER",Alice in Wonderland (2010)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322653.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alis Harikalar Diyarında: Aynanın İçinden (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mFQ7JGOdYbBmMz239F43FxWYgX.jpg" group-title="TR • DISNEY+ FILMLER",Alis Harikalar Diyarında: Aynanın İçinden (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who Wild Blue Yonder 2023" tvg-logo="https://pics.filmaffinity.com/doctor_who_wild_blue_yonder-629617499-mmed.jpg" group-title="TR • DISNEY+ FILMLER",Doctor Who Wild Blue Yonder 2023
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: The Giggle" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/doctor_who_the_giggle.jpeg" group-title="TR • DISNEY+ FILMLER",Doctor Who: The Giggle
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="First Kid (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr2DqLvA9GjgZdLn7JpAESdV31i.jpg" group-title="TR • DISNEY+ FILMLER",First Kid (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gizli Sayılar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcBOzZXgdsEd4ADWFvBQq3TzIYK.jpg" group-title="TR • DISNEY+ FILMLER",Gizli Sayılar (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Büyük Budapeşte Oteli (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYdclrAOjWtxTgE7PZy102hTYAf.jpg" group-title="TR • DISNEY+ FILMLER",Büyük Budapeşte Oteli (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/62704.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon'da Fırtına (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg" group-title="TR • DISNEY+ FILMLER",Amazon'da Fırtına (1984)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="TR • DISNEY+ FILMLER",Amsterdam (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anons (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q5wO7Xetg27xOppCc21KhAw5ni.jpg" group-title="TR • DISNEY+ FILMLER",Anons (2017)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg" group-title="TR • DISNEY+ FILMLER",Armageddon (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg" group-title="TR • DISNEY+ FILMLER",Artemis Fowl (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asteriks ve Oburiks Görevimiz Kleopatra (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="TR • DISNEY+ FILMLER",Asteriks ve Oburiks Görevimiz Kleopatra (2002)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asteriks ve Oburiks Gizli Görevde (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjL2NHKH2keWgCfYAq9JdhqsTSZ.jpg" group-title="TR • DISNEY+ FILMLER",Asteriks ve Oburiks Gizli Görevde (2012)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asteriks ve Oburiks Sezar'a Karşı (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auwSYFvMylPaxd0bPnlbPuNcXkI.jpg" group-title="TR • DISNEY+ FILMLER",Asteriks ve Oburiks Sezar'a Karşı (1999)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asteriks Olimpiyat Oyunları'nda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZw4CmBDfTqhQ2wJniq1QU5a4tl.jpg" group-title="TR • DISNEY+ FILMLER",Asteriks Olimpiyat Oyunları'nda (2008)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Suyun Yolu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwKMufugDioM94P6Qt7S6lKYY.jpg" group-title="TR • DISNEY+ FILMLER",Avatar: Suyun Yolu (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan: Ajanlar Kralı (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan: Ajanlar Kralı (1997)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan: Altın Kuş (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfXVQpFRIUJmmkwUNIjkOobXdvA.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan: Altın Kuş (2002)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avanak Ajan: Cazibesi Yeter (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVIviTgmtlnukxE5t2TqDRa74ew.jpg" group-title="TR • DISNEY+ FILMLER",Avanak Ajan: Cazibesi Yeter (1999)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Suyun Yolu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwKMufugDioM94P6Qt7S6lKYY.jpg" group-title="TR • DISNEY+ FILMLER",Avatar: Suyun Yolu (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg" group-title="TR • DISNEY+ FILMLER",Avatar (2009)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322669.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bebek Firarda (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JprqmdmcQlbgmNLH4bTXyywj5P.jpg" group-title="TR • DISNEY+ FILMLER",Bebek Firarda (1994)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pearl Harbor (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="TR • DISNEY+ FILMLER",Pearl Harbor (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174707.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Savaştan Sonra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLlPO53gVHm0HiYONDoXueC7L4c.jpg" group-title="TR • DISNEY+ FILMLER",Savaştan Sonra (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174709.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sarayın Gözdesi (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srOmj8IYZvSpY3q4vlyOInT16hO.jpg" group-title="TR • DISNEY+ FILMLER",Sarayın Gözdesi (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hazine Avcıları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LKUlIzPrG9COorsT6c58mVwrEs.jpg" group-title="TR • DISNEY+ FILMLER",Hazine Avcıları (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tolkien 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg" group-title="TR • DISNEY+ FILMLER",Tolkien 2019
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174713.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehenneminde Savaş (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP5dYjLp5p2CG103cJMio4Nj29d.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehenneminde Savaş (1973)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemine Dönüş (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szHCeYwi4ubewuYnlnz0YGqWnQC.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemine Dönüş (1970)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Av Köpeği Benji (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="TR • DISNEY+ FILMLER",Av Köpeği Benji (1987)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonsuzluğun Ötesinde: Buzz ve Işık Yılına Yolculuk (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg" group-title="TR • DISNEY+ FILMLER",Sonsuzluğun Ötesinde: Buzz ve Işık Yılına Yolculuk (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322674.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Birdman veya (Cahilliğin Umulmayan Erdemi) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueSmUbyr36raTlRKCLCT5WmvvwG.jpg" group-title="TR • DISNEY+ FILMLER",Birdman veya (Cahilliğin Umulmayan Erdemi) (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Skandal Notlar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yST3xZ4tl0ONs9WyD8V3SAW4P76.jpg" group-title="TR • DISNEY+ FILMLER",Skandal Notlar (2006)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Biscuit Eater (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxm9uVNe4UxTgNdFyVFeRWFCyCi.jpg" group-title="TR • DISNEY+ FILMLER",The Biscuit Eater (1972)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vampir Avcısı: Abraham Lincoln (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fghf4b1i0yuJUCRv8gN3oco0pB.jpg" group-title="TR • DISNEY+ FILMLER",Vampir Avcısı: Abraham Lincoln (2012)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanik (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sTwVe3xBIWkbRUktYbDB8MdDN7.jpg" group-title="TR • DISNEY+ FILMLER",Titanik (1997)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/174790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tarzan ve Jane (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esRxshmD2BY1UPkiUHt7Gn2mksl.jpg" group-title="TR • DISNEY+ FILMLER",Tarzan ve Jane (2002)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175005.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Yaşasın Wakanda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfM2WEiOGc3S6Ay6XdstFMw3y6q.jpg" group-title="TR • DISNEY+ FILMLER",Black Panther: Yaşasın Wakanda (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Blackbeard's Ghost (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEMEjagTsdkUi7Jzxe0lQsquD7J.jpg" group-title="TR • DISNEY+ FILMLER",Blackbeard's Ghost (1968)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kağıttan Kentler (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z43id8OuKXRzCQ2D53cVlS8dR3e.jpg" group-title="TR • DISNEY+ FILMLER",Kağıttan Kentler (2015)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hayat Kitabı (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUGXlNGNVpRgZrp7gp344KsBebt.jpg" group-title="TR • DISNEY+ FILMLER",Hayat Kitabı (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yarından Sonra (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VXtMlKv8geXVI6gLqTupwGZHzI.jpg" group-title="TR • DISNEY+ FILMLER",Yarından Sonra (2004)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Babam Söz Verdi (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg" group-title="TR • DISNEY+ FILMLER",Babam Söz Verdi (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kaya (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbzpDkVOUVFia1i7JtOA0tuQ2ED.jpg" group-title="TR • DISNEY+ FILMLER",Kaya (1996)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175469.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: The Church on Ruby Road (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlGfVxunOJBii8CoqhWoqopPA8C.jpg" group-title="TR • DISNEY+ FILMLER",Doctor Who: The Church on Ruby Road (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175546.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elemental: Doğanın Güçleri (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62jCS6MVvjftoARviXW0TTtpTFE.jpg" group-title="TR • DISNEY+ FILMLER",Elemental: Doğanın Güçleri (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175547.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borat: Şanlı Kazakistan Milletinin Çıkarlarını Arttırmak İçin Amerikan Kültürünün İncelenmesi (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sOF2EUnxyNoJ3VktJINdd8h28.jpg" group-title="TR • DISNEY+ FILMLER",Borat: Şanlı Kazakistan Milletinin Çıkarlarını Arttırmak İçin Amerikan Kültürünün İncelenmesi (2006)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bursa Bülbülü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" group-title="TR • DISNEY+ FILMLER",Bursa Bülbülü (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Büyük Karışıklık (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxbXbR1P44caMUKtBdq7sX6aSgw.jpg" group-title="TR • DISNEY+ FILMLER",Büyük Karışıklık (1988)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buz Prensesi (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTS8ySexlBzhdtqbDGGcgxz0LMA.jpg" group-title="TR • DISNEY+ FILMLER",Buz Prensesi (2005)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock Kampı 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg" group-title="TR • DISNEY+ FILMLER",Rock Kampı 2 (2010)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cesur Gergedan Riki (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbxzOoAWI4WYSpoBFCuJFz3El95.jpg" group-title="TR • DISNEY+ FILMLER",Cesur Gergedan Riki (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322683.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Chain Reaction (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ipXeKOkq9Pm5KCXdCJ1VqLHvZd.jpg" group-title="TR • DISNEY+ FILMLER",The Chain Reaction (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="TR • DISNEY+ FILMLER",Chang Can Dunk (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuber (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg" group-title="TR • DISNEY+ FILMLER",Stuber (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Okul Gezisi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s2YPQ3USrkS4xuNrVZcBCJ5v8t.jpg" group-title="TR • DISNEY+ FILMLER",Okul Gezisi (2008)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehenneminde İsyan (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzKZRY2opw5MruSkevffgT5ocun.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehenneminde İsyan (1972)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üşütük Popolar (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu4l91QSuk9EXINqSi8jXm4ZPro.jpg" group-title="TR • DISNEY+ FILMLER",Üşütük Popolar (1993)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krater (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQyLgugl8sEEw3xlhnYdZEAFeBr.jpg" group-title="TR • DISNEY+ FILMLER",Krater (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg" group-title="TR • DISNEY+ FILMLER",Cruella (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dalgın Profesör (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71KxPan2KlZXiHBDPrFPKBoSTPH.jpg" group-title="TR • DISNEY+ FILMLER",Dalgın Profesör (1997)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darby and the Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1mtYW0qShlS3YFy10D8GqTk6LI.jpg" group-title="TR • DISNEY+ FILMLER",Darby and the Dead (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karanlık Sular (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25pnry1bu7lFQ3QljhdvuoOx0bI.jpg" group-title="TR • DISNEY+ FILMLER",Karanlık Sular (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi: Şafak Vakti (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAdGkcRlunJkvxlInazxr62iSpn.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemi: Şafak Vakti (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deniz Kızı (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg" group-title="TR • DISNEY+ FILMLER",Deniz Kızı (1984)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doktor Strange (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nifqM5VkblSttwwqGXoDXmXwrHA.jpg" group-title="TR • DISNEY+ FILMLER",Doktor Strange (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who The Star Beast" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Doctor_Who_The_Star_Beast.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="TR • DISNEY+ FILMLER",Doctor Who The Star Beast
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doktor Strange Çoklu Evren Çılgınlığında (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kNtKwps884KDg92N9HapnBi7T8.jpg" group-title="TR • DISNEY+ FILMLER",Doktor Strange Çoklu Evren Çılgınlığında (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg" group-title="TR • DISNEY+ FILMLER",Dr. Dolittle 2 (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" group-title="TR • DISNEY+ FILMLER",Dr. Dolittle (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destansı Bir Film (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0lGJiTzU2Ce6T31DIRWv7I0kaC.jpg" group-title="TR • DISNEY+ FILMLER",Destansı Bir Film (2007)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehenneminden Kaçış (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqD7qjBRizY7sPVIHbFRUZwgEXL.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehenneminden Kaçış (1971)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFByFSLV5WDJEv3KabbdAF959F2.jpg" group-title="TR • DISNEY+ FILMLER",Eternals (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322704.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Exodus: Tanrılar ve Krallar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmC86l14tPLFZhKyQ1JGHdi57wM.jpg" group-title="TR • DISNEY+ FILMLER",Exodus: Tanrılar ve Krallar (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/175701.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Herbie: Tam Gaz (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf5CS0UZRiUL7Xw4hSeOpO00SKL.jpg" group-title="TR • DISNEY+ FILMLER",Herbie: Tam Gaz (2005)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/176144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quiz Lady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w7kbE95X6Qu0dWA1ZULifcbKcQ.jpg" group-title="TR • DISNEY+ FILMLER",Quiz Lady (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/177194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Koca Bebek Joe (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM39MOyLOxCD6Njz4vfQkGaKkY1.jpg" group-title="TR • DISNEY+ FILMLER",Koca Bebek Joe (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/177425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teklif (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52p52woFBlmSm92EyVFgYA6FQj0.jpg" group-title="TR • DISNEY+ FILMLER",Teklif (2009)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/177608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Marvels 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzD4P9rW32anKYfT60hGbnkfmzc.jpg" group-title="TR • DISNEY+ FILMLER",The Marvels 2023
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/177307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ölümsüzler (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyorgAaVN8Yo9aEFUKpnolPN0LC.jpg" group-title="TR • DISNEY+ FILMLER",Ölümsüzler (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/178336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dünyanın En İyisi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bB17AQgUqUKoCAdr8kp6cur41yz.jpg" group-title="TR • DISNEY+ FILMLER",Dünyanın En İyisi (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/156010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atan Kazanır (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ32eT1fGJkcTkeIOKDlQ1bfXRC.jpg" group-title="TR • DISNEY+ FILMLER",Atan Kazanır (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/179850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Newsies (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ajf5NllMaJFemM21WQDeNxZQ0F.jpg" group-title="TR • DISNEY+ FILMLER",Newsies (1992)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/180534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dilek (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cVBD2Uv2ZXKLd3bAXhbMAzKMID.jpg" group-title="TR • DISNEY+ FILMLER",Dilek (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/192291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robot Ron Bir Sorun Var (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbMNvWDBm3PJ5620SAVL8WNwZlD.jpg" group-title="TR • DISNEY+ FILMLER",Robot Ron Bir Sorun Var (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/196859.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eyvah Çocuklar Büyüdü! (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbgwkFAWUHRIt2ocXQ7vCdynAc.jpg" group-title="TR • DISNEY+ FILMLER",Eyvah Çocuklar Büyüdü! (1992)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eyvah Çocuklar Küçüldü! (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVBQumKUZyJuSPKyMeGx5Tha9Ip.jpg" group-title="TR • DISNEY+ FILMLER",Eyvah Çocuklar Küçüldü! (1989)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fındıkkıran ve Dört Diyar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZN5un2d5HaUP5yoDcqtp4TTNKB.jpg" group-title="TR • DISNEY+ FILMLER",Fındıkkıran ve Dört Diyar (2018)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/197468.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sevimli Canavarlar (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4YRiGgYxttCVUvs9vhxfGezHx4.jpg" group-title="TR • DISNEY+ FILMLER",Sevimli Canavarlar (2001)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/210082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sevimli Canavarlar Üniversitesi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ost7ABvfjcDfVyBqd61uUXYokhP.jpg" group-title="TR • DISNEY+ FILMLER",Sevimli Canavarlar Üniversitesi (2013)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/210083.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kötü Şöhret (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62NsZPgueSiE8y7dqtU3FSLFwYw.jpg" group-title="TR • DISNEY+ FILMLER",Kötü Şöhret (2009)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/217392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Splash (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg" group-title="TR • DISNEY+ FILMLER",Splash (1984)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/219919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yeni Nesil: Kızıl'ın Yükselişi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pUnVz4E17F6DPKcOQ9VQfkUYel.jpg" group-title="TR • DISNEY+ FILMLER",Yeni Nesil: Kızıl'ın Yükselişi (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/222482.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi: Yeni Krallık (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVo3Jq6Do97xf34duQRnexziSof.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemi: Yeni Krallık (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/224061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ters Yüz (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EPfG2nVMhF5CDcAK0IeSsnBsVw.jpg" group-title="TR • DISNEY+ FILMLER",Ters Yüz (2015)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/224778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merhamet Hikayeleri (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7eAwpR64jiPcdoD2WAoZIaMmSh.jpg" group-title="TR • DISNEY+ FILMLER",Merhamet Hikayeleri (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/228348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hold Your Breath (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRTDtSjv2RMCokS6naed4RBsuQT.jpg" group-title="TR • DISNEY+ FILMLER",Hold Your Breath (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/231562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVr2X3jnoeLuZ2v0L1O8MOdOiSz.jpg" group-title="TR • DISNEY+ FILMLER",Deadpool & Wolverine (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/225890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="TR • DISNEY+ FILMLER",Alien: Romulus (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/235850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="İçimdeki Müzik (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slsGrhLV5Uz1GYYwClAaZ6FFRc2.jpg" group-title="TR • DISNEY+ FILMLER",İçimdeki Müzik (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/235956.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sugarcane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg" group-title="TR • DISNEY+ FILMLER",Sugarcane (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/238417.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blink (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8w7QbN4gyX4tL2nvenS7Xh44su.jpg" group-title="TR • DISNEY+ FILMLER",Blink (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Raya ve Son Ejderha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ISNO0IWe1Hv8l77pojyIGOw95.jpg" group-title="TR • DISNEY+ FILMLER",Raya ve Son Ejderha (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons: O C'mon All Ye Faithful (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EijynTuWgr2JoElEJe1Jhtm3Cu.jpg" group-title="TR • DISNEY+ FILMLER",The Simpsons: O C'mon All Ye Faithful (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Greenlerin Büyükşehir Maceraları, Film: Uzay Tatili (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zawc5WYUjpQv6NNtNbL5cw1sVi.jpg" group-title="TR • DISNEY+ FILMLER",Greenlerin Büyükşehir Maceraları, Film: Uzay Tatili (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239239.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kayıp Balık Dori (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntZQdEFnkZYvmtNHfRJ5LOY8qjU.jpg" group-title="TR • DISNEY+ FILMLER",Kayıp Balık Dori (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fire Island (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEU8q02JJOoOIO0Zll7oLb1drWk.jpg" group-title="TR • DISNEY+ FILMLER",Fire Island (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Başkanın Çocuğu (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eA4xD8LC8suanPtm0zuX3aZ6zA.jpg" group-title="TR • DISNEY+ FILMLER",Başkanın Çocuğu (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flamin' Hot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" group-title="TR • DISNEY+ FILMLER",Flamin' Hot (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flora & Ulysses (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syobJCxZcIJl0OpjNroZSQKa1kW.jpg" group-title="TR • DISNEY+ FILMLER",Flora & Ulysses (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322713.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Asfaltın Kralları (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yXOh2PqutxhruHzVuoR35D1r4m.jpg" group-title="TR • DISNEY+ FILMLER",Asfaltın Kralları (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239682.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: Joy to the World (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDjM4H1NzwM10B2wjG8hiHT3Zk8.jpg" group-title="TR • DISNEY+ FILMLER",Doctor Who: Joy to the World (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/239718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Görevi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZYd6RGlAsAiHVI5J7ukB4D5G2.jpg" group-title="TR • DISNEY+ FILMLER",Amazon Görevi (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/240211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Explorer: Lav Gölü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKl0tVfLt902w36oZe119cN2zxt.jpg" group-title="TR • DISNEY+ FILMLER",Explorer: Lav Gölü (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/240212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Endurance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LPRuJ7pSxUB559ac8SS5mdElz8.jpg" group-title="TR • DISNEY+ FILMLER",Endurance (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/240736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kırmızı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYL76LYdVKIxwumg5O23be3uEIv.jpg" group-title="TR • DISNEY+ FILMLER",Kırmızı (2022)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/242416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg" group-title="TR • DISNEY+ FILMLER",Cruella (2021)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243102.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mulan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg" group-title="TR • DISNEY+ FILMLER",Mulan (1998)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243107.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fransız Postası (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AioVs7ilfxi9FTHELNQCpiI50Z5.jpg" group-title="TR • DISNEY+ FILMLER",Fransız Postası (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gizli Dosyalar (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg" group-title="TR • DISNEY+ FILMLER",Gizli Dosyalar (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Günaydın Vietnam (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sreISlFUn5TyR41QNjlfAdX5SEW.jpg" group-title="TR • DISNEY+ FILMLER",Günaydın Vietnam (1987)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galaksinin Koruyucuları 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbK6py6t9ikhWbsz3tIeXgiBCCn.jpg" group-title="TR • DISNEY+ FILMLER",Galaksinin Koruyucuları 3 (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galaksinin Koruyucuları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9NAhhkM3nSstFRVHWgnnDdavv5.jpg" group-title="TR • DISNEY+ FILMLER",Galaksinin Koruyucuları (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galaksinin Koruyucuları 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDQXXrL6aBqIQ38GivPVWgjZXv7.jpg" group-title="TR • DISNEY+ FILMLER",Galaksinin Koruyucuları 2 (2017)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happier Than Ever: A Love Letter to Los Angeles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0f9sDiwYlEtfhUWxc5F2ZW7wfq.jpg" group-title="TR • DISNEY+ FILMLER",Happier Than Ever: A Love Letter to Los Angeles (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herbie: Tam Gaz (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf5CS0UZRiUL7Xw4hSeOpO00SKL.jpg" group-title="TR • DISNEY+ FILMLER",Herbie: Tam Gaz (2005)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hercules (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZwpeNwRqKiti5bEAXqZq4qNmRP.jpg" group-title="TR • DISNEY+ FILMLER",Hercules (1995)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gizli Sayılar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcBOzZXgdsEd4ADWFvBQq3TzIYK.jpg" group-title="TR • DISNEY+ FILMLER",Gizli Sayılar (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitler'in Genç Askerleri (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqMhakYHwtSmD3gIB6vexgS1qnD.jpg" group-title="TR • DISNEY+ FILMLER",Hitler'in Genç Askerleri (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitman: Ajan 47 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1eGPzRYvoQBLJAXxOVvQkothC0.jpg" group-title="TR • DISNEY+ FILMLER",Hitman: Ajan 47 (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitman (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RfCxVHYXnO7p0Oy68m5OH5ymZ0.jpg" group-title="TR • DISNEY+ FILMLER",Hitman (2007)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Stargirl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZNvOWYrnqz27TfS0USHNwlPp99.jpg" group-title="TR • DISNEY+ FILMLER",Hollywood Stargirl (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evde Tek Başına 2: New York'ta Kayıp (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg" group-title="TR • DISNEY+ FILMLER",Evde Tek Başına 2: New York'ta Kayıp (1992)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evde Tek Başına (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW5LQO6pyd3WyFUvyeL5WAffZmL.jpg" group-title="TR • DISNEY+ FILMLER",Evde Tek Başına (1990)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Max Evde Tek Başına (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ds0JHx6w1Yf7gQ81FJCj6shcR6.jpg" group-title="TR • DISNEY+ FILMLER",Max Evde Tek Başına (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horton (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg" group-title="TR • DISNEY+ FILMLER",Horton (2008)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="If These Walls Could Sing (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvyDU4uekUMtWlNXB5yugBtVjNH.jpg" group-title="TR • DISNEY+ FILMLER",If These Walls Could Sing (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İki Babalık (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6IjAJHJ51qO4htXIjivhSenyDJ.jpg" group-title="TR • DISNEY+ FILMLER",İki Babalık (2009)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ters Yüz (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EPfG2nVMhF5CDcAK0IeSsnBsVw.jpg" group-title="TR • DISNEY+ FILMLER",Ters Yüz (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sihirli Orman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/573iw3gMzQ9r6yrkHwtb5V9T4l3.jpg" group-title="TR • DISNEY+ FILMLER",Sihirli Orman (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Işığın Parlasın (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktcErFLYL7DEmcvF9vKrQ3KSjNA.jpg" group-title="TR • DISNEY+ FILMLER",Işığın Parlasın (2012)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZklgGqTljzg9VxzumbVOC1UKAs.jpg" group-title="TR • DISNEY+ FILMLER",Jack (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babam Söz Verdi (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivPCaeL5uijHFuNlxyQVZmqLh3c.jpg" group-title="TR • DISNEY+ FILMLER",Babam Söz Verdi (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Kapahala: Back on Board (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYSEqCT49HsxOs8MVXRnOHxfgFx.jpg" group-title="TR • DISNEY+ FILMLER",Johnny Kapahala: Back on Board (2007)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Tsunami (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2jnJHWVJc8D5ms1xhJ2yRkyV3U.jpg" group-title="TR • DISNEY+ FILMLER",Johnny Tsunami (1999)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Delik (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCqOJWvOK5UPospyrLANKfwRBlG.jpg" group-title="TR • DISNEY+ FILMLER",Kara Delik (1979)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Dul (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAlUN6XFuvSz1it58aH2cuEITrt.jpg" group-title="TR • DISNEY+ FILMLER",Kara Dul (1987)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karmakarışık (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64lvymVMSKcg2ZVB5WQyEzQkmrY.jpg" group-title="TR • DISNEY+ FILMLER",Karmakarışık (2010)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Koca Bebek Joe (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYLyIZMj2mklDGDgutIm5dvML0X.jpg" group-title="TR • DISNEY+ FILMLER",Koca Bebek Joe (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Komik Tuzak (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q5rCQS6IuWhjtOIzvGWZK79qnV.jpg" group-title="TR • DISNEY+ FILMLER",Komik Tuzak (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Labirent: Ölümcül Kaçış (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guxVSOrqCkETy5fsLZGnedWSOr2.jpg" group-title="TR • DISNEY+ FILMLER",Labirent: Ölümcül Kaçış (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lego Disney Princess: The Castle Quest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q17tXNROOslj7uCGicKNlIf9Rx6.jpg" group-title="TR • DISNEY+ FILMLER",Lego Disney Princess: The Castle Quest (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leydi ile Sokak Köpeği (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsIqRVluiQHS705dLLO4sYn3YqO.jpg" group-title="TR • DISNEY+ FILMLER",Leydi ile Sokak Köpeği (1955)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leydi ile Sokak Köpeği 2: Scamp'in Macerası (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnjn4MoTuuBzhdWOvvxS0n5rQ39.jpg" group-title="TR • DISNEY+ FILMLER",Leydi ile Sokak Köpeği 2: Scamp'in Macerası (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zor Ölüm 4 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV5cEJZacvK9F7sBFIccSlbkOS9.jpg" group-title="TR • DISNEY+ FILMLER",Zor Ölüm 4 (2007)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhattan'da Sihir 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHdlUye87aMxbV1FUoXiGMT4mFy.jpg" group-title="TR • DISNEY+ FILMLER",Manhattan'da Sihir 2
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matriarch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQWxzYlqywzxXZ0Njq6XVxnnsDN.jpg" group-title="TR • DISNEY+ FILMLER",Matriarch (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sevimli Canavarlar (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4YRiGgYxttCVUvs9vhxfGezHx4.jpg" group-title="TR • DISNEY+ FILMLER",Sevimli Canavarlar (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sevimli Canavarlar Üniversitesi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ost7ABvfjcDfVyBqd61uUXYokhP.jpg" group-title="TR • DISNEY+ FILMLER",Sevimli Canavarlar Üniversitesi (2013)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg" group-title="TR • DISNEY+ FILMLER",Mulan (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulholland Çıkmazı (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlb343fQkqHDJMD2XxHPYaqmp94.jpg" group-title="TR • DISNEY+ FILMLER",Mulholland Çıkmazı (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Müthiş Dadı... Müthiş Baba (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F9az8ka1zjNJYaDROieFFv9ZCw.jpg" group-title="TR • DISNEY+ FILMLER",Müthiş Dadı... Müthiş Baba (1993)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Newsies (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykmCMHzkRSuJucPYeqGA2ampbp.jpg" group-title="TR • DISNEY+ FILMLER",Newsies (1992)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Müzede Bir Gece: Kahmunrah’ın Yükselişi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm1BZxpc35Xope13bdzaLegKHYN.jpg" group-title="TR • DISNEY+ FILMLER",Müzede Bir Gece: Kahmunrah’ın Yükselişi (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skandal (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yST3xZ4tl0ONs9WyD8V3SAW4P76.jpg" group-title="TR • DISNEY+ FILMLER",Skandal (2006)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kötü Şöhret (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62NsZPgueSiE8y7dqtU3FSLFwYw.jpg" group-title="TR • DISNEY+ FILMLER",Kötü Şöhret (2009)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ölüm Vadisi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVVBypE10jInpy2lYurWT8lyOXs.jpg" group-title="TR • DISNEY+ FILMLER",Ölüm Vadisi (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ön Cephe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHAef4ts9Y5EREhs9UlOPEga4h3.jpg" group-title="TR • DISNEY+ FILMLER",Ön Cephe (2011)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KAtscEx3Pt9YPpNuK3BO6irQn1.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi (1995)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243963.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi 2 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df437IDV5xku4mYmvOCBMIqLXzj.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi 2 (1999)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243964.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322767.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBNNAO9EVqx1vRdCbBtr5TDonA4.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi 3 (2010)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243965.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi 4 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNjnFuKoltaqo1FYxkcVvEFHbME.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi 4 (2019)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243966.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikâyesi: Gizemli Otel (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXFaX2iS1hXJGkjNXEe05rzTzIy.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikâyesi: Gizemli Otel (2013)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243967.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322770.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi: Hayali Ülke (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi: Hayali Ülke (2014)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/243968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nightbitch (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg" group-title="TR • DISNEY+ FILMLER",Nightbitch (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/244097.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Özür Dilerim (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDQcaeIAn5WYvXkgi5BCqAkF3N1.jpg" group-title="TR • DISNEY+ FILMLER",Özür Dilerim (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pamuk Prenses ve Yedi Cüceler (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyuEt0PMRqFjF44TcTg25b3jnD.jpg" group-title="TR • DISNEY+ FILMLER",Pamuk Prenses ve Yedi Cüceler (1971)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kağıttan Kentler (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z43id8OuKXRzCQ2D53cVlS8dR3e.jpg" group-title="TR • DISNEY+ FILMLER",Kağıttan Kentler (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pearl Harbor (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="TR • DISNEY+ FILMLER",Pearl Harbor (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penguenler (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMSuKJ2e5VgYFr4SwOTLnnl5L15.jpg" group-title="TR • DISNEY+ FILMLER",Penguenler (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perili Köşk (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/253g8rM3H7pGBEAEpbTbeD3HPdy.jpg" group-title="TR • DISNEY+ FILMLER",Perili Köşk (2003)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAin4IuMKZkNLou2BKOgBxBrLT4.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemi (1968)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dfc81RysEY0aJuZJUTTKrWOa7C.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Gezegeni (2001)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeii (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxxM3lLDjGRC50i5rhvfQziskAN.jpg" group-title="TR • DISNEY+ FILMLER",Pompeii (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pers Prensi: Zamanın Kumları (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulaH62H0BYPuF3Llo2yrP8HcJIO.jpg" group-title="TR • DISNEY+ FILMLER",Pers Prensi: Zamanın Kumları (2010)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prom Pact (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="TR • DISNEY+ FILMLER",Prom Pact (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raya ve Son Ejderha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ISNO0IWe1Hv8l77pojyIGOw95.jpg" group-title="TR • DISNEY+ FILMLER",Raya ve Son Ejderha (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi: Başlangıç (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma0zzr1wSWDmDqRulMIEVFBLpk6.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemi: Başlangıç (2011)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matilda Müzikali (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvwHuWsZYsqCyUwvkTrOhm5OZsi.jpg" group-title="TR • DISNEY+ FILMLER",Matilda Müzikali (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg" group-title="TR • DISNEY+ FILMLER",Robin Hood (1973)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robot Ron: Bir Sorun Var (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbMNvWDBm3PJ5620SAVL8WNwZlD.jpg" group-title="TR • DISNEY+ FILMLER",Robot Ron: Bir Sorun Var (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock Kampı (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IXMqZnwccogptThay3togKIFWw.jpg" group-title="TR • DISNEY+ FILMLER",Rock Kampı (2008)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rogue One: Bir Star Wars Hikayesi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HVSgUw3QkJH1WpwANqHWdzQ0yG.jpg" group-title="TR • DISNEY+ FILMLER",Rogue One: Bir Star Wars Hikayesi (2016)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/244986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Space Race (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mUMcg3GkJcCQoCOlAsQITwJXMn.jpg" group-title="TR • DISNEY+ FILMLER",The Space Race (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/245371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Umami (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgT250M6F0o0bUUTyXjEjof6knA.jpg" group-title="TR • DISNEY+ FILMLER",Umami (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/247096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Culpa Mía: Londra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tjSCAmJKWVq0olFjkYiwyy1hqA.jpg" group-title="TR • DISNEY+ FILMLER",Culpa Mía: Londra (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/247130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Başka Bir Sen (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" group-title="TR • DISNEY+ FILMLER",Başka Bir Sen (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/249237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gerçek Acı (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrT0OqO4Un4b91BxvOmHQMlBlMv.jpg" group-title="TR • DISNEY+ FILMLER",Gerçek Acı (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/249704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Control Freak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg" group-title="TR • DISNEY+ FILMLER",Control Freak
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/250012.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roket Adam (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tDFRESFwKww1LHRE8W1Exj9edH.jpg" group-title="TR • DISNEY+ FILMLER",Roket Adam (1991)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romeo ve Juliet (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJCDUkXhfRdc4q8e4VCKEBbqzBT.jpg" group-title="TR • DISNEY+ FILMLER",Romeo ve Juliet (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safety (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qakkhhfyPv9YAm7225oGL00YBbo.jpg" group-title="TR • DISNEY+ FILMLER",Safety (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi ve On Halka Efsanesi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuFRut0rHI7L2NqC3RyYu6Tj8Od.jpg" group-title="TR • DISNEY+ FILMLER",Shang-Chi ve On Halka Efsanesi (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sharkatraz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRCW0QT3nJSLhX4fNkxDx0Nag29.jpg" group-title="TR • DISNEY+ FILMLER",Sharkatraz (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sihirbazın Çırağı (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzg290c0G1MwRL5n3MWGizwNcSg.jpg" group-title="TR • DISNEY+ FILMLER",Sihirbazın Çırağı (2010)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sıkıysa Yakala (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMuNEWOF5Rio9PA7ZblZMkoaN2W.jpg" group-title="TR • DISNEY+ FILMLER",Sıkıysa Yakala (2002)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sindirella ve Sevimli Arkadaşları (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLYgcGnjYXtLtiBL5uSizLZS0Bc.jpg" group-title="TR • DISNEY+ FILMLER",Sindirella ve Sevimli Arkadaşları (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uyuyan Güzel (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cpShXBvo6AWE7DEWUOnNpocYPZ.jpg" group-title="TR • DISNEY+ FILMLER",Uyuyan Güzel (1959)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Strange New World (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7idTfQoXV1meDRKtMXCR8z7xE6.jpg" group-title="TR • DISNEY+ FILMLER",Strange New World (1975)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan ve Jane (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsYC01jgqFCVUKPXV9KdAEwkJEQ.jpg" group-title="TR • DISNEY+ FILMLER",Tarzan ve Jane (2002)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taştaki Kılıç (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg" group-title="TR • DISNEY+ FILMLER",Taştaki Kılıç (1963)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teklif (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRoWC6hC4os0jBWqOyEdSDtesY.jpg" group-title="TR • DISNEY+ FILMLER",Teklif (2009)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.13th.Warrior.1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRoWC6hC4os0jBWqOyEdSDtesY.jpg" group-title="TR • DISNEY+ FILMLER",The.13th.Warrior.1999
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ichabod ve Bay Kurbağa'nın Maceraları (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36OLdiuowg2imY6I7DgtnrOiy1l.jpg" group-title="TR • DISNEY+ FILMLER",Ichabod ve Bay Kurbağa'nın Maceraları (1949)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Savaştan Sonra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLlPO53gVHm0HiYONDoXueC7L4c.jpg" group-title="TR • DISNEY+ FILMLER",Savaştan Sonra (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lapacılar Çetesi (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPGACB1ZfPM9bKlQva2TFpCkWSD.jpg" group-title="TR • DISNEY+ FILMLER",Lapacılar Çetesi (1979)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Banshees of Inisherin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGKYDN60RgwM1YCJ7Hpcn6a9Nl.jpg" group-title="TR • DISNEY+ FILMLER",The Banshees of Inisherin (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Biscuit Eater (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvUcdJVJ0hNMMUa1QFoLtXUoPQS.jpg" group-title="TR • DISNEY+ FILMLER",The Biscuit Eater (1972)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Kitabı (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUGXlNGNVpRgZrp7gp344KsBebt.jpg" group-title="TR • DISNEY+ FILMLER",Hayat Kitabı (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322809.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Danışman (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTotI59vLXPq71lQZXL7MCxBKvv.jpg" group-title="TR • DISNEY+ FILMLER",Danışman (2013)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/252011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aleksander ve Felaket, Korkunç, Berbat, Çok Kötü Bir Yolculuk 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM4p44gp7ZECIuxZ0e456Ew01z.jpg" group-title="TR • DISNEY+ FILMLER",Aleksander ve Felaket, Korkunç, Berbat, Çok Kötü Bir Yolculuk 2025
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/253604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O'Dessa 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7EcAvzYaYfKv4JXKroJYfaTzSH.jpg" group-title="TR • DISNEY+ FILMLER",O'Dessa 2025
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/253606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanik: Dijital Diriliş (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg" group-title="TR • DISNEY+ FILMLER",Titanik: Dijital Diriliş (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/254310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sea Lions of the Galapagos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg" group-title="TR • DISNEY+ FILMLER",Sea Lions of the Galapagos (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/254407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Daha Çılgın Cuma (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIGCUWXn0pTX8eHvY0Kl8W6sKrx.jpg" group-title="TR • DISNEY+ FILMLER",Daha Çılgın Cuma (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/279157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Very Jonas Christmas Movie (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg" group-title="TR • DISNEY+ FILMLER",A Very Jonas Christmas Movie (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/279413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Güller (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OfHBk5zCjcBeBKHpSYtdwG9VPy.jpg" group-title="TR • DISNEY+ FILMLER",Güller (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/283533.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Springsteen: Hiçlikten Kurtar Beni (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg" group-title="TR • DISNEY+ FILMLER",Springsteen: Hiçlikten Kurtar Beni (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/288187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="In the Blink of an Eye (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="TR • DISNEY+ FILMLER",In the Blink of an Eye (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/288957.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mike & Nick & Nick & Alice (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" group-title="TR • DISNEY+ FILMLER",Mike & Nick & Nick & Alice (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/290928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey and Iron Man: Avengers Team Up! (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV8K3EevkFNwj41C2MwpjHfrCAi.jpg" group-title="TR • DISNEY+ FILMLER",Spidey and Iron Man: Avengers Team Up! (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/293456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kiralık Aile (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39enxZX07Wtem5oyBpT2zZNJRmb.jpg" group-title="TR • DISNEY+ FILMLER",Kiralık Aile (2025)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/293457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="TR • DISNEY+ FILMLER",Suncoast (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/293458.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yarından Sonra (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJfO2aYS9eqd1i0SsZc8YFBWtMm.jpg" group-title="TR • DISNEY+ FILMLER",Yarından Sonra (2004)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dünyanın Durduğu Gün (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMiNNXxdouXn71etASqWBJXr9nP.jpg" group-title="TR • DISNEY+ FILMLER",Dünyanın Durduğu Gün (2008)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarayın Gözdesi (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srOmj8IYZvSpY3q4vlyOInT16hO.jpg" group-title="TR • DISNEY+ FILMLER",Sarayın Gözdesi (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Büyük Budapeşte Oteli (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYdclrAOjWtxTgE7PZy102hTYAf.jpg" group-title="TR • DISNEY+ FILMLER",Büyük Budapeşte Oteli (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhteşem Fare Dedektif (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj3Xifjl4tZCf3CVaEHh4GI7Zhq.jpg" group-title="TR • DISNEY+ FILMLER",Muhteşem Fare Dedektif (1986)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marslı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dET1KGozUz3FW7ZO60ybCV8MsTh.jpg" group-title="TR • DISNEY+ FILMLER",Marslı (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Menu (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m3s5qV8K400FIt3SnaLx3E9qZO.jpg" group-title="TR • DISNEY+ FILMLER",The Menu (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hazine Avcıları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LKUlIzPrG9COorsT6c58mVwrEs.jpg" group-title="TR • DISNEY+ FILMLER",Hazine Avcıları (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaya (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbzpDkVOUVFia1i7JtOA0tuQ2ED.jpg" group-title="TR • DISNEY+ FILMLER",Kaya (1996)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İnce Kırmızı Hat (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg" group-title="TR • DISNEY+ FILMLER",İnce Kırmızı Hat (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alamo Kalesi (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg" group-title="TR • DISNEY+ FILMLER",Alamo Kalesi (1960)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ah Mary Vah Mary (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL6nSO5lGwKOezKtJIbDg2Gxgfr.jpg" group-title="TR • DISNEY+ FILMLER",Ah Mary Vah Mary (1998)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tilki ve Avcı Köpeği (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htSqoLqAyn8GGt6qVLQDFckxPrw.jpg" group-title="TR • DISNEY+ FILMLER",Tilki ve Avcı Köpeği (1981)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tilki ve Avcı Köpeği 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YBTiPJx4bACL2mAGVMKDCIybSU.jpg" group-title="TR • DISNEY+ FILMLER",Tilki ve Avcı Köpeği 2 (2006)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanik (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEntfzxB8yUXIxqZY929dELjLsi.jpg" group-title="TR • DISNEY+ FILMLER",Titanik (1997)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="TR • DISNEY+ FILMLER",Togo (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tolkien (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg" group-title="TR • DISNEY+ FILMLER",Tolkien (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trevor: The Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzLhiR8dIPfrnUkJD77XXyXk4yH.jpg" group-title="TR • DISNEY+ FILMLER",Trevor: The Musical (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üç Adam ve Bir Küçük Hanım (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlRmm4bPehdk9vzRKj7kca2j7De.jpg" group-title="TR • DISNEY+ FILMLER",Üç Adam ve Bir Küçük Hanım (1990)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Durdurulamaz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIBVusneA3awHxIaXciHZNGIpyW.jpg" group-title="TR • DISNEY+ FILMLER",Durdurulamaz (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uyuyan Güzel (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cpShXBvo6AWE7DEWUOnNpocYPZ.jpg" group-title="TR • DISNEY+ FILMLER",Uyuyan Güzel (1959)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tatil Arkadaşları (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCyJeTAct07ORPJPHyzxCrVtZzh.jpg" group-title="TR • DISNEY+ FILMLER",Tatil Arkadaşları (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vadinin İçinde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ng3GkwTZ0Zxf2FjZcVJj412l2.jpg" group-title="TR • DISNEY+ FILMLER",Vadinin İçinde (2019)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buffy The Vampire Slayer: İlk Film (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg" group-title="TR • DISNEY+ FILMLER",Buffy The Vampire Slayer: İlk Film (1992)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi: Savaş (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CX5H9KDaukasw8We246N0c40yi.jpg" group-title="TR • DISNEY+ FILMLER",Maymunlar Cehennemi: Savaş (2017)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Idina Menzel: Sahne Ne Tarafta? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jvnq0P8ZKUH5uxroPMqTmLr5wS.jpg" group-title="TR • DISNEY+ FILMLER",Idina Menzel: Sahne Ne Tarafta? (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wendy Wu: Homecoming Warrior (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E5qT8Q3pLDurJZqrO8meYZc60g.jpg" group-title="TR • DISNEY+ FILMLER",Wendy Wu: Homecoming Warrior (2006)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Boy Rick (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArbBJOdzM4O2MZhAaSY72CTx8ot.jpg" group-title="TR • DISNEY+ FILMLER",White Boy Rick (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyazlar Beceremez (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg" group-title="TR • DISNEY+ FILMLER",Beyazlar Beceremez (1992)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yarının Dünyası (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1e3e72iGkAD0wGLwTYCftrP7rs.jpg" group-title="TR • DISNEY+ FILMLER",Yarının Dünyası (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Mutantlar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm2N8CkU6Or9knK0EcUeQlfu587.jpg" group-title="TR • DISNEY+ FILMLER",Yeni Mutantlar (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yılbaşı Gecesi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5bo3uZrqyIcj9bMn55dqLELEOi.jpg" group-title="TR • DISNEY+ FILMLER",Yılbaşı Gecesi (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombiler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyaAXETm1LoJu22S1arOVd3A7x.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zack ve Cody’nin Film Gibi Yaşamı (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE2KMSpatKP7GC4mlPonjjhf66t.jpg" group-title="TR • DISNEY+ FILMLER",Zack ve Cody’nin Film Gibi Yaşamı (2011)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zamanda Kıvrılma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxvQoj2JDBuvDRSrQetgANNv45y.jpg" group-title="TR • DISNEY+ FILMLER",Zamanda Kıvrılma (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombiler 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 2 (2020)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zootropolis: Hayvanlar Şehri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg" group-title="TR • DISNEY+ FILMLER",Zootropolis: Hayvanlar Şehri (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aftershock (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PxKajRULSTqOkA1X6QPLo04nkj.jpg" group-title="TR • DISNEY+ FILMLER",Aftershock (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beba (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abyjP1LJp3LU9JxEt21b8W1WI7o.jpg" group-title="TR • DISNEY+ FILMLER",Beba (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benden Ne Olur? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msyHMyQ3mJuhEqq84SUAIcUU9nX.jpg" group-title="TR • DISNEY+ FILMLER",Benden Ne Olur? (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruiser (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H9RpfmIwDM5norUpYdiOdRkVQi.jpg" group-title="TR • DISNEY+ FILMLER",Bruiser (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chip ile Dale Kurtarma Ekibi" tvg-logo="https://cdn.sinemalar.com/images/movie/230711/poster/chip-n-dale-rescue-rangers-1660924344.jpg" group-title="TR • DISNEY+ FILMLER",Chip ile Dale Kurtarma Ekibi
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crush (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="TR • DISNEY+ FILMLER",Crush (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disenchanted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg" group-title="TR • DISNEY+ FILMLER",Disenchanted (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fire of Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9smEX8UP84yb2GisLwyAyQKvCWS.jpg" group-title="TR • DISNEY+ FILMLER",Fire of Love (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acımasız (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19M5cRLcMJq1YkphCEFxBUod044.jpg" group-title="TR • DISNEY+ FILMLER",Acımasız (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sZrkcuQZSGPQq3HqTFhD7g4Ivv.jpg" group-title="TR • DISNEY+ FILMLER",Hocus Pocus 2 (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kral Şakir: Geri Dönüşüm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="TR • DISNEY+ FILMLER",Kral Şakir: Geri Dönüşüm (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mickey'nin Muhteşem Yazı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg" group-title="TR • DISNEY+ FILMLER",Mickey'nin Muhteşem Yazı (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monica, O My Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg" group-title="TR • DISNEY+ FILMLER",Monica, O My Darling (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Not Okay (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg" group-title="TR • DISNEY+ FILMLER",Not Okay (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obi-Wan Kenobi: A Jedi's Return (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg" group-title="TR • DISNEY+ FILMLER",Obi-Wan Kenobi: A Jedi's Return (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinokyo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN8HeqzvdoEZtmQaUeLzOdOOyVe.jpg" group-title="TR • DISNEY+ FILMLER",Pinokyo (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zind2VqZjPVOZeHPYCsjvxbhwg.jpg" group-title="TR • DISNEY+ FILMLER",Prey (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slkVQhehnP3h40y7mfbYDfv8sWB.jpg" group-title="TR • DISNEY+ FILMLER",Rise (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosaline (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="TR • DISNEY+ FILMLER",Rosaline (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galaksinin Koruyucuları Tatil Özel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg" group-title="TR • DISNEY+ FILMLER",Galaksinin Koruyucuları Tatil Özel (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Bob's Burgers Filmi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfsdb9EMlbSjimQRNp5FwrqkX85.jpg" group-title="TR • DISNEY+ FILMLER",Bir Bob's Burgers Filmi (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth and Lies: The Last Gangster (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRD0IwQfolFIQzn9O2Nql0vb514.jpg" group-title="TR • DISNEY+ FILMLER",Truth and Lies: The Last Gangster (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kırmızı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYL76LYdVKIxwumg5O23be3uEIv.jpg" group-title="TR • DISNEY+ FILMLER",Kırmızı (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gizli Saklı 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5HIC0ZdKYYp50frsFXPLG9hGEc.jpg" group-title="TR • DISNEY+ FILMLER",Gizli Saklı 2 (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Werewolf By Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="TR • DISNEY+ FILMLER",Werewolf By Night (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombiler 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6spzI5F47c5M3uFWo2mkuCQByu.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 3 (2022)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aman Tanrım! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKmOKdcrG8CuF3XAGgjDwYQniYr.jpg" group-title="TR • DISNEY+ FILMLER",Aman Tanrım! (2003)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İçimdeki Şeytan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znKhqO9MjWmHwbRcLvOhQt7TeEq.jpg" group-title="TR • DISNEY+ FILMLER",İçimdeki Şeytan (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şövalye (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iClH24qC1fGzgwJKnehQtTHeXH3.jpg" group-title="TR • DISNEY+ FILMLER",Şövalye (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dashing Through the Snow (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="TR • DISNEY+ FILMLER",Dashing Through the Snow (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: Wild Blue Yonder" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/0/4/0/0/7/7/1040077-doctor-who-wild-blue-yonder-0-230-0-345-crop.jpg?v=2593737a15" group-title="TR • DISNEY+ FILMLER",Doctor Who: Wild Blue Yonder
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Church on Ruby Road" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/Doctor_Who_The_Church_on_Ruby_Road.jpg/250px-Doctor_Who_The_Church_on_Ruby_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="TR • DISNEY+ FILMLER",The Church on Ruby Road
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Giggle" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/0/4/0/0/7/8/1040078-doctor-who-the-giggle-0-230-0-345-crop.jpg?v=7a90801f1d" group-title="TR • DISNEY+ FILMLER",The Giggle
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elemental: Doğanın Güçleri (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cv1usgB33fqyRjzbKnTGkCiNvi.jpg" group-title="TR • DISNEY+ FILMLER",Elemental: Doğanın Güçleri (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perili Köşk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAI1XcDJr2MYrMBMYBD1gvxVZpW.jpg" group-title="TR • DISNEY+ FILMLER",Perili Köşk (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Explorer: Lav Gölü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKl0tVfLt902w36oZe119cN2zxt.jpg" group-title="TR • DISNEY+ FILMLER",Explorer: Lav Gölü (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atan Kazanır (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ32eT1fGJkcTkeIOKDlQ1bfXRC.jpg" group-title="TR • DISNEY+ FILMLER",Atan Kazanır (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322887.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No One Will Save You (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg" group-title="TR • DISNEY+ FILMLER",No One Will Save You (2023)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/293536.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="TR • DISNEY+ FILMLER",Gary (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/296629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alamo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg" group-title="TR • DISNEY+ FILMLER",Alamo (2004)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/302317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Makeover: Homer Edition (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="TR • DISNEY+ FILMLER",Extreme Makeover: Homer Edition (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/302326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aristokediler (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqhWyny0SOKNSV46UIuW2zZ6Inq.jpg" group-title="TR • DISNEY+ FILMLER",Aristokediler (1970)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/303870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Safety Bruderherz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qakkhhfyPv9YAm7225oGL00YBbo.jpg" group-title="TR • DISNEY+ FILMLER",Safety Bruderherz (2020)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/305521.mp4
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enOmaXfvwsujQq3012wp15G6JJ9.jpg" group-title="TR • DISNEY+ FILMLER",Peter Pan & Wendy (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiz Lady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqKiprkTUfXWi8bOjCl0lHtCwod.jpg" group-title="TR • DISNEY+ FILMLER",Quiz Lady (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şeytanla Bir Gece (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWJhM7n1fqehv36AcfNcg3XYZ2r.jpg" group-title="TR • DISNEY+ FILMLER",Şeytanla Bir Gece (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Açlık Oyunları: Kuşların ve Yılanların Şarkısı (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpCw9qWv7EWkpLcNoSBxlIin8ZG.jpg" group-title="TR • DISNEY+ FILMLER",Açlık Oyunları: Kuşların ve Yılanların Şarkısı (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Little Mermaid (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWXGmRgbKCj4KhWf2Chs1qdorPo.jpg" group-title="TR • DISNEY+ FILMLER",The Little Mermaid (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Marvels (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laGm5l1tF2xhjbZipoZUc4yyl7d.jpg" group-title="TR • DISNEY+ FILMLER",The Marvels (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antigang : La Relève (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QpXUYd3WcOyXzHkPIvq2BpYMI6.jpg" group-title="TR • DISNEY+ FILMLER",Antigang : La Relève (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tatil Arkadaşları 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg" group-title="TR • DISNEY+ FILMLER",Tatil Arkadaşları 2 (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilek (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh5fUcvkmAwk68ndiYT8hXXB7IA.jpg" group-title="TR • DISNEY+ FILMLER",Dilek (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dünyanın En İyisi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bB17AQgUqUKoCAdr8kp6cur41yz.jpg" group-title="TR • DISNEY+ FILMLER",Dünyanın En İyisi (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Dylan: Tam Bir Bilinmez (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAQQn7tu55cCAsfmVvWyRDyb5o1.jpg" group-title="TR • DISNEY+ FILMLER",Bob Dylan: Tam Bir Bilinmez (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gerçek Acı (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrT0OqO4Un4b91BxvOmHQMlBlMv.jpg" group-title="TR • DISNEY+ FILMLER",Gerçek Acı (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg" group-title="TR • DISNEY+ FILMLER",Alien: Romulus (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Görevi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZYd6RGlAsAiHVI5J7ukB4D5G2.jpg" group-title="TR • DISNEY+ FILMLER",Amazon Görevi (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greenlerin Büyükşehir Maceraları, Film: Uzay Tatili (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zawc5WYUjpQv6NNtNbL5cw1sVi.jpg" group-title="TR • DISNEY+ FILMLER",Greenlerin Büyükşehir Maceraları, Film: Uzay Tatili (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blink (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8w7QbN4gyX4tL2nvenS7Xh44su.jpg" group-title="TR • DISNEY+ FILMLER",Blink (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool ve Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLXMNyATO9GBfeVxEoa0rh4iHMU.jpg" group-title="TR • DISNEY+ FILMLER",Deadpool ve Wolverine (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Nesil: Kızıl'ın Yükselişi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af8EW2BX16HSPjMfmKxzIv3AlFP.jpg" group-title="TR • DISNEY+ FILMLER",Yeni Nesil: Kızıl'ın Yükselişi (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322906.mkv
+#EXTINF:-1 tvg-id="" tvg-name=""Doctor Who" Joy to the World " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EdbHZwv5VNh9xmYD_trIItUB1unyCa5AtSIb-XuANQ&s=10" group-title="TR • DISNEY+ FILMLER","Doctor Who" Joy to the World 
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Endurance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1Id17e067DfU8fj8OVvizmj3GI.jpg" group-title="TR • DISNEY+ FILMLER",Endurance (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hold Your Breath (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRTDtSjv2RMCokS6naed4RBsuQT.jpg" group-title="TR • DISNEY+ FILMLER",Hold Your Breath (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Merhamet Hikayeleri (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7eAwpR64jiPcdoD2WAoZIaMmSh.jpg" group-title="TR • DISNEY+ FILMLER",Merhamet Hikayeleri (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg" group-title="TR • DISNEY+ FILMLER",Moana 2 (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nightbitch (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg" group-title="TR • DISNEY+ FILMLER",Nightbitch (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İçimdeki Müzik (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slsGrhLV5Uz1GYYwClAaZ6FFRc2.jpg" group-title="TR • DISNEY+ FILMLER",İçimdeki Müzik (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sugarcane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg" group-title="TR • DISNEY+ FILMLER",Sugarcane (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="TR • DISNEY+ FILMLER",Suncoast (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons: O C'mon All Ye Faithful (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9veQs3Kiew5e6M9tixzi0Vj13Yb.jpg" group-title="TR • DISNEY+ FILMLER",The Simpsons: O C'mon All Ye Faithful (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yarışı (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mUMcg3GkJcCQoCOlAsQITwJXMn.jpg" group-title="TR • DISNEY+ FILMLER",Uzay Yarışı (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Woman and the Sea (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg" group-title="TR • DISNEY+ FILMLER",Young Woman and the Sea (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Very Jonas Christmas Movie Yule Log (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orP4Dr3APyXmdqGdV3IMog34dZN.jpg" group-title="TR • DISNEY+ FILMLER",A Very Jonas Christmas Movie Yule Log (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aleksander ve Felaket, Korkunç, Berbat, Çok Kötü Bir Yolculuk (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM4p44gp7ZECIuxZ0e456Ew01z.jpg" group-title="TR • DISNEY+ FILMLER",Aleksander ve Felaket, Korkunç, Berbat, Çok Kötü Bir Yolculuk (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Başka Bir Sen (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" group-title="TR • DISNEY+ FILMLER",Başka Bir Sen (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Control Freak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOksMzsmPPA41c3DkCD47sElDU.jpg" group-title="TR • DISNEY+ FILMLER",Control Freak (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eenie Meanie (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg" group-title="TR • DISNEY+ FILMLER",Eenie Meanie (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daha Çılgın Cuma (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muAtvqoLT24LaRoeVvBCASN6mh5.jpg" group-title="TR • DISNEY+ FILMLER",Daha Çılgın Cuma (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kiralık Aile (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39enxZX07Wtem5oyBpT2zZNJRmb.jpg" group-title="TR • DISNEY+ FILMLER",Kiralık Aile (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lego Disney Prenses: Kötüler Birleşiyor (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg" group-title="TR • DISNEY+ FILMLER",Lego Disney Prenses: Kötüler Birleşiyor (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon’un Mucize Çocukları (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg" group-title="TR • DISNEY+ FILMLER",Amazon’un Mucize Çocukları (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O'Dessa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7EcAvzYaYfKv4JXKroJYfaTzSH.jpg" group-title="TR • DISNEY+ FILMLER",O'Dessa (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predator: Killer of Killers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg" group-title="TR • DISNEY+ FILMLER",Predator: Killer of Killers (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sally (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MtfJPrAEJlWhFNeW7NOVmSHs4k.jpg" group-title="TR • DISNEY+ FILMLER",Sally (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galapagos'un Denizaslanları (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbXjduE3AyC8coK4a997Xpq8CiX.jpg" group-title="TR • DISNEY+ FILMLER",Galapagos'un Denizaslanları (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey and Iron Man: Avengers Team Up! (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV8K3EevkFNwj41C2MwpjHfrCAi.jpg" group-title="TR • DISNEY+ FILMLER",Spidey and Iron Man: Avengers Team Up! (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Springsteen: Hiçlikten Kurtar Beni (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqmXgFgL2deBL6zgecQzzM8culf.jpg" group-title="TR • DISNEY+ FILMLER",Springsteen: Hiçlikten Kurtar Beni (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swiped (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg" group-title="TR • DISNEY+ FILMLER",Swiped (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Balloonist (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1PND9xFwNVtEM2ASAXlSXcwKUT.jpg" group-title="TR • DISNEY+ FILMLER",The Balloonist (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Güller (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OfHBk5zCjcBeBKHpSYtdwG9VPy.jpg" group-title="TR • DISNEY+ FILMLER",Güller (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanik: Dijital Diriliş (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkK7w1XufrVL7qd4UzKyv0X6Gur.jpg" group-title="TR • DISNEY+ FILMLER",Titanik: Dijital Diriliş (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Umami (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgT250M6F0o0bUUTyXjEjof6knA.jpg" group-title="TR • DISNEY+ FILMLER",Umami (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombiler 4: Vampirlerin Şafağı (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xe2jbhZvaRbukAQEJJqWGDNj9h.jpg" group-title="TR • DISNEY+ FILMLER",Zombiler 4: Vampirlerin Şafağı (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher: One Last Kill (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4pdyUcuIIdglSQqKZiQ8PkNdSm.jpg" group-title="TR • DISNEY+ FILMLER",The Punisher: One Last Kill (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock Kampı 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg" group-title="TR • DISNEY+ FILMLER",Rock Kampı 3 (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322941.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeni Nesil: Kötülerin Harikalar Diyarı (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UsGxtXU6erxVqQHs4vhTSc8fqN.jpg" group-title="TR • DISNEY+ FILMLER",Yeni Nesil: Kötülerin Harikalar Diyarı (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/311517.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg" group-title="TR • DISNEY+ FILMLER",Camp Rock 3 (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/312395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi 5 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LHyUPK4obqICeCt4rjhpQDOhJt.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi 5 (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/312425.mkv
-#EXTINF:-1 tvg-id="" tvg-name=""The Simpsons" Yellow Mirror (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg" group-title="TR • DISNEY+ FILMLER","The Simpsons" Yellow Mirror (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317431.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons Extreme Makeover Homer Edition (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="TR • DISNEY+ FILMLER",The Simpsons Extreme Makeover Homer Edition (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="TR • DISNEY+ FILMLER",Gary (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hoplayanlar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYjLQ3ULyr3nWj218Cu7YYU0Z8x.jpg" group-title="TR • DISNEY+ FILMLER",Hoplayanlar (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Göz Açıp Kapayıncaya Kadar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="TR • DISNEY+ FILMLER",Göz Açıp Kapayıncaya Kadar (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mike & Nick & Nick & Alice (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" group-title="TR • DISNEY+ FILMLER",Mike & Nick & Nick & Alice (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322947.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Öngörü (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JDJWhPU2rfTal8xkESkxnZb5q0.jpg" group-title="TR • DISNEY+ FILMLER",Öngörü (2026)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318595.mkv
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Mandalorian ve Grogu (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twJgioJt2pe3yUmmth5obRxRgnM.jpg" group-title="TR • DISNEY+ FILMLER",Star Wars: Mandalorian ve Grogu (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yellow Mirror (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg" group-title="TR • DISNEY+ FILMLER",Yellow Mirror (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oyuncak Hikayesi 5 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LHyUPK4obqICeCt4rjhpQDOhJt.jpg" group-title="TR • DISNEY+ FILMLER",Oyuncak Hikayesi 5 (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322951.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Drakula: Son Yolculuk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdVoyp4HpelS9DdUSJYFRgvecJe.jpg" group-title="TR • DUBLAJ FILMLER",Drakula: Son Yolculuk (2023)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/278012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yasak İlişki (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teGMLWvCnJqvtPYCSuUKRM9MvFe.jpg" group-title="TR • DUBLAJ FILMLER",Yasak İlişki (1995)
@@ -8331,8 +8414,6 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317149.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saint Tropez'nin Prensleri (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQMbYPjOy6MLZdtpkfCHVXjKHii.jpg" group-title="TR • DUBLAJ FILMLER",Saint Tropez'nin Prensleri (2025)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="5 Eylül (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BKjnKwJ0TbF3qeTxi93j1INtZH.jpg" group-title="TR • DUBLAJ FILMLER",5 Eylül (2024)
-http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318596.mkv
 #EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDxU6Y7tloddXBsQGJ6UC8sZRLG.jpg" group-title="TR • DUBLAJ FILMLER",65 (2023)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318597.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Maç Yolunda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpo06vmoOhZc57pHmuY9qKPvokQ.jpg" group-title="TR • DUBLAJ FILMLER",Maç Yolunda (2023)
@@ -8651,6 +8732,10 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320632.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320876.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Neden Tarkovski Olamıyorum... (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKkpcl1sVopOMBiUfp3tgrYXKWQ.jpg" group-title="TR • DUBLAJ FILMLER",Neden Tarkovski Olamıyorum... (2015)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son An (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4CiQFRMLAz8dUs2RY4cCxhYecS.jpg" group-title="TR • DUBLAJ FILMLER",Son An (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casper ve Emma: Atlantis'in Altın Yüzüğü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umfQWi5cLXa6DfzKVnX03hF5Qfh.jpg" group-title="TR • DUBLAJ FILMLER",Casper ve Emma: Atlantis'in Altın Yüzüğü (2023)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322400.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Boston Strangler (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg" group-title="TR • DUBLAJ FILMLER",Boston Strangler (2023)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/144562.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Quasi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" group-title="TR • DUBLAJ FILMLER",Quasi (2023)
@@ -8831,6 +8916,8 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317202.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/319926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yalancı Komşu (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipF8vjrmNUezsdGMq1Bi89Fjghn.jpg" group-title="TR • GAIN FILMLER",Yalancı Komşu (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maskeler Düştüğünde (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD5Q3AJB0hhrp6Qyj0c38AlnMkl.jpg" group-title="TR • GAIN FILMLER",Maskeler Düştüğünde (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321970.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bars (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrJKDU0LiANtU68wEme0ZuhgkoS.jpg" group-title="TR • MUBI FILMLER",Bars (2024)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/270884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bir Ayrılık (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZXnUStwsufK9yawAoW7oWhF1Ym.jpg" group-title="TR • MUBI FILMLER",Bir Ayrılık (2011)
@@ -9271,6 +9358,10 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/312404.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321203.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Diriliş (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76uPr6mqXiEY935oH2IxTCJjLxo.jpg" group-title="TR • MUBI FILMLER",Diriliş (2025)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortu Nega (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zoeJIVVU1EYAXy2qluy2EYUc8U.jpg" group-title="TR • MUBI FILMLER",Mortu Nega (1988)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Turnesi (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnadDUOlgYV6B32FH7tMGxyFd4a.jpg" group-title="TR • MUBI FILMLER",Anadolu Turnesi (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321971.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3 Küçük Ninja Geri Dönüyor (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXuh3c0DyvqSGo0DBatoemBwEtz.jpg" group-title="TR • NETFLIX FILMLER",3 Küçük Ninja Geri Dönüyor (1994)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/315116.mkv
 #EXTINF:-1 tvg-id="" tvg-name="6 Balon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="TR • NETFLIX FILMLER",6 Balon (2018)
@@ -12909,6 +13000,40 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321189.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321274.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Neden Tekrar Evlendim? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg" group-title="TR • NETFLIX FILMLER",Neden Tekrar Evlendim? (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Engie Benjy: Let's Go Team!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy6vgbBmoDX5H6cdvfpnbRSiNK1.jpg" group-title="TR • NETFLIX FILMLER",Engie Benjy: Let's Go Team!
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perde Arkası: Vince Young'ın Hikayesi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1n4bOedczRdAm3JRBmbg35deCD.jpg" group-title="TR • NETFLIX FILMLER",Perde Arkası: Vince Young'ın Hikayesi (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zm5i6MmXp5cfIT3LffiuAX1uZ6.jpg" group-title="TR • NETFLIX FILMLER",Best of the Best (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Zengin Asyalılar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83NGHwmgbAavXZjg2MXMxZCGGBJ.jpg" group-title="TR • NETFLIX FILMLER",Çılgın Zengin Asyalılar (2018)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yumruk Dövüşü (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJdskGMrWGbfUDl7uTYRQEgUXdy.jpg" group-title="TR • NETFLIX FILMLER",Yumruk Dövüşü (2017)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kusursuz Arkadaş (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6guIbrI70MtDVVI2sMjanwHtXds.jpg" group-title="TR • NETFLIX FILMLER",Kusursuz Arkadaş (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kalp Gözler (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rw6jAlv0CphI8jvUPKmTYfqgTkB.jpg" group-title="TR • NETFLIX FILMLER",Kalp Gözler (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargıç (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Wi3rXQfuFnCoQI3Wydp0QFUVD0.jpg" group-title="TR • NETFLIX FILMLER",Yargıç (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gece Hayvanları (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2umznzlkKCtMarUWHUalMxa51H.jpg" group-title="TR • NETFLIX FILMLER",Gece Hayvanları (2016)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arkadaşlık (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg" group-title="TR • NETFLIX FILMLER",Arkadaşlık (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vay Kaynanam Vay (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V7Wgbrmp8AnUeN0kGPwZrXabj9.jpg" group-title="TR • NETFLIX FILMLER",Vay Kaynanam Vay (2005)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acemi Cinayet Masası (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQmR0YCQD1JzhCfln9jMfek2Tvf.jpg" group-title="TR • NETFLIX FILMLER",Acemi Cinayet Masası (2021)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drakula İstanbul'da (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPyAqB0GUtucE0R7Fhn5drj0A8K.jpg" group-title="TR • NETFLIX FILMLER",Drakula İstanbul'da (1953)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unabomber 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXbG3BjBlu79tIknvqOF5Pnkw1V.jpg" group-title="TR • NETFLIX FILMLER",Unabomber 2026
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mononoke the Movie: Chapter III - The Curse of the Serpent (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93zvlPMHQb3xoX40bNL8bck7O00.jpg" group-title="TR • NETFLIX FILMLER",Mononoke the Movie: Chapter III - The Curse of the Serpent (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Korkunç Dul: Ölüm Bizi Ayırana Dek (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSRhNT1FdLhYYYfQiSipzPt7hJA.jpg" group-title="TR • NETFLIX FILMLER",Korkunç Dul: Ölüm Bizi Ayırana Dek (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meteliksiz Zenginler (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esjo5jvukyvWiui8b1RDwFZUFqp.jpg" group-title="TR • NETFLIX FILMLER",Meteliksiz Zenginler (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322952.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFByFSLV5WDJEv3KabbdAF959F2.jpg" group-title="TR • SERİ FILMLER",Eternals (2021)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/310861.mkv
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg" group-title="TR • SERİ FILMLER",X-Men 2 (2003)
@@ -13813,6 +13938,14 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/282075.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/282076.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Recep İvedik (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heKqSDyQuVzPrQIuvY5mqC3oc6M.jpg" group-title="TR • SERİ FILMLER",Recep İvedik (2008)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/282077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHtOgGb3NihlyRATHlKPaFApbrd.jpg" group-title="TR • SERİ FILMLER",RoboCop (1987)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg" group-title="TR • SERİ FILMLER",RoboCop 2 (1990)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 3 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg" group-title="TR • SERİ FILMLER",RoboCop 3 (1993)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg" group-title="TR • SERİ FILMLER",RoboCop (2014)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adalet 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="TR • SERİ FILMLER",Adalet 2 (2018)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/171566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tron (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jigY9B6TKz4qlfikZcd18qtzTK4.jpg" group-title="TR • SERİ FILMLER",Tron (1982)
@@ -14497,6 +14630,12 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/303423.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/303489.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Küçük Amélie (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As1MI46u7yWuBhZ5AI41GdB867G.jpg" group-title="TR • TURKCELL PLUS FILMLER",Küçük Amélie (2025)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/303538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mother Mary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg" group-title="TR • TURKCELL PLUS FILMLER",Mother Mary (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neredeyse Yasal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwU7vA1oWnwht2iIyNKzAzgOuHS.jpg" group-title="TR • TURKCELL PLUS FILMLER",Neredeyse Yasal (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toz Yumağı (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEqwWUmHPt8UONpsZitWBRcD5d.jpg" group-title="TR • TURKCELL PLUS FILMLER",Toz Yumağı (2025)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322953.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fantastik Dörtlü: İlk Adımlar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNxvX3fxRLjGXsZJA2GcW5KfrBT.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Fantastik Dörtlü: İlk Adımlar (2025)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/278015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zoraki Tatil (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S9Db2hl8KwZu96caRgRXzipslf.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Zoraki Tatil (2025)
@@ -15067,6 +15206,22 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/310317.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317253.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man Kung Fu Efsanesi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QcHi4NdJi6FoXeU8DDmJAT71K0.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Ip Man Kung Fu Efsanesi (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bouchra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vphG0OWe7kL0P5xzQJiGNwKZ4EU.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Bouchra (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chris & Martina: The Final Set (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1v259q0lEWNyB2y78WUcvb55VnW.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Chris & Martina: The Final Set (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daha da Seksi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5vV3sCs35vRptRE6L7Eq2mxQz6.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Daha da Seksi (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kopma Noktası (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79noJGYD6VqUSmgK2tSvN36WH9Z.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Kopma Noktası (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kötülüğün Rengi: Siyah (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Kötülüğün Rengi: Siyah (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ölünü Göreyim (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqZLPus1vIZ9hgPd1BQ0lYMENd5.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Ölünü Göreyim (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panda Planı 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGpQnDKsOxkhhn8Q0D0KEkDWrvA.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Panda Planı 2 (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="They Fight (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg" group-title="TR • VIZYON YABANCI FILMLER ",They Fight (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322085.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Katili Yakalamak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEzDeHU3T1O7mPzHAP1gVVGWOfg.jpg" group-title="TR • VIZYON YABANCI FILMLER ",Katili Yakalamak (2023)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/180768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bölük Pörçük – Bir Tuncel Kurtiz Biyografisi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqYqg3DffPyZ5mfma8TEIWdzMoo.jpg" group-title="TR • VIZYON YERLI FILMLER ",Bölük Pörçük – Bir Tuncel Kurtiz Biyografisi (2025)
@@ -15255,6 +15410,12 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/312390.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kiralık Koca: Aşk mı, Oyun mu? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TNQw5UPsxPXF3dFxXOpw0IgLf3.jpg" group-title="TR • VIZYON YERLI FILMLER ",Kiralık Koca: Aşk mı, Oyun mu? (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/317422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dünyanın En Gizli Yahudi Topluluğu: Hasidikler" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDQRH6tknhNeUyt5vYPOh-_wLUnpiR0QgznZZ-xsWHA&s=10" group-title="TR • VIZYON YERLI FILMLER ",Dünyanın En Gizli Yahudi Topluluğu: Hasidikler
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Denize Doğru (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muSkhi7bCL02vcCOpAa4d5OFspt.jpg" group-title="TR • VIZYON YERLI FILMLER ",Denize Doğru (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sir-Ayet 4 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SGkeC2sVFw5J9mFew3ZJzxD7Wn.jpg" group-title="TR • VIZYON YERLI FILMLER ",Sir-Ayet 4 (2026)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/322205.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Düello (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF7PKbM4KpjF7e6KOUoluoz78fl.jpg" group-title="TR • WESTERN FILMLER",Düello (2016)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/245374.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3:10 Treni (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7FFviYQIRljgzdj728khf7wOVT.jpg" group-title="TR • WESTERN FILMLER",3:10 Treni (2007)
@@ -15931,6 +16092,10 @@ http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/316961.mkv
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/318545.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iki Tez Arasinda (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82w6cL5WmLG8KmVecsvZnO1dUTe.jpg" group-title="TR • YERLI FILMLER",Iki Tez Arasinda (2026)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/320416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toz Bezi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FasU8TRReYzx2IGRpmdER37x8P.jpg" group-title="TR • YERLI FILMLER",Toz Bezi (2015)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seni Bıraktığım Yerdeyim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S7ls4ZVlZJbumtYbRcQRW7AXgr.jpg" group-title="TR • YERLI FILMLER",Seni Bıraktığım Yerdeyim (2024)
+http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/321899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aşk Mevsimi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYus8GNVi8BYIubE5bsPkrz6u13.jpg" group-title="TR • YERLI FILMLER",Aşk Mevsimi (2024)
 http://hs.fixserver.xyz:8080/movie/emre1903/KwSUJXewURfix2/221446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Türkler Çıldırmış Olmalı 2: Mavi Vatan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFqqOnRC5wzlhpfBVzt41FdaPDH.jpg" group-title="TR • YERLI FILMLER",Türkler Çıldırmış Olmalı 2: Mavi Vatan (2024)
